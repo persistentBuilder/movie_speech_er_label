@@ -1,0 +1,12 @@
+/home/aryaman.g/projects/FER/video_shot_annotation/Movies/21_jump_street/21_Jump_Street-clips2/0031-21_Jump_Street.mp4_anger
+/home/aryaman.g/projects/FER/video_shot_annotation/Movies/21_jump_street/21_Jump_Street-clips2/0055-21_Jump_Street.mp4_joy
+/home/aryaman.g/projects/FER/video_shot_annotation/Movies/21_jump_street/21_Jump_Street-clips2/0074-21_Jump_Street.mp4_anger
+/home/aryaman.g/projects/FER/video_shot_annotation/Movies/21_jump_street/21_Jump_Street-clips2/0096-21_Jump_Street.mp4_anger
+/home/aryaman.g/projects/FER/video_shot_annotation/Movies/21_jump_street/21_Jump_Street-clips2/0164-21_Jump_Street.mp4_sadness
+/home/aryaman.g/projects/FER/video_shot_annotation/Movies/21_jump_street/21_Jump_Street-clips2/0291-21_Jump_Street.mp4_joy
+/home/aryaman.g/projects/FER/video_shot_annotation/Movies/21_jump_street/21_Jump_Street-clips2/0373-21_Jump_Street.mp4_joy
+/home/aryaman.g/projects/FER/video_shot_annotation/Movies/21_jump_street/21_Jump_Street-clips2/0515-21_Jump_Street.mp4_disgust
+/home/aryaman.g/projects/FER/video_shot_annotation/Movies/21_jump_street/21_Jump_Street-clips2/0604-21_Jump_Street.mp4_disgust
+/home/aryaman.g/projects/FER/video_shot_annotation/Movies/21_jump_street/21_Jump_Street-clips2/0689-21_Jump_Street.mp4_joy
+/home/aryaman.g/projects/FER/video_shot_annotation/Movies/21_jump_street/21_Jump_Street-clips2/0827-21_Jump_Street.mp4_anger
+/home/aryaman.g/projects/FER/video_shot_annotation/Movies/21_jump_street/21_Jump_Street-clips2/0906-21_Jump_Street.mp4_disgust

@@ -1,0 +1,1096 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Unnamed: 0.1.1.1,0,1,2,3,4,sentence
+0,0,0,0,0,11,look out your window now.,17,CAPTAIN'S VOICE,2,look out your window now.
+1,1,1,1,1,12,we have a great view of the rocky mountains.,17,CAPTAIN'S VOICE,3,we have a great view of the rocky mountains.
+2,2,2,2,2,13,"you keep staring at that watch as if your life depended on it, doctor.",19,ETHAN,3,"you keep staring at that watch as if your life depended on it, doctor."
+3,3,3,3,3,14,"oh, yes.",20,NEKHORVICH,3,"oh, yes."
+4,4,4,4,4,15,i suppose i'm a bit anxious.,21,NEKHORVICH,3,i suppose i'm a bit anxious.
+5,5,5,5,5,16,you'll soon be with old friends.,22,ETHAN,3,you'll soon be with old friends.
+6,6,6,6,6,17,"i'm with an old friend now, dmitri.",23,NEKHORVICH,3,"i'm with an old friend now, dmitri."
+7,7,7,7,7,18,i'm sorry it couldn't be under happier circumstances.,24,ETHAN,3,i'm sorry it couldn't be under happier circumstances.
+8,8,8,8,8,19,i'm sorry too.,25,ETHAN,3,i'm sorry too.
+9,9,9,9,9,20,"you are sorry, and i am sorry.",25,NEKHORVICH,3,"you are sorry, and i am sorry."
+10,10,10,10,10,21,you don't know gradski thought the world of you.,27,NEKHORVICH,3,you don't know gradski thought the world of you.
+11,11,11,11,11,22,did he... know...,29,ETHAN,3,did he... know...
+12,12,12,12,12,23,before the end that you two had succeeded,30,ETHAN,3,before the end that you two had succeeded
+13,13,13,13,13,24,"yes, he knew.",31,NEKHORVICH,3,"yes, he knew."
+14,14,14,14,14,25,just,31,NEKHORVICH,3,just
+15,15,15,15,15,26,not in time to save him.,32,ETHAN,3,not in time to save him.
+16,16,16,16,16,27,no.,32,NEKHORVICH,3,no.
+17,17,17,17,17,28,"after you've been infected with chimera for 20 hours, nothing can save you.",33,NEKHORVICH,3,"after you've been infected with chimera for 20 hours, nothing can save you."
+18,18,18,18,18,29,not even bellerophon.,34,NEKHORVICH,3,not even bellerophon.
+19,19,19,19,19,30,you can carry them together... safely,35,ETHAN,3,you can carry them together... safely
+20,20,20,20,20,31,yes.,36,NEKHORVICH,3,yes.
+21,21,21,21,21,32,"and you'll get us to safe place with them in atlanta, thank god.",37,NEKHORVICH,3,"and you'll get us to safe place with them in atlanta, thank god."
+22,22,22,22,22,33,this is your captain again.,39,CAPTAIN'S VOICE,3,this is your captain again.
+23,23,23,23,23,34,we've experienced a slight...,39,CAPTAIN'S VOICE,3,we've experienced a slight...
+24,24,24,24,24,35,but abrupt drop in cabin pressure.,41,CAPTAIN'S VOICE,3,but abrupt drop in cabin pressure.
+25,25,25,25,25,36,"as a precaution, i've released the oxygen masks.",41,CAPTAIN,4,"as a precaution, i've released the oxygen masks."
+26,26,26,26,26,37,"please put them on and sit back, relax.",43,CAPTAIN,4,"please put them on and sit back, relax."
+27,27,27,27,27,38,there's nothing to worry about.,44,CAPTAIN,4,there's nothing to worry about.
+28,28,28,28,28,39,are you concerned,45,NEKHORVICH,4,are you concerned
+29,29,29,29,29,40,not so far.,45,ETHAN,4,not so far.
+30,30,30,30,30,41,just put on your oxygen mask.,47,ETHAN,4,just put on your oxygen mask.
+31,31,31,31,31,42,i'll see what's going on.,47,ETHAN,4,i'll see what's going on.
+32,32,32,32,32,43,okay.,48,NEKHORVICH,4,okay.
+33,33,33,33,33,44,"denver center, this is transpac 2207, 747 heavy.",52,CAPTAIN,4,"denver center, this is transpac 2207, 747 heavy."
+34,34,34,34,34,45,we're unable to maintain cabin pressurization.,53,CAPTAIN,4,we're unable to maintain cabin pressurization.
+35,35,35,35,35,46,we've initiated a descent to one six thousand.,55,CAPTAIN,4,we've initiated a descent to one six thousand.
+36,36,36,36,36,47,captain,56,CO-PILOT,4,captain
+37,37,37,37,37,48,"it seems we have a problem, dmitri.",73,NEKHORVICH,6,"it seems we have a problem, dmitri."
+38,38,38,38,38,49,you keep calling me dmitri.,73,ETHAN,6,you keep calling me dmitri.
+39,39,39,39,39,50,you really shouldn't.,73,ETHAN,6,you really shouldn't.
+40,40,40,40,40,51,you are not dmitri,74,NEKHORVICH,6,you are not dmitri
+41,41,41,41,41,52,no.,84,ETHAN,6,no.
+42,42,42,42,42,53,"wallis, hold on to this.",84,ETHAN (cont'd),6,"wallis, hold on to this."
+43,43,43,43,43,54,"ulrich, remember to pull the",87,ETHAN (cont'd),6,"ulrich, remember to pull the"
+44,44,44,44,44,55,remember to pull the no2 tank and dump it.,90,AMBROSE,6,remember to pull the no2 tank and dump it.
+45,45,45,45,45,56,"all done, chief.",91,STAMP,6,"all done, chief."
+46,46,46,46,46,57,terrain.,93,VOICE,6,terrain.
+47,47,47,47,47,58,terrain.,93,VOICE,6,terrain.
+48,48,48,48,48,59,pull up.,93,VOICE,6,pull up.
+49,49,49,49,49,60,pull up.,93,VOICE,6,pull up.
+50,50,50,50,50,61,terrain.,95,VOICE,6,terrain.
+51,51,51,51,51,62,"okay, dive, dive",98,AMBROSE,6,"okay, dive, dive"
+52,52,52,52,52,63,"checkpoint charlie in three,",98,AMBROSE,6,"checkpoint charlie in three,"
+53,53,53,53,53,64,"two, one, go",100,AMBROSE,6,"two, one, go"
+54,54,54,54,54,65,terrain.,106,VOICE,7,terrain.
+55,55,55,55,55,66,terrain.,106,VOICE,7,terrain.
+56,56,56,56,56,67,pull up.,106,VOICE,7,pull up.
+57,57,57,57,57,68,pull up.,106,VOICE,7,pull up.
+58,58,58,58,58,69,terrain.,107,VOICE,7,terrain.
+59,59,59,59,59,70,terrain.,107,VOICE,7,terrain.
+60,60,60,60,60,71,pull up.,107,VOICE,7,pull up.
+61,61,61,61,61,72,pull up.,107,VOICE,7,pull up.
+62,62,62,62,62,73,terrain.,112,VOICE,7,terrain.
+63,63,63,63,63,74,terrain.,112,VOICE,7,terrain.
+64,64,64,64,64,75,pull up.,112,VOICE,7,pull up.
+65,65,65,65,65,76,pull up.,112,VOICE,7,pull up.
+66,66,66,66,66,77,"good morning, mr. hunt.",160,SWANBECK,9,"good morning, mr. hunt."
+67,67,67,67,67,78,"your mission, should you choose to accept it,",160,SWANBECK'S VOICE,9,"your mission, should you choose to accept it,"
+68,68,68,68,68,79,involves the recovery of a stolen item designated ''chimera. '',161,SWANBECK'S VOICE,9,involves the recovery of a stolen item designated ''chimera. ''
+69,69,69,69,69,80,"you may select any two team members,",162,SWANBECK'S VOICE,9,"you may select any two team members,"
+70,70,70,70,70,81,but it is essential that the third team member be nyah nordoffhall.,163,SWANBECK'S VOICE,9,but it is essential that the third team member be nyah nordoffhall.
+71,71,71,71,71,82,she is a civilian and a highly capable professional thief.,164,SWANBECK'S VOICE,9,she is a civilian and a highly capable professional thief.
+72,72,72,72,72,83,you have 48 hours to recruit miss nordoffhall...,166,SWANBECK'S VOICE (cont'd),9,you have 48 hours to recruit miss nordoffhall...
+73,73,73,73,73,84,and meet me in seville to receive your assignment.,167,SWANBECK'S VOICE (cont'd),9,and meet me in seville to receive your assignment.
+74,74,74,74,74,85,"as always, should you or any member of your imf team be caught or killed,",167,SWANBECK'S VOICE (cont'd),9,"as always, should you or any member of your imf team be caught or killed,"
+75,75,75,75,75,86,the secretary will disavow all knowledge of your actions.,167,SWANBECK'S VOICE (cont'd),9,the secretary will disavow all knowledge of your actions.
+76,76,76,76,76,87,"and, mr. hunt, the next time you go on holiday,",167,SWANBECK'S VOICE (cont'd),9,"and, mr. hunt, the next time you go on holiday,"
+77,77,77,77,77,88,please be good enough to let us know where you're going.,167,SWANBECK'S VOICE (cont'd),9,please be good enough to let us know where you're going.
+78,78,78,78,78,89,this message will selfdestruct in five seconds.,168,SWANBECK'S VOICE (cont'd),9,this message will selfdestruct in five seconds.
+79,79,79,79,79,90,if i let you know where i'm going...,169,ETHAN,9,if i let you know where i'm going...
+80,80,80,80,80,91,then i won't be on holiday.,169,ETHAN (cont'd),9,then i won't be on holiday.
+81,81,81,81,81,92,i see you found it.,270,ETHAN,11,i see you found it.
+82,82,82,82,82,93,what are you doing here,272,NYAH,11,what are you doing here
+83,83,83,83,83,94,think you're the only one who can pick a lock,273,ETHAN,11,think you're the only one who can pick a lock
+84,84,84,84,84,95,huh.,274,NYAH,11,huh.
+85,85,85,85,85,96,you're not just a pretty face after all.,274,NYAH,13,you're not just a pretty face after all.
+86,86,86,86,86,97,do you mind if i'm on top,278,NYAH (cont'd),13,do you mind if i'm on top
+87,87,87,87,87,98,no.,278,ETHAN,13,no.
+88,88,88,88,88,99,either way works for me.,278,ETHAN,13,either way works for me.
+89,89,89,89,89,100, you'll never find it there.,287,ETHAN'S VOICE,13, you'll never find it there.
+90,90,90,90,90,101, damn it,287,NYAH,13, damn it
+91,91,91,91,91,102,find what,288,NYAH,13,find what
+92,92,92,92,92,103,his ex's bulgari necklace that goes up for auction on tuesday.,288,ETHAN,13,his ex's bulgari necklace that goes up for auction on tuesday.
+93,93,93,93,93,104,and are you gonna tell me where it is,289,NYAH,13,and are you gonna tell me where it is
+94,94,94,94,94,105,far left.,291,ETHAN,13,far left.
+95,95,95,95,95,106,this is very disconcerting.,296,NYAH,13,this is very disconcerting.
+96,96,96,96,96,107,"hey, you put me here.",297,ETHAN,13,"hey, you put me here."
+97,97,97,97,97,108,i just do as i'm told.,297,ETHAN,13,i just do as i'm told.
+98,98,98,98,98,109,right.,299,NYAH,13,right.
+99,99,99,99,99,110,hmm,307,NYAH (cont'd),13,hmm
+100,100,100,100,100,111,"now, who are you, and what's it gonna cost me",310,NYAH (cont'd),13,"now, who are you, and what's it gonna cost me"
+101,101,101,101,101,112, i wouldn't do that.,312,ETHAN,13, i wouldn't do that.
+102,102,102,102,102,113, what,312,NYAH,13, what
+103,103,103,103,103,114,that.,315,ETHAN,13,that.
+104,104,104,104,104,115,"no, no, no.",324,NYAH,13,"no, no, no."
+105,105,105,105,105,116,tranquilo.,324,ETHAN,13,tranquilo.
+106,106,106,106,106,117,tranquilo.,324,ETHAN,13,tranquilo.
+107,107,107,107,107,118,"mr. keys, it is you.",326,SENOR DE L'ARENA,13,"mr. keys, it is you."
+108,108,108,108,108,119,"it is mr. keys, our security engineer.",328,SENOR DE L'ARENA,13,"it is mr. keys, our security engineer."
+109,109,109,109,109,120,apologize,328,SENOR DE L'ARENA,13,apologize
+110,110,110,110,110,121,"no, no.",329,ETHAN,13,"no, no."
+111,111,111,111,111,122,no need to apologize.,329,ETHAN,13,no need to apologize.
+112,112,112,112,112,123,"now, miss hall, my associate has your necklace in a very safe place.",329,ETHAN,13,"now, miss hall, my associate has your necklace in a very safe place."
+113,113,113,113,113,124,but obviously we do feel the alarm should have gone off a little sooner.,329,ETHAN,13,but obviously we do feel the alarm should have gone off a little sooner.
+114,114,114,114,114,125," isn't that right, miss hall",331,ETHAN,13," isn't that right, miss hall"
+115,115,115,115,115,126, hmm,331,NYAH,13, hmm
+116,116,116,116,116,127,"oh, absolutely.",331,NYAH,13,"oh, absolutely."
+117,117,117,117,117,128,"much, much too long, i'd say.",331,NYAH,13,"much, much too long, i'd say."
+118,118,118,118,118,129,"under the circumstances, i think we'd recommend...",332,ETHAN,13,"under the circumstances, i think we'd recommend..."
+119,119,119,119,119,130,resetting the sensors to respond to a lighter load.,332,ETHAN,13,resetting the sensors to respond to a lighter load.
+120,120,120,120,120,131,"how do you feel about 40 kilos, miss hall",334,ETHAN,13,"how do you feel about 40 kilos, miss hall"
+121,121,121,121,121,132,perfect.,335,NYAH,13,perfect.
+122,122,122,122,122,133,shall we,335,ETHAN,13,shall we
+123,123,123,123,123,134, miss hall.,338,ETHAN (cont'd),13, miss hall.
+124,124,124,124,124,135, hmm,338,NYAH,13, hmm
+125,125,125,125,125,136,haven't you forgotten something,338,ETHAN (cont'd),13,haven't you forgotten something
+126,126,126,126,126,137,"what are you trying to do, seorita",341,SENOR DE L'ARENA,13,"what are you trying to do, seorita"
+127,127,127,127,127,138,rob me,341,SENOR DE L'ARENA,13,rob me
+128,128,128,128,128,139,the thought had crossed my mind.,342,NYAH,13,the thought had crossed my mind.
+129,129,129,129,129,140,"i'm missing something here, aside from my halfmillionpound necklace.",343,NYAH,14,"i'm missing something here, aside from my halfmillionpound necklace."
+130,130,130,130,130,141,"even after i screwed up the job,",343,NYAH,14,"even after i screwed up the job,"
+131,131,131,131,131,142,i could've walked out of there with the bloody thing.,343,NYAH,14,i could've walked out of there with the bloody thing.
+132,132,132,132,132,143,at least you walked.,344,ETHAN,14,at least you walked.
+133,133,133,133,133,144,why did you watch me go through it all,344,NYAH,14,why did you watch me go through it all
+134,134,134,134,134,145,i wanted to see how good you were.,345,ETHAN,14,i wanted to see how good you were.
+135,135,135,135,135,146,i was hoping we might work together.,345,ETHAN,14,i was hoping we might work together.
+136,136,136,136,136,147,sounds terrific.,347,NYAH,14,sounds terrific.
+137,137,137,137,137,148,muchacho.,347,NYAH,14,muchacho.
+138,138,138,138,138,149,now be serious.,349,NYAH,14,now be serious.
+139,139,139,139,139,150,"whatever you're talking about,",349,NYAH,14,"whatever you're talking about,"
+140,140,140,140,140,151,you couldn't possibly want me after tonight's performance.,349,NYAH,14,you couldn't possibly want me after tonight's performance.
+141,141,141,141,141,152, you didn't do that badly.,351,ETHAN,14, you didn't do that badly.
+142,142,142,142,142,153, you apologizing for me,351,NYAH,14, you apologizing for me
+143,143,143,143,143,154,quite the gentleman.,352,NYAH,14,quite the gentleman.
+144,144,144,144,144,155,gracias.,352,NYAH,14,gracias.
+145,145,145,145,145,156,not really.,354,ETHAN,14,not really.
+146,146,146,146,146,157,i triggered the alarm.,354,ETHAN,14,i triggered the alarm.
+147,147,147,147,147,158,sorry.,355,ETHAN,14,sorry.
+148,148,148,148,148,159,"i don't do laundry, cook, or put up with cheeky bastards",357,NYAH,14,"i don't do laundry, cook, or put up with cheeky bastards"
+149,149,149,149,149,160,who set me up on their territory so they can poach on mine.,357,NYAH,14,who set me up on their territory so they can poach on mine.
+150,150,150,150,150,161,hola.,364,NYAH,14,hola.
+151,151,151,151,151,162,hi.,364,ETHAN,14,hi.
+152,152,152,152,152,163,would you mind slowing down,364,ETHAN,14,would you mind slowing down
+153,153,153,153,153,164,where did you get this number,364,NYAH,14,where did you get this number
+154,154,154,154,154,165,i don't even have it.,364,NYAH,14,i don't even have it.
+155,155,155,155,155,166,would you like it,367,ETHAN' VOICE,14,would you like it
+156,156,156,156,156,167,"pull over and listen to me, will you",376,ETHAN,14,"pull over and listen to me, will you"
+157,157,157,157,157,168,just listen.,376,ETHAN,14,just listen.
+158,158,158,158,158,169, listen to what,378,NYAH,14, listen to what
+159,159,159,159,159,170, i need your help.,378,ETHAN,14, i need your help.
+160,160,160,160,160,171, and i think you could use mine.,380,ETHAN,14, and i think you could use mine.
+161,161,161,161,161,172, your help,380,NYAH,14, your help
+162,162,162,162,162,173, what are you talking about,381,NYAH,14, what are you talking about
+163,163,163,163,163,174," i'm talking about scotland yard,",381,NYAH,14," i'm talking about scotland yard,"
+164,164,164,164,164,175,"interpol, every dutch authority.",382,ETHAN,14,"interpol, every dutch authority."
+165,165,165,165,165,176, i can make them all go away.,386,ETHAN,14, i can make them all go away.
+166,166,166,166,166,177," oh, bloody hell.",386,NYAH,14," oh, bloody hell."
+167,167,167,167,167,178,you're a spy,389,NYAH,14,you're a spy
+168,168,168,168,168,179,"well, if you want me,",389,NYAH,14,"well, if you want me,"
+169,169,169,169,169,180,you've gotta catch me,390,NYAH,14,you've gotta catch me
+170,170,170,170,170,181,whoa,393,ETHAN,14,whoa
+171,171,171,171,171,182,you having fun,407,ETHAN,14,you having fun
+172,172,172,172,172,183,sorry.,420,ETHAN,14,sorry.
+173,173,173,173,173,184,idiota.,426,DRIVER,14,idiota.
+174,174,174,174,174,185,sorry.,426,ETHAN,14,sorry.
+175,175,175,175,175,186,watch the road.,429,ETHAN,14,watch the road.
+176,176,176,176,176,187,watch the road.,429,ETHAN,14,watch the road.
+177,177,177,177,177,188,what's your name,470,NYAH,14,what's your name
+178,178,178,178,178,189,ethan hunt.,470,ETHAN,14,ethan hunt.
+179,179,179,179,179,190,"well, ethan hunt,",471,ETHAN,14,"well, ethan hunt,"
+180,180,180,180,180,191,what is it you want to talk to me about,471,NYAH,14,what is it you want to talk to me about
+181,181,181,181,181,192,a lot more than i thought.,473,ETHAN,14,a lot more than i thought.
+182,182,182,182,182,193,awfully short notice.,474,NYAH,14,awfully short notice.
+183,183,183,183,183,194,care to wait a decent interval,475,ETHAN,14,care to wait a decent interval
+184,184,184,184,184,195,who wants to be decent,476,NYAH,14,who wants to be decent
+185,185,185,185,185,196,so what have you got against spies,484,ETHAN,15,so what have you got against spies
+186,186,186,186,186,197,when they've got your recruiting technique,485,NYAH,15,when they've got your recruiting technique
+187,187,187,187,187,198,this wasn't exactly by the book.,486,ETHAN,15,this wasn't exactly by the book.
+188,188,188,188,188,199,they've got a book for this,487,ETHAN,15,they've got a book for this
+189,189,189,189,189,200,"oh, they've got a book for everything.",488,ETHAN,15,"oh, they've got a book for everything."
+190,190,190,190,190,201,"so, this thing these blokes pinched",489,NYAH,15,"so, this thing these blokes pinched"
+191,191,191,191,191,202,i don't know that they pinched it.,490,NYAH (cont'd),15,i don't know that they pinched it.
+192,192,192,192,192,203,i don't even know that they're blokes.,490,ETHAN,15,i don't even know that they're blokes.
+193,193,193,193,193,204,what am i doing here,492,NYAH,15,what am i doing here
+194,194,194,194,194,205,and i thought i'm supposed to be...,492,NYAH,15,and i thought i'm supposed to be...
+195,195,195,195,195,206,some kind of thief to catch a thief.,492,NYAH,15,some kind of thief to catch a thief.
+196,196,196,196,196,207,so do i... sort of.,493,ETHAN,15,so do i... sort of.
+197,197,197,197,197,208,"damn, you're beautiful.",497,ETHAN,15,"damn, you're beautiful."
+198,198,198,198,198,209,espresso,513,SWANBECK,17,espresso
+199,199,199,199,199,210,cappuccino,513,SWANBECK,17,cappuccino
+200,200,200,200,200,211," no, thanks.",514,ETHAN,17," no, thanks."
+201,201,201,201,201,212, sit down.,514,ETHAN,17, sit down.
+202,202,202,202,202,213,sit down.,514,SWANBECK,17,sit down.
+203,203,203,203,203,214,festival's a pain in the ass.,516,SWANBECK,17,festival's a pain in the ass.
+204,204,204,204,204,215,honoring their saints by setting them on fire.,517,SWANBECK,17,honoring their saints by setting them on fire.
+205,205,205,205,205,216,"lets you know what they think of saints, doesn't it",519,SWANBECK (cont'd),17,"lets you know what they think of saints, doesn't it"
+206,206,206,206,206,217,damn near set me on fire on my way over here.,521,SWANBECK (cont'd),17,damn near set me on fire on my way over here.
+207,207,207,207,207,218,sorry i barged in on your vacation.,521,SWANBECK (cont'd),17,sorry i barged in on your vacation.
+208,208,208,208,208,219,i'm sorry i didn't let you know where i was.,522,ETHAN,17,i'm sorry i didn't let you know where i was.
+209,209,209,209,209,220,don't be.,523,SWANBECK,17,don't be.
+210,210,210,210,210,221,it wouldn't be a vacation if you did.,523,SWANBECK,17,it wouldn't be a vacation if you did.
+211,211,211,211,211,222,"you're sorry, and i'm sorry.",524,ETHAN,17,"you're sorry, and i'm sorry."
+212,212,212,212,212,223,why did you phrase it like that,525,SWANBECK,17,why did you phrase it like that
+213,213,213,213,213,224, like what,526,ETHAN,17, like what
+214,214,214,214,214,225, ''you're sorry i'm sorry.'',526,SWANBECK,17, ''you're sorry i'm sorry.''
+215,215,215,215,215,226,you've gotta be kidding.,527,ETHAN,17,you've gotta be kidding.
+216,216,216,216,216,227,"well, dmitri, once again i need your help.",531,NEKHORVICH,17,"well, dmitri, once again i need your help."
+217,217,217,217,217,228,"just as in the old days, huh",532,NEKHORVICH,17,"just as in the old days, huh"
+218,218,218,218,218,229,"when you saved our lives, saved our very sanity.",532,NEKHORVICH,17,"when you saved our lives, saved our very sanity."
+219,219,219,219,219,230,dmitri...,534,NEKHORVICH,17,dmitri...
+220,220,220,220,220,231,we have this little problem.,534,NEKHORVICH,17,we have this little problem.
+221,221,221,221,221,232,every search for a hero...,534,NEKHORVICH,17,every search for a hero...
+222,222,222,222,222,233,must begin with something that every hero requires,534,NEKHORVICH,17,must begin with something that every hero requires
+223,223,223,223,223,234,a villain.,535,NEKHORVICH,17,a villain.
+224,224,224,224,224,235,"therefore, in the search for our hero, bellerophon,",535,NEKHORVICH,17,"therefore, in the search for our hero, bellerophon,"
+225,225,225,225,225,236,"we created a monster, chimera.",535,NEKHORVICH,17,"we created a monster, chimera."
+226,226,226,226,226,237,"i beg you, dmitri,",536,NEKHORVICH,17,"i beg you, dmitri,"
+227,227,227,227,227,238,come to sydney and accompany me to atlanta immediately.,536,NEKHORVICH,17,come to sydney and accompany me to atlanta immediately.
+228,228,228,228,228,239,"however we travel, i must arrive at my destination...",537,NEKHORVICH,17,"however we travel, i must arrive at my destination..."
+229,229,229,229,229,240,within 20 hours of departure.,538,NEKHORVICH,17,within 20 hours of departure.
+230,230,230,230,230,241,i fear i can entrust this to no one but you.,539,NEKHORVICH,17,i fear i can entrust this to no one but you.
+231,231,231,231,231,242,"dmitri, as we say, i'm sorry and you're sorry.",540,NEKHORVICH,17,"dmitri, as we say, i'm sorry and you're sorry."
+232,232,232,232,232,243,do you have any idea what the hell he's talking about,541,SWANBECK,17,do you have any idea what the hell he's talking about
+233,233,233,233,233,244, an idea,542,ETHAN,17, an idea
+234,234,234,234,234,245,yeah.,542,ETHAN,17,yeah.
+235,235,235,235,235,246, like,542,SWANBECK,17, like
+236,236,236,236,236,247,like it's a good idea to pick him up in a hurry...,543,ETHAN,17,like it's a good idea to pick him up in a hurry...
+237,237,237,237,237,248,and a bad idea to fly him on a commercial carrier.,544,ETHAN,17,and a bad idea to fly him on a commercial carrier.
+238,238,238,238,238,249,is he still in sydney,545,ETHAN,17,is he still in sydney
+239,239,239,239,239,250,dr. vladimir nekhovich is dead.,545,SWANBECK,17,dr. vladimir nekhovich is dead.
+240,240,240,240,240,251,"so is his colleague gradski, but that happened earlier.",546,SWANBECK,17,"so is his colleague gradski, but that happened earlier."
+241,241,241,241,241,252,we had nekhovich on a flight from sydney that crashed in the rockies.,547,SWANBECK,17,we had nekhovich on a flight from sydney that crashed in the rockies.
+242,242,242,242,242,253, dead,549,ETHAN,17, dead
+243,243,243,243,243,254, are you listening to me,549,SWANBECK (cont'd),17, are you listening to me
+244,244,244,244,244,255,"if he didn't want to go anywhere without me,",550,ETHAN,17,"if he didn't want to go anywhere without me,"
+245,245,245,245,245,256,how did you get him on that flight,550,ETHAN,17,how did you get him on that flight
+246,246,246,246,246,257,"oh, you were there.",551,SWANBECK,17,"oh, you were there."
+247,247,247,247,247,258,"when i couldn't find you, i had to replace you.",552,SWANBECK,17,"when i couldn't find you, i had to replace you."
+248,248,248,248,248,259,sean ambrose was the obvious choice.,553,SWANBECK,17,sean ambrose was the obvious choice.
+249,249,249,249,249,260,"now, he doubled you, what, two or three times",554,SWANBECK,17,"now, he doubled you, what, two or three times"
+250,250,250,250,250,261, twice.,555,ETHAN,17, twice.
+251,251,251,251,251,262, what did you think of him,555,SWANBECK,17, what did you think of him
+252,252,252,252,252,263,we had our reservations about each other.,557,ETHAN,17,we had our reservations about each other.
+253,253,253,253,253,264,isn't it a little late to be asking me that,558,ETHAN,17,isn't it a little late to be asking me that
+254,254,254,254,254,265,"no, not necessarily.",560,SWANBECK,17,"no, not necessarily."
+255,255,255,255,255,266,airline records...,560,SWANBECK,17,airline records...
+256,256,256,256,256,267,list a captain harold macintosh as the pilot of flight 2207.,560,SWANBECK,17,list a captain harold macintosh as the pilot of flight 2207.
+257,257,257,257,257,268,"as far as the media and all government agencies are concerned,",561,SWANBECK,17,"as far as the media and all government agencies are concerned,"
+258,258,258,258,258,269,captain macintosh died on the flight.,561,SWANBECK,17,captain macintosh died on the flight.
+259,259,259,259,259,270,"but, in fact, he missed it.",562,SWANBECK,17,"but, in fact, he missed it."
+260,260,260,260,260,271,"he did, however, make the next flight...",564,SWANBECK,17,"he did, however, make the next flight..."
+261,261,261,261,261,272,in cargo.,565,SWANBECK,17,in cargo.
+262,262,262,262,262,273,"stuffed into a rather small suitcase, considering his size.",565,SWANBECK,17,"stuffed into a rather small suitcase, considering his size."
+263,263,263,263,263,274,"now, someone on that flight planned an operation...",566,SWANBECK (cont'd),17,"now, someone on that flight planned an operation..."
+264,264,264,264,264,275,designed to bring the plane down and make it look like an accident.,568,SWANBECK (cont'd),17,designed to bring the plane down and make it look like an accident.
+265,265,265,265,265,276,someone skillful enough to bring the whole thing off without a hitch.,568,SWANBECK (cont'd),17,someone skillful enough to bring the whole thing off without a hitch.
+266,266,266,266,266,277,so there's one thing we know that ambrose doesn't.,572,ETHAN,17,so there's one thing we know that ambrose doesn't.
+267,267,267,267,267,278,you do think it was ambrose,574,SWANBECK,17,you do think it was ambrose
+268,268,268,268,268,279,you're not surprised,574,SWANBECK (cont'd),17,you're not surprised
+269,269,269,269,269,280,sean feels he hasn't done the job unless he leaves a lot of hats on the ground.,574,ETHAN,17,sean feels he hasn't done the job unless he leaves a lot of hats on the ground.
+270,270,270,270,270,281,the question is why,575,SWANBECK,17,the question is why
+271,271,271,271,271,282,"what was this, uh, chimera, nekhovich was carrying",575,SWANBECK,17,"what was this, uh, chimera, nekhovich was carrying"
+272,272,272,272,272,283,only ambrose knows that.,575,ETHAN,17,only ambrose knows that.
+273,273,273,273,273,284,"in any case, you must recover this whatever chimera, and bring it to us.",577,SWANBECK,17,"in any case, you must recover this whatever chimera, and bring it to us."
+274,274,274,274,274,285,"in order to do that, i have to figure out how he plans to make money with it.",578,ETHAN,17,"in order to do that, i have to figure out how he plans to make money with it."
+275,275,275,275,275,286,that is where miss hall comes in.,579,SWANBECK,17,that is where miss hall comes in.
+276,276,276,276,276,287,excuse me,583,ETHAN,17,excuse me
+277,277,277,277,277,288,miss hall and ambrose had a relationship...,583,SWANBECK,17,miss hall and ambrose had a relationship...
+278,278,278,278,278,289,which he took very seriously.,583,SWANBECK,17,which he took very seriously.
+279,279,279,279,279,290,"she walked away, and he's been wanting her back ever since.",583,SWANBECK,17,"she walked away, and he's been wanting her back ever since."
+280,280,280,280,280,291,we believe she's our surest and quickest way of locating him.,583,SWANBECK,17,we believe she's our surest and quickest way of locating him.
+281,281,281,281,281,292,and then what,584,ETHAN,17,and then what
+282,282,282,282,282,293,"well, make sure she continues to see him,",585,SWANBECK,17,"well, make sure she continues to see him,"
+283,283,283,283,283,294,"gets him to confide in her, and report to you.",585,SWANBECK,17,"gets him to confide in her, and report to you."
+284,284,284,284,284,295,you made it sound as if i was recruiting her for her skills as a thief.,589,ETHAN,17,you made it sound as if i was recruiting her for her skills as a thief.
+285,285,285,285,285,296,"well, then i misled you, or you made the wrong assumption.",590,SWANBECK,17,"well, then i misled you, or you made the wrong assumption."
+286,286,286,286,286,297,"either way, we're asking her to resume a prior relationship,",590,SWANBECK,17,"either way, we're asking her to resume a prior relationship,"
+287,287,287,287,287,298,not do anything she hasn't already done.,590,SWANBECK,17,not do anything she hasn't already done.
+288,288,288,288,288,299,"voluntarily, i might add.",591,SWANBECK,17,"voluntarily, i might add."
+289,289,289,289,289,300,"no, she's got no training for this kind of thing.",591,ETHAN,17,"no, she's got no training for this kind of thing."
+290,290,290,290,290,301,"what, to go to bed with a man and lie to him",592,SWANBECK,17,"what, to go to bed with a man and lie to him"
+291,291,291,291,291,302,she's a woman.,592,SWANBECK,17,she's a woman.
+292,292,292,292,292,303,she's got all the training she needs.,593,SWANBECK,17,she's got all the training she needs.
+293,293,293,293,293,304,i don't think i can get her to do it.,595,ETHAN,17,i don't think i can get her to do it.
+294,294,294,294,294,305, you mean it'll be difficult.,597,SWANBECK,17, you mean it'll be difficult.
+295,295,295,295,295,306, very.,597,ETHAN,17, very.
+296,296,296,296,296,307,"well, this is not mission difficult, mr. hunt, it's mission impossible.",598,SWANBECK,17,"well, this is not mission difficult, mr. hunt, it's mission impossible."
+297,297,297,297,297,308,difficult should be a walk in the park for you.,598,SWANBECK,17,difficult should be a walk in the park for you.
+298,298,298,298,298,309,i'm open to suggestion.,599,SWANBECK,17,i'm open to suggestion.
+299,299,299,299,299,310,"if you can think of a quicker way, you're welcome to try.",600,SWANBECK,17,"if you can think of a quicker way, you're welcome to try."
+300,300,300,300,300,311,you might take a look at these...,601,SWANBECK,17,you might take a look at these...
+301,301,301,301,301,312,if you have any further qualms about getting her to do the job.,602,SWANBECK,17,if you have any further qualms about getting her to do the job.
+302,302,302,302,302,313,how many people are capable of something like that,618,NYAH,18,how many people are capable of something like that
+303,303,303,303,303,314,"sean ambrose, for one.",620,ETHAN,18,"sean ambrose, for one."
+304,304,304,304,304,315,right.,621,NYAH,18,right.
+305,305,305,305,305,316,"this wasn't what i had in mind, nyah.",625,ETHAN,19,"this wasn't what i had in mind, nyah."
+306,306,306,306,306,317,but it is what you'd like me to do.,625,ETHAN,19,but it is what you'd like me to do.
+307,307,307,307,307,318,what,627,NYAH,19,what
+308,308,308,308,308,319,"oh, let my conscience be my guide, is that it",627,NYAH,19,"oh, let my conscience be my guide, is that it"
+309,309,309,309,309,320,something like that.,628,ETHAN,19,something like that.
+310,310,310,310,310,321,i don't have a conscience.,629,NYAH,19,i don't have a conscience.
+311,311,311,311,311,322,i'm a bloody thief.,629,NYAH,19,i'm a bloody thief.
+312,312,312,312,312,323,are you gonna try and force me to do this,631,NYAH,19,are you gonna try and force me to do this
+313,313,313,313,313,324,"generally, i don't favor coercing someone,",632,ETHAN,19,"generally, i don't favor coercing someone,"
+314,314,314,314,314,325,not when there's a chance my life could end up in their hands.,632,ETHAN,19,not when there's a chance my life could end up in their hands.
+315,315,315,315,315,326, is that the only reason,634,NYAH,19, is that the only reason
+316,316,316,316,316,327, can you think of a better one,634,ETHAN,19, can you think of a better one
+317,317,317,317,317,328,me,635,NYAH,19,me
+318,318,318,318,318,329,no.,635,NYAH,19,no.
+319,319,319,319,319,330,"but i was just hoping that you might,",635,NYAH,19,"but i was just hoping that you might,"
+320,320,320,320,320,331,"thinking that somewhere, this got personal as well as physical",635,NYAH,19,"thinking that somewhere, this got personal as well as physical"
+321,321,321,321,321,332,would it make you feel any better if i didn't want you to do this,636,ETHAN,19,would it make you feel any better if i didn't want you to do this
+322,322,322,322,322,333," yeah, much.",638,NYAH,19," yeah, much."
+323,323,323,323,323,334, then feel better,638,ETHAN,19, then feel better
+324,324,324,324,324,335,"you know, sean will never be anything but suspicious...",645,NYAH,19,"you know, sean will never be anything but suspicious..."
+325,325,325,325,325,336,"if i pitch up saying, ''hey, honey, i'm home. ''",645,NYAH,19,"if i pitch up saying, ''hey, honey, i'm home. ''"
+326,326,326,326,326,337,what wouldn't make him suspicious,645,ETHAN,19,what wouldn't make him suspicious
+327,327,327,327,327,338,that i needed him in some urgent way.,646,NYAH,19,that i needed him in some urgent way.
+328,328,328,328,328,339,destitute.,648,NYAH,19,destitute.
+329,329,329,329,329,340,in serious trouble.,648,NYAH,19,in serious trouble.
+330,330,330,330,330,341,the kind i couldn't possibly sort out myself.,648,NYAH,19,the kind i couldn't possibly sort out myself.
+331,331,331,331,331,342,"serious trouble, nyah, is something that i can always arrange.",649,ETHAN'S VOICE,19,"serious trouble, nyah, is something that i can always arrange."
+332,332,332,332,332,343,this transponder chip is completely untraceable.,653,ETHAN,19,this transponder chip is completely untraceable.
+333,333,333,333,333,344,it transmits your location to a satellite...,656,ETHAN,19,it transmits your location to a satellite...
+334,334,334,334,334,345,which can be read by only this computer.,657,ETHAN,19,which can be read by only this computer.
+335,335,335,335,335,346,we can then track you to within three feet.,658,ETHAN,19,we can then track you to within three feet.
+336,336,336,336,336,347,anywhere.,659,ETHAN,19,anywhere.
+337,337,337,337,337,348,"since your arrest, i've been sending news bulletins...",659,ETHAN,19,"since your arrest, i've been sending news bulletins..."
+338,338,338,338,338,349,to every law enforcement agency.,660,ETHAN,19,to every law enforcement agency.
+339,339,339,339,339,350,"i know sean ambrose,",662,ETHAN,19,"i know sean ambrose,"
+340,340,340,340,340,351,"and i guarantee that after that airline crash,",664,ETHAN,19,"and i guarantee that after that airline crash,"
+341,341,341,341,341,352,he's monitoring everyone of them.,666,ETHAN,19,he's monitoring everyone of them.
+342,342,342,342,342,353,he knows you're there.,667,ETHAN,19,he knows you're there.
+343,343,343,343,343,354,and he has the means to get you out.,669,ETHAN,19,and he has the means to get you out.
+344,344,344,344,344,355,nyah...,670,ETHAN,19,nyah...
+345,345,345,345,345,356,nyah...,671,ETHAN,19,nyah...
+346,346,346,346,346,357,i'm not gonna lose you.,671,ETHAN,19,i'm not gonna lose you.
+347,347,347,347,347,358,ethan hunt,700,BILLY,22,ethan hunt
+348,348,348,348,348,359,"g'day, mate.",700,BILLY,22,"g'day, mate."
+349,349,349,349,349,360,i'm william baird.,700,BILLY,22,i'm william baird.
+350,350,350,350,350,361,billy's okay.,700,BILLY,22,billy's okay.
+351,351,351,351,351,362,"anything you need me to get, move or watch, just let me know.",701,BILLY,22,"anything you need me to get, move or watch, just let me know."
+352,352,352,352,352,363,i'll have a look around.,702,BILLY,22,i'll have a look around.
+353,353,353,353,353,364, shit.,706,LUTHER,22, shit.
+354,354,354,354,354,365," yes, it is.",706,ETHAN,22," yes, it is."
+355,355,355,355,355,366,this ain't funny.,708,LUTHER,22,this ain't funny.
+356,356,356,356,356,367,"i just bought these 800 gucci shoes,",709,LUTHER,22,"i just bought these 800 gucci shoes,"
+357,357,357,357,357,368,and you got me in a helicopter with this man,710,LUTHER,22,and you got me in a helicopter with this man
+358,358,358,358,358,369,computer's up.,718,ETHAN,27,computer's up.
+359,359,359,359,359,370,we got her.,718,ETHAN'S VOICE,27,we got her.
+360,360,360,360,360,371,let's put in the coordinates and get a visual.,719,ETHAN,27,let's put in the coordinates and get a visual.
+361,361,361,361,361,372,visuals aren't coming up.,727,ETHAN,27,visuals aren't coming up.
+362,362,362,362,362,373,the satellite doesn't work as fast as i do.,728,LUTHER,27,the satellite doesn't work as fast as i do.
+363,363,363,363,363,374,"yeah, i heard about you, luther.",730,BILLY,27,"yeah, i heard about you, luther."
+364,364,364,364,364,375,just wanna say it's an honor...,730,BILLY,27,just wanna say it's an honor...
+365,365,365,365,365,376,and a pleasure to be working with you blokes.,731,BILLY,227,and a pleasure to be working with you blokes.
+366,366,366,366,366,377,come on.,735,ETHAN,27,come on.
+367,367,367,367,367,378,isn't there any way we can speed this up,735,ETHAN,27,isn't there any way we can speed this up
+368,368,368,368,368,379,with what,737,LUTHER,27,with what
+369,369,369,369,369,380,this is the only computer that'll do this.,737,LUTHER,27,this is the only computer that'll do this.
+370,370,370,370,370,381,ohhh,740,BILLY,27,ohhh
+371,371,371,371,371,382,"ethan, here we go.",760,LUTHER,27,"ethan, here we go."
+372,372,372,372,372,383,aye.,763,BILLY,27,aye.
+373,373,373,373,373,384,"now, there's a bloke who knows how to give a proper welcome.",765,BILLY,27,"now, there's a bloke who knows how to give a proper welcome."
+374,374,374,374,374,385,"don't get me wrong, mate.",766,BILLY,27,"don't get me wrong, mate."
+375,375,375,375,375,386,you were very friendly also.,766,BILLY,27,you were very friendly also.
+376,376,376,376,376,387, is it him,768,BILLY,27, is it him
+377,377,377,377,377,388," it's him, billy.",768,LUTHER,27," it's him, billy."
+378,378,378,378,378,389, so we've got him,768,BILLY,27, so we've got him
+379,379,379,379,379,390, we don't know what we've got.,768,ETHAN,27, we don't know what we've got.
+380,380,380,380,380,391,"'cause we don't know what he's got,",769,ETHAN,27,"'cause we don't know what he's got,"
+381,381,381,381,381,392,where he's got it or what he's doing in sydney with it.,769,ETHAN,27,where he's got it or what he's doing in sydney with it.
+382,382,382,382,382,393, not much luggage.,772,AMBROSE,28, not much luggage.
+383,383,383,383,383,394, i left in a bit of a hurry.,772,NYAH,28, i left in a bit of a hurry.
+384,384,384,384,384,395,"i'm incredibly grateful, sean.",773,NYAH,28,"i'm incredibly grateful, sean."
+385,385,385,385,385,396,how in the world did you find me,774,NYAH,28,how in the world did you find me
+386,386,386,386,386,397,"how i usually find you, nyah.",775,AMBROSE,28,"how i usually find you, nyah."
+387,387,387,387,387,398,magic.,776,AMBROSE,28,magic.
+388,388,388,388,388,399,"mmm, mmm",781,WALLIS,28,"mmm, mmm"
+389,389,389,389,389,400,no flies on her.,781,WALLIS,28,no flies on her.
+390,390,390,390,390,401,"no bugs, either.",782,WALLIS,28,"no bugs, either."
+391,391,391,391,391,402,no transmissions.,782,WALLIS,28,no transmissions.
+392,392,392,392,392,403,she's clean.,783,WALLIS,28,she's clean.
+393,393,393,393,393,404,all cats are.,783,STAMP,28,all cats are.
+394,394,394,394,394,405, your room,785,NYAH,29, your room
+395,395,395,395,395,406, mmm.,785,AMBROSE,29, mmm.
+396,396,396,396,396,407, and my room,787,NYAH,29, and my room
+397,397,397,397,397,408, hmm.,787,AMBROSE,29, hmm.
+398,398,398,398,398,409,she did it.,791,LUTHER,29,she did it.
+399,399,399,399,399,410,she's in the compound.,791,LUTHER,29,she's in the compound.
+400,400,400,400,400,411,yeah,792,ETHAN,29,yeah
+401,401,401,401,401,412,we just rolled up a snowball and tossed it into hell.,792,ETHAN,29,we just rolled up a snowball and tossed it into hell.
+402,402,402,402,402,413,now we'll see what chance it has.,792,ETHAN,29,now we'll see what chance it has.
+403,403,403,403,403,414,try it on.,793,AMBROSE ( cont'd),30,try it on.
+404,404,404,404,404,415,go ahead.,794,AMBROSE (cont'd),30,go ahead.
+405,405,405,405,405,416,i'm dying to see if i remembered your size.,797,AMBROSE (cont'd),30,i'm dying to see if i remembered your size.
+406,406,406,406,406,417,you're not interested in seeing how it looks,802,NYAH,30,you're not interested in seeing how it looks
+407,407,407,407,407,418,"oh, i am.",803,AMBROSE,30,"oh, i am."
+408,408,408,408,408,419,later.,804,AMBROSE,30,later.
+409,409,409,409,409,420,every search for a hero...,804,NEKHORVICH,31,every search for a hero...
+410,410,410,410,410,421,must begin with something that every hero requires,804,NEKHORVICH,31,must begin with something that every hero requires
+411,411,411,411,411,422,a villain.,805,NEKHORVICH,31,a villain.
+412,412,412,412,412,423,"therefore, in the search for our hero, bellerophon,",805,NEKHORVICH,31,"therefore, in the search for our hero, bellerophon,"
+413,413,413,413,413,424,"we created a monster, chimera.",806,NEKHORVICH,31,"we created a monster, chimera."
+414,414,414,414,414,425,nekhovich was a molecular biologist.,806,LUTHER,31,nekhovich was a molecular biologist.
+415,415,415,415,415,426,why is he going on about an old greek myth,807,LUTHER,31,why is he going on about an old greek myth
+416,416,416,416,416,427,nekhovich specialized in recombining dna molecules.,808,ETHAN,31,nekhovich specialized in recombining dna molecules.
+417,417,417,417,417,428,"in the myth,",809,ETHAN,31,"in the myth,"
+418,418,418,418,418,429,bellerophon was a prince who killed the chimera.,810,ETHAN,31,bellerophon was a prince who killed the chimera.
+419,419,419,419,419,430,a monster with the head of a lion...,810,ETHAN,31,a monster with the head of a lion...
+420,420,420,420,420,431,and the tail of a serpent...,810,ETHAN,31,and the tail of a serpent...
+421,421,421,421,421,432,who plagued the ancient world.,811,ETHAN,31,who plagued the ancient world.
+422,422,422,422,422,433,i think nekhovich created a monster virus named chimera...,812,ETHAN,31,i think nekhovich created a monster virus named chimera...
+423,423,423,423,423,434,"and the antivirus to kill it,",813,ETHAN,31,"and the antivirus to kill it,"
+424,424,424,424,424,435,named bellerophon.,814,ETHAN,31,named bellerophon.
+425,425,425,425,425,436,"that simple, huh",815,LUTHER,31,"that simple, huh"
+426,426,426,426,426,437,why not,816,ETHAN,31,why not
+427,427,427,427,427,438,37 million.,821,AMBROSE'S VOICE,32,37 million.
+428,428,428,428,428,439,"now, that's a promising bid for nekhovich's work.",822,AMBROSE'S VOICE,32,"now, that's a promising bid for nekhovich's work."
+429,429,429,429,429,440,"don't look so worried, hugh.",823,AMBROSE'S VOICE,32,"don't look so worried, hugh."
+430,430,430,430,430,441,we're halfway there.,823,AMBROSE,32,we're halfway there.
+431,431,431,431,431,442,we'll need this at the track...,825,AMBROSE,32,we'll need this at the track...
+432,432,432,432,432,443,if we're gonna get the other half.,826,AMBROSE,32,if we're gonna get the other half.
+433,433,433,433,433,444,"well, then... sorted.",829,AMBROSE,32,"well, then... sorted."
+434,434,434,434,434,445,not everything.,833,STAMP,32,not everything.
+435,435,435,435,435,446,why do you think she's really here,833,STAMP,32,why do you think she's really here
+436,436,436,436,436,447,from her point of view or mine,834,AMBROSE,32,from her point of view or mine
+437,437,437,437,437,448,"well, she wasn't exactly gagging for it...",835,STAMP,32,"well, she wasn't exactly gagging for it..."
+438,438,438,438,438,449,when she left you six months ago.,836,STAMP,32,when she left you six months ago.
+439,439,439,439,439,450,"the question is, do you trust her",837,STAMP,32,"the question is, do you trust her"
+440,440,440,440,440,451,"one considers her timing, of course.",840,AMBROSE,32,"one considers her timing, of course."
+441,441,441,441,441,452,getting nicked within a week of the plane going down.,842,AMBROSE,32,getting nicked within a week of the plane going down.
+442,442,442,442,442,453,"suggestive, even borderline suspicious,",843,AMBROSE,32,"suggestive, even borderline suspicious,"
+443,443,443,443,443,454,but hardly conclusive.,844,AMBROSE,32,but hardly conclusive.
+444,444,444,444,444,455,"well, you've thought about it, at any rate.",847,STAMP,32,"well, you've thought about it, at any rate."
+445,445,445,445,445,456,"tell me, hugh,",850,AMBROSE,32,"tell me, hugh,"
+446,446,446,446,446,457,"you don't exactly hang on nyah's every word and gesture, do you",851,AMBROSE,32,"you don't exactly hang on nyah's every word and gesture, do you"
+447,447,447,447,447,458,that's a fairly ratty nail that.,855,AMBROSE,32,that's a fairly ratty nail that.
+448,448,448,448,448,459,"sean, please",861,STAMP,32,"sean, please"
+449,449,449,449,449,460,suppose she is some sort of trojan horse sent in by imf to spy on us.,862,AMBROSE,32,suppose she is some sort of trojan horse sent in by imf to spy on us.
+450,450,450,450,450,461,why should i deny myself the pleasure of a ride or two,864,AMBROSE,32,why should i deny myself the pleasure of a ride or two
+451,451,451,451,451,462,or don't you think i can learn more from her than she can from me,868,AMBROSE,32,or don't you think i can learn more from her than she can from me
+452,452,452,452,452,463,i do,872,STAMP,32,i do
+453,453,453,453,453,464,i do,872,STAMP,32,i do
+454,454,454,454,454,465,i do,872,STAMP,32,i do
+455,455,455,455,455,466,i do,872,STAMP,32,i do
+456,456,456,456,456,467,"now, hugh,",873,AMBROSE,32,"now, hugh,"
+457,457,457,457,457,468,you must realize that some of us...,874,AMBROSE,32,you must realize that some of us...
+458,458,458,458,458,469,have the burden of sex to deal with.,874,AMBROSE,32,have the burden of sex to deal with.
+459,459,459,459,459,470,"and i may or may not know why she thinks she's here,",875,AMBROSE,32,"and i may or may not know why she thinks she's here,"
+460,460,460,460,460,471,"but i'm willing to take the risk, because, hugh,",877,AMBROSE,32,"but i'm willing to take the risk, because, hugh,"
+461,461,461,461,461,472,i am gagging for it.,879,AMBROSE (cont'd),32,i am gagging for it.
+462,462,462,462,462,473,come on,891,AMBROSE,34,come on
+463,463,463,463,463,474,darling,893,AMBROSE,34,darling
+464,464,464,464,464,475,you won,893,AMBROSE,34,you won
+465,465,465,465,465,476, i suppose i did.,893,NYAH,34, i suppose i did.
+466,466,466,466,466,477, what made you pick that nag,893,AMBROSE,34, what made you pick that nag
+467,467,467,467,467,478,he's never won a bloody thing.,894,AMBROSE,34,he's never won a bloody thing.
+468,468,468,468,468,479, ''thief in the night.'',894,NYAH,34, ''thief in the night.''
+469,469,469,469,469,480, say no more.,894,AMBROSE,34, say no more.
+470,470,470,470,470,481,"i'm, uh",895,AMBROSE,34,"i'm, uh"
+471,471,471,471,471,482,i'm off to grab a drink.,898,AMBROSE,34,i'm off to grab a drink.
+472,472,472,472,472,483,do you still favor the bellinis,898,AMBROSE,34,do you still favor the bellinis
+473,473,473,473,473,484,mmm.,898,NYAH,34,mmm.
+474,474,474,474,474,485,''naturally vain.'',905,BILLY,34,''naturally vain.''
+475,475,475,475,475,486,pardon me,906,NYAH,34,pardon me
+476,476,476,476,476,487,naturally vain... in the fourth.,907,BILLY,34,naturally vain... in the fourth.
+477,477,477,477,477,488,check her out.,907,BILLY,34,check her out.
+478,478,478,478,478,489,she's due.,907,BILLY,34,she's due.
+479,479,479,479,479,490,you can speak as if i'm right by your side.,912,ETHAN'S VOICE,34,you can speak as if i'm right by your side.
+480,480,480,480,480,491,where are you,913,NYAH,34,where are you
+481,481,481,481,481,492,"mounting enclosure just off the track, 200.",913,ETHAN'S VOICE,34,"mounting enclosure just off the track, 200."
+482,482,482,482,482,493,how's it going,920,ETHAN,34,how's it going
+483,483,483,483,483,494,just like old times.,921,NYAH,34,just like old times.
+484,484,484,484,484,495,just like old times,922,ETHAN,34,just like old times
+485,485,485,485,485,496,just about.,923,NYAH,34,just about.
+486,486,486,486,486,497,tell me who you've run into at ambrose's.,926,ETHAN,34,tell me who you've run into at ambrose's.
+487,487,487,487,487,498,"near as i can tell, there's about a half dozen other blokes about the place.",926,NYAH,34,"near as i can tell, there's about a half dozen other blokes about the place."
+488,488,488,488,488,499,maybe more.,928,NYAH,34,maybe more.
+489,489,489,489,489,500,"hugh stamp, old friend of sean's.",928,NYAH,34,"hugh stamp, old friend of sean's."
+490,490,490,490,490,501,he's the only one i recognize.,930,NYAH,34,he's the only one i recognize.
+491,491,491,491,491,502,and a bit of a creep and then some.,930,NYAH,34,and a bit of a creep and then some.
+492,492,492,492,492,503,we know him.,933,ETHAN,34,we know him.
+493,493,493,493,493,504,"he's over your left shoulder, looking at you right now.",933,ETHAN,34,"he's over your left shoulder, looking at you right now."
+494,494,494,494,494,505,ambrose has photos of newspapers with money piled on them.,935,NYAH,34,ambrose has photos of newspapers with money piled on them.
+495,495,495,495,495,506,thirty seven million on the london times.,936,NYAH,34,thirty seven million on the london times.
+496,496,496,496,496,507,what's that about,937,NYAH,34,what's that about
+497,497,497,497,497,508,bids from possible chimera buyers.,937,ETHAN,34,bids from possible chimera buyers.
+498,498,498,498,498,509,ambrose is meeting some bloke in the bar.,942,BILLY,34,ambrose is meeting some bloke in the bar.
+499,499,499,499,499,510,big bloke.,943,BILLY,34,big bloke.
+500,500,500,500,500,511,ginger hair.,943,BILLY,34,ginger hair.
+501,501,501,501,501,512,they're into something.,943,BILLY,34,they're into something.
+502,502,502,502,502,513, who is this guy,948,ETHAN,34, who is this guy
+503,503,503,503,503,514," checking now, ethan.",948,LUTHER,34," checking now, ethan."
+504,504,504,504,504,515,"john mccloy, ceo biocyte pharmaceuticals.",951,LUTHER,34,"john mccloy, ceo biocyte pharmaceuticals."
+505,505,505,505,505,516,"in 1989, acquired biocyte in a hostile takeover.",953,LUTHER,34,"in 1989, acquired biocyte in a hostile takeover."
+506,506,506,506,506,517,he was nekhovich's boss.,956,ETHAN,34,he was nekhovich's boss.
+507,507,507,507,507,518,right.,957,LUTHER,34,right.
+508,508,508,508,508,519,he worked for him as a research scientist at biocyte.,957,LUTHER,34,he worked for him as a research scientist at biocyte.
+509,509,509,509,509,520,ambrose is showing something to mccloy on a digital camera.,959,LUTHER,35,ambrose is showing something to mccloy on a digital camera.
+510,510,510,510,510,521,"whatever mccloy's looking at, he's not happy about it.",960,ETHAN,35,"whatever mccloy's looking at, he's not happy about it."
+511,511,511,511,511,522,ambrose just pulled...,964,LUTHER,35,ambrose just pulled...
+512,512,512,512,512,523,the camera's memory card and put it into an envelope.,965,LUTHER,35,the camera's memory card and put it into an envelope.
+513,513,513,513,513,524,put it in his inner left jacket pocket.,967,LUTHER,35,put it in his inner left jacket pocket.
+514,514,514,514,514,525,confirm left jacket pocket.,970,ETHAN,35,confirm left jacket pocket.
+515,515,515,515,515,526,roger that.,972,LUTHER,35,roger that.
+516,516,516,516,516,527,nyah.,975,ETHAN,35,nyah.
+517,517,517,517,517,528,"nyah, ambrose is on his way back to you.",975,ETHAN,35,"nyah, ambrose is on his way back to you."
+518,518,518,518,518,529, there's an envelope inside  his left jacket pocket.,977,NYAH,35, there's an envelope inside  his left jacket pocket.
+519,519,519,519,519,530,that's right.,978,ETHAN,35,that's right.
+520,520,520,520,520,531, where do i meet you,979,NYAH,35, where do i meet you
+521,521,521,521,521,532," betting table 12, off the paddock.",979,ETHAN,35," betting table 12, off the paddock."
+522,522,522,522,522,533, are you sure you're up to this,981,ETHAN,35, are you sure you're up to this
+523,523,523,523,523,534, i'll muddle through.,981,NYAH,35, i'll muddle through.
+524,524,524,524,524,535, there you are,983,AMBROSE,35, there you are
+525,525,525,525,525,536, see anything you like,983,AMBROSE,35, see anything you like
+526,526,526,526,526,537,"well, yeah.",983,NYAH,35,"well, yeah."
+527,527,527,527,527,538,''naturally vain.'',983,NYAH,35,''naturally vain.''
+528,528,528,528,528,539,"but they're about to close the betting, and i haven't a bean.",986,NYAH,35,"but they're about to close the betting, and i haven't a bean."
+529,529,529,529,529,540, nyah,990,AMBROSE,35, nyah
+530,530,530,530,530,541, would you mind terribly,990,NYAH,35, would you mind terribly
+531,531,531,531,531,542,not at all.,991,AMBROSE (cont'd),35,not at all.
+532,532,532,532,532,543,"but, um, you are gonna pay for it.",991,AMBROSE (cont'd),35,"but, um, you are gonna pay for it."
+533,533,533,533,533,544, and with interest.,992,AMBROSE (cont'd),35, and with interest.
+534,534,534,534,534,545, i have no doubt.,992,NYAH,35, i have no doubt.
+535,535,535,535,535,546,hold on.,993,AMBROSE,35,hold on.
+536,536,536,536,536,547,put down a thousand for me.,1000,AMBROSE (cont'd),35,put down a thousand for me.
+537,537,537,537,537,548, to win,1003,NYAH,35, to win
+538,538,538,538,538,549, what else,1003,AMBROSE,35, what else
+539,539,539,539,539,550,"billy, make sure nyah's not followed.",1005,ETHAN,35,"billy, make sure nyah's not followed."
+540,540,540,540,540,551,"no worries, mate.",1005,BILLY,35,"no worries, mate."
+541,541,541,541,541,554,"luther, digital camera ready to transmit.",1007,ETHAN'S VOICE,35,"luther, digital camera ready to transmit."
+542,542,542,542,542,555,betting table 12.,1008,ETHAN'S VOICE,35,betting table 12.
+543,543,543,543,543,556, there you go.,1011,BILLY,36, there you go.
+544,544,544,544,544,557, fine.,1011,WOMAN,36, fine.
+545,545,545,545,545,558,"oh, sorry about that, mate.",1013,BILLY,36,"oh, sorry about that, mate."
+546,546,546,546,546,559,say again,1018,STAMP,36,say again
+547,547,547,547,547,560,"whatever you're about, in future, watch your step.",1019,STAMP,36,"whatever you're about, in future, watch your step."
+548,548,548,548,548,561,never know who you might run into.,1020,STAMP,36,never know who you might run into.
+549,549,549,549,549,562,so where's the loo,1023,STAMP,36,so where's the loo
+550,550,550,550,550,563,"thanks, mate.",1025,STAMP,36,"thanks, mate."
+551,551,551,551,551,564,how'd you do,1031,ETHAN'S VOICE,37,how'd you do
+552,552,552,552,552,565,don't turn around.,1032,ETHAN'S VOICE,37,don't turn around.
+553,553,553,553,553,566,i managed.,1032,NYAH,37,i managed.
+554,554,554,554,554,567,you turned around.,1034,ETHAN,37,you turned around.
+555,555,555,555,555,568,what are you gonna do,1035,ETHAN,37,what are you gonna do
+556,556,556,556,556,569,spank me,1035,ETHAN,37,spank me
+557,557,557,557,557,570,i'm booted up.,1047,LUTHER,37,i'm booted up.
+558,558,558,558,558,571,"go, ethan.",1047,LUTHER,37,"go, ethan."
+559,559,559,559,559,572,are you getting this,1052,ETHAN,37,are you getting this
+560,560,560,560,560,573,''sergei gradski.,1055,LUTHER,37,''sergei gradski.
+561,561,561,561,561,574,20 hours after exposure. '',1056,LUTHER,37,20 hours after exposure. ''
+562,562,562,562,562,575,god.,1065,LUTHER,38,god.
+563,563,563,563,563,576,stamp 's out of the loo.,1069,BILLY,38,stamp 's out of the loo.
+564,564,564,564,564,577,"he's coming out of the tunnel, heading your way, mate.",1070,BILLY'S VOICE,38,"he's coming out of the tunnel, heading your way, mate."
+565,565,565,565,565,578, i want you out of ambrose's place.,1070,ETHAN,38, i want you out of ambrose's place.
+566,566,566,566,566,579, what are you talking about,1070,NYAH,38, what are you talking about
+567,567,567,567,567,580,what's happened,1073,NYAH,38,what's happened
+568,568,568,568,568,581,what did you see,1073,NYAH,38,what did you see
+569,569,569,569,569,582,"okay, he's coming up behind you, ethan.",1077,BILLY,38,"okay, he's coming up behind you, ethan."
+570,570,570,570,570,583,you've done your job.,1078,ETHAN,38,you've done your job.
+571,571,571,571,571,584,i want you out of australia.,1078,ETHAN,38,i want you out of australia.
+572,572,572,572,572,585, thirty steps.,1082,BILLY'S VOICE,38, thirty steps.
+573,573,573,573,573,586, how do you suggest i go about it,1082,NYAH,38, how do you suggest i go about it
+574,574,574,574,574,587,he's touched your heart.,1084,ETHAN,38,he's touched your heart.
+575,575,575,575,575,588,you need to think it over.,1084,ETHAN,38,you need to think it over.
+576,576,576,576,576,589,"fifteen, fourteen, twelve, eleven.",1085,BILLY,38,"fifteen, fourteen, twelve, eleven."
+577,577,577,577,577,590,i want you out of there now.,1087,ETHAN,38,i want you out of there now.
+578,578,578,578,578,591,give me the earpiece.,1087,ETHAN,38,give me the earpiece.
+579,579,579,579,579,592," nine, ethan.",1091,BILLY,38," nine, ethan."
+580,580,580,580,580,593,eight.,1091,BILLY,38,eight.
+581,581,581,581,581,594," if you don't get out of there,",1091,ETHAN,38," if you don't get out of there,"
+582,582,582,582,582,595,i'm coming in and getting you out.,1093,ETHAN,38,i'm coming in and getting you out.
+583,583,583,583,583,596,"ethan, get out of there",1096,BILLY,38,"ethan, get out of there"
+584,584,584,584,584,597,"you placed your bet, ma'am",1096,STAMP,38,"you placed your bet, ma'am"
+585,585,585,585,585,598,just.,1098,NYAH,38,just.
+586,586,586,586,586,599,horses are ready to race.,1099,ANNOUNCER,40,horses are ready to race.
+587,587,587,587,587,600,they're off,1100,ANNOUNCER,40,they're off
+588,588,588,588,588,601,come on,1103,AMBROSE,40,come on
+589,589,589,589,589,602,come on,1103,AMBROSE,40,come on
+590,590,590,590,590,603,your nag's making a run for it on the outside,1103,AMBROSE,40,your nag's making a run for it on the outside
+591,591,591,591,591,604,come on,1106,AMBROSE,40,come on
+592,592,592,592,592,605,come on,1106,AMBROSE,40,come on
+593,593,593,593,593,606,you picked another winner,1110,AMBROSE,40,you picked another winner
+594,594,594,594,594,607,i thought you were going to dinner.,1112,STAMP,41,i thought you were going to dinner.
+595,595,595,595,595,608,"hugh, take care of the nekhovich memory card.",1112,AMBROSE,41,"hugh, take care of the nekhovich memory card."
+596,596,596,596,596,609,where is it,1114,STAMP,41,where is it
+597,597,597,597,597,610,in the envelope in my jacket pocket.,1115,AMBROSE,41,in the envelope in my jacket pocket.
+598,598,598,598,598,611,my right jacket pocket.,1117,AMBROSE,41,my right jacket pocket.
+599,599,599,599,599,612,"we at our stateoftheart solarpowered biocyte building,",1119,MCCLOY,41,"we at our stateoftheart solarpowered biocyte building,"
+600,600,600,600,600,613,"recognize that eternal vigilance is the price of health,",1119,MCCLOY,41,"recognize that eternal vigilance is the price of health,"
+601,601,601,601,601,614,"whether it's funding the teaching center at the royal prince edward hospital,",1121,MCCLOY,41,"whether it's funding the teaching center at the royal prince edward hospital,"
+602,602,602,602,602,615,removing aerosol products from the market...,1121,MCCLOY,41,removing aerosol products from the market...
+603,603,603,603,603,616,or braving the influenza quarantine at bruny island late last month.,1122,MCCLOY,41,or braving the influenza quarantine at bruny island late last month.
+604,604,604,604,604,617,"at biocyte, your life is our life's work.",1123,MCCLOY,41,"at biocyte, your life is our life's work."
+605,605,605,605,605,618,we've got an opportunity here.,1124,AMBROSE,41,we've got an opportunity here.
+606,606,606,606,606,619,i'm not going to miss it.,1124,AMBROSE,41,i'm not going to miss it.
+607,607,607,607,607,620,"george, take me home.",1132,MCCLOY,42,"george, take me home."
+608,608,608,608,608,621,george,1136,MCCLOY,42,george
+609,609,609,609,609,622,george,1137,MCCLOY,42,george
+610,610,610,610,610,623,what the hell,1139,MCCLOY,42,what the hell
+611,611,611,611,611,624,george,1142,MCCLOY,42,george
+612,612,612,612,612,625,george,1145,MCCLOY,42,george
+613,613,613,613,613,626,george,1145,MCCLOY,42,george
+614,614,614,614,614,627,sean,1145,NYAH,43,sean
+615,615,615,615,615,628,sean,1146,NYAH,43,sean
+616,616,616,616,616,629,shhh.,1158,ETHAN,43,shhh.
+617,617,617,617,617,630,easy.,1159,ETHAN,43,easy.
+618,618,618,618,618,631,"oh, ethan.",1159,NYAH,43,"oh, ethan."
+619,619,619,619,619,632,are you okay,1160,ETHAN,43,are you okay
+620,620,620,620,620,633,"yeah, i am now.",1160,NYAH,43,"yeah, i am now."
+621,621,621,621,621,634, what is this,1167,MCCLOY,49, what is this
+622,622,622,622,622,635, a visit from an old friend.,1167,NEKHORVICH,49, a visit from an old friend.
+623,623,623,623,623,636,you crashed on the plane.,1167,MCCLOY,49,you crashed on the plane.
+624,624,624,624,624,637,you're dead.,1167,MCCLOY,49,you're dead.
+625,625,625,625,625,638,"dead, certainly.",1169,NEKHORVICH,49,"dead, certainly."
+626,626,626,626,626,639,but dead is a little extreme.,1169,NEKHORVICH,49,but dead is a little extreme.
+627,627,627,627,627,640,"on the other hand, when my colleague gradski had your pulse...",1169,NEKHORVICH,49,"on the other hand, when my colleague gradski had your pulse..."
+628,628,628,628,628,641,"and your blood pressure, he had less than a day to live.",1170,NEKHORVICH,49,"and your blood pressure, he had less than a day to live."
+629,629,629,629,629,642,"you are infected with chimera, my friend.",1172,NEKHORVICH,49,"you are infected with chimera, my friend."
+630,630,630,630,630,643,"no use, my friend.",1175,NEKHORVICH,49,"no use, my friend."
+631,631,631,631,631,644,the medical staff wants no part of this.,1176,NEKHORVICH,49,the medical staff wants no part of this.
+632,632,632,632,632,645,doctors don't fancy the idea of dying any more than anybody else.,1179,NEKHORVICH,49,doctors don't fancy the idea of dying any more than anybody else.
+633,633,633,633,633,646,how could i possibly be infected,1180,MCCLOY,49,how could i possibly be infected
+634,634,634,634,634,647,that's exactly what gradski said 27 hours before he died.,1181,NEKHORVICH,49,that's exactly what gradski said 27 hours before he died.
+635,635,635,635,635,648,"you've got the antidote, you miserable bastard",1183,MCCLOY,49,"you've got the antidote, you miserable bastard"
+636,636,636,636,636,649, you stole bellerophon,1185,MCCLOY,49, you stole bellerophon
+637,637,637,637,637,650,all of it,1185,MCCLOY,49,all of it
+638,638,638,638,638,651," my, my, my.",1185,NEKHORVICH,49," my, my, my."
+639,639,639,639,639,652,i need it,1185,MCCLOY,49,i need it
+640,640,640,640,640,653,"i need it now, you whackedout russian gypsy",1185,MCCLOY,49,"i need it now, you whackedout russian gypsy"
+641,641,641,641,641,654,"and what about gradski, who you deliberately infected with chimera",1186,NEKHORVICH,49,"and what about gradski, who you deliberately infected with chimera"
+642,642,642,642,642,655,how was i to know they needed...,1188,MCCLOY,49,how was i to know they needed...
+643,643,643,643,643,656,to be treated with bellerophon within 20 hours,1188,MCCLOY,49,to be treated with bellerophon within 20 hours
+644,644,644,644,644,657, by asking me.,1189,NEKHORVICH,49, by asking me.
+645,645,645,645,645,658," you still don't get it, do you",1189,MCCLOY,49," you still don't get it, do you"
+646,646,646,646,646,659,"i needed to know just how bad the disease was in the real world,",1190,MCCLOY,49,"i needed to know just how bad the disease was in the real world,"
+647,647,647,647,647,660,not just the lab.,1191,MCCLOY,49,not just the lab.
+648,648,648,648,648,661,you were genetically splicing together strains of influenza...,1192,MCCLOY,49,you were genetically splicing together strains of influenza...
+649,649,649,649,649,662,to create a cure for all influenzas.,1193,MCCLOY,49,to create a cure for all influenzas.
+650,650,650,650,650,663,"but you were also creating a disease so terrible in chimera,",1193,MCCLOY,49,"but you were also creating a disease so terrible in chimera,"
+651,651,651,651,651,664,the cure would be priceless.,1194,MCCLOY,49,the cure would be priceless.
+652,652,652,652,652,665,i needed chimera in order to peddle bellerophon.,1195,MCCLOY,49,i needed chimera in order to peddle bellerophon.
+653,653,653,653,653,666,"it's not that difficult to understand, is it",1196,MCCLOY,49,"it's not that difficult to understand, is it"
+654,654,654,654,654,667,"look, i've got the virus.",1197,MCCLOY,49,"look, i've got the virus."
+655,655,655,655,655,668,you've got the cure.,1197,MCCLOY,49,you've got the cure.
+656,656,656,656,656,669,i need them both.,1198,MCCLOY,49,i need them both.
+657,657,657,657,657,670,time was a shot of penicillin would knock off...,1199,MCCLOY,49,time was a shot of penicillin would knock off...
+658,658,658,658,658,671,every bloody bug in the zoo.,1199,MCCLOY,49,every bloody bug in the zoo.
+659,659,659,659,659,672,not anymore.,1199,MCCLOY,49,not anymore.
+660,660,660,660,660,673,"if i couldn't make money killing the microscopic little shits out there,",1200,MCCLOY,49,"if i couldn't make money killing the microscopic little shits out there,"
+661,661,661,661,661,674,"well, you'd help me put one out there that i could make money on.",1200,MCCLOY,49,"well, you'd help me put one out there that i could make money on."
+662,662,662,662,662,675,"well, there it is.",1202,MCCLOY,49,"well, there it is."
+663,663,663,663,663,676,i've confessed.,1202,MCCLOY,49,i've confessed.
+664,664,664,664,664,677,"i, john c. mccloy,",1202,MCCLOY,49,"i, john c. mccloy,"
+665,665,665,665,665,678,am in business to make money.,1202,MCCLOY,49,am in business to make money.
+666,666,666,666,666,679,"now, forget any deal you may have made with that thug ambrose.",1203,MCCLOY,49,"now, forget any deal you may have made with that thug ambrose."
+667,667,667,667,667,680,"get me treated, and let's go back to work.",1204,MCCLOY,49,"get me treated, and let's go back to work."
+668,668,668,668,668,681,"you know,",1205,NEKHORVICH,49,"you know,"
+669,669,669,669,669,682,i think it's a little late for that.,1205,NEKHORVICH,49,i think it's a little late for that.
+670,670,670,670,670,683,do give my regards to gradski...,1207,NEKHORVICH,49,do give my regards to gradski...
+671,671,671,671,671,684,if you see him.,1207,NEKHORVICH,49,if you see him.
+672,672,672,672,672,685,well...,1209,NEKHORVICH,49,well...
+673,673,673,673,673,686,i've heard...,1209,NEKHORVICH,49,i've heard...
+674,674,674,674,674,687,all i need to hear.,1209,ETHAN,49,all i need to hear.
+675,675,675,675,675,688,nyah...,1210,ETHAN,51,nyah...
+676,676,676,676,676,689,it's imperative that we do nothing to alarm ambrose.,1210,ETHAN,51,it's imperative that we do nothing to alarm ambrose.
+677,677,677,677,677,690,what,1211,NYAH,51,what
+678,678,678,678,678,691,you told me to get out of there as soon as possible.,1211,NYAH,51,you told me to get out of there as soon as possible.
+679,679,679,679,679,692,i thought you were here to collect me,1212,NYAH,51,i thought you were here to collect me
+680,680,680,680,680,693,"shh, shh, shh, shh, shh",1212,ETHAN,51,"shh, shh, shh, shh, shh"
+681,681,681,681,681,694,listen to me.,1213,ETHAN,51,listen to me.
+682,682,682,682,682,695,there's no time to talk.,1213,ETHAN,51,there's no time to talk.
+683,683,683,683,683,696,"it is critical, absolutely critical,",1213,ETHAN,51,"it is critical, absolutely critical,"
+684,684,684,684,684,697,that you do whatever ambrose asks.,1214,ETHAN,51,that you do whatever ambrose asks.
+685,685,685,685,685,698,do you understand me,1214,ETHAN,51,do you understand me
+686,686,686,686,686,699,don't worry.,1215,ETHAN,51,don't worry.
+687,687,687,687,687,700,it will all be over... very soon.,1215,ETHAN,51,it will all be over... very soon.
+688,688,688,688,688,701,that's a promise.,1218,ETHAN,51,that's a promise.
+689,689,689,689,689,702,go on.,1219,ETHAN,51,go on.
+690,690,690,690,690,703,go on.,1219,ETHAN,51,go on.
+691,691,691,691,691,704,off you go.,1219,ETHAN,51,off you go.
+692,692,692,692,692,705,"luther, we know this much.",1224,ETHAN,52,"luther, we know this much."
+693,693,693,693,693,706,nekhovich gets on a plane...,1224,ETHAN,52,nekhovich gets on a plane...
+694,694,694,694,694,707,to go to the center for disease control in atlanta.,1224,ETHAN,52,to go to the center for disease control in atlanta.
+695,695,695,695,695,708,"he's carrying a virus he created, chimera,",1224,ETHAN,52,"he's carrying a virus he created, chimera,"
+696,696,696,696,696,709,"and the cure for that virus, bellerophon.",1224,ETHAN,52,"and the cure for that virus, bellerophon."
+697,697,697,697,697,710,ambrose doesn't have the virus.,1225,ETHAN,52,ambrose doesn't have the virus.
+698,698,698,698,698,711,that's why ambrose needs mccloy.,1226,LUTHER,52,that's why ambrose needs mccloy.
+699,699,699,699,699,712,"so we go into biocyte, kill chimera,",1227,ETHAN,52,"so we go into biocyte, kill chimera,"
+700,700,700,700,700,713,"ambrose has a cure without a disease,",1227,ETHAN,52,"ambrose has a cure without a disease,"
+701,701,701,701,701,714,and we're home free.,1227,ETHAN,52,and we're home free.
+702,702,702,702,702,715,you were right.,1228,STAMP,53,you were right.
+703,703,703,703,703,716,hunt stung mccloy tonight.,1228,STAMP,53,hunt stung mccloy tonight.
+704,704,704,704,704,717,so he knows.,1228,STAMP,53,so he knows.
+705,705,705,705,705,718,he'll be going into biocyte.,1228,STAMP,53,he'll be going into biocyte.
+706,706,706,706,706,719,good.,1228,AMBROSE,53,good.
+707,707,707,707,707,720,"then we'll know where he'll be, don't we",1228,AMBROSE,53,"then we'll know where he'll be, don't we"
+708,708,708,708,708,721,"well done, hugh.",1228,AMBROSE,53,"well done, hugh."
+709,709,709,709,709,722,well done.,1228,AMBROSE,53,well done.
+710,710,710,710,710,724,"you're home, mate.",1230,BILLY,54,"you're home, mate."
+711,711,711,711,711,725,home.,1230,BILLY,54,home.
+712,712,712,712,712,726,where's george,1230,MCCLOY,54,where's george
+713,713,713,713,713,727,my regular driver,1230,MCCLOY,54,my regular driver
+714,714,714,714,714,728,where is he,1230,MCCLOY,54,where is he
+715,715,715,715,715,729,he's gone home sick.,1230,BILLY,54,he's gone home sick.
+716,716,716,716,716,730,touch of the flu.,1230,BILLY,54,touch of the flu.
+717,717,717,717,717,731,is the building up and running yet,1232,ETHAN,55,is the building up and running yet
+718,718,718,718,718,732,mmm.,1232,LUTHAR,55,mmm.
+719,719,719,719,719,733,that's not exactly it.,1234,ETHAN (cont'd),55,that's not exactly it.
+720,720,720,720,720,734,"sorry, but this is a biocyte facility.",1234,LUTHER,55,"sorry, but this is a biocyte facility."
+721,721,721,721,721,735,their storage structure.,1235,LUTHER,55,their storage structure.
+722,722,722,722,722,736,i'll have it up in a minute.,1235,LUTHER,55,i'll have it up in a minute.
+723,723,723,723,723,737," okay, take a look at this.",1239,LUTHER,55," okay, take a look at this."
+724,724,724,724,724,738, start from the inside out.,1239,ETHAN,55, start from the inside out.
+725,725,725,725,725,739,"all storage and production of chimera is done here,",1240,LUTHER,55,"all storage and production of chimera is done here,"
+726,726,726,726,726,740,in this lab on the 42ndfloor.,1241,LUTHER,55,in this lab on the 42ndfloor.
+727,727,727,727,727,741,"hunt's target will be the chimera,",1241,AMBROSE,55,"hunt's target will be the chimera,"
+728,728,728,728,728,742,stored and manufactured at biocyte on the 42nd floor.,1242,AMBROSE,55,stored and manufactured at biocyte on the 42nd floor.
+729,729,729,729,729,743,"if you look at hunt's operational history, and i have,",1242,AMBROSE,55,"if you look at hunt's operational history, and i have,"
+730,730,730,730,730,744,he invariably favors misdirection over confrontation.,1242,AMBROSE,55,he invariably favors misdirection over confrontation.
+731,731,731,731,731,745,he'll never break into biocyte from the bottom where security is heaviest.,1243,AMBROSE,55,he'll never break into biocyte from the bottom where security is heaviest.
+732,732,732,732,732,746,no garage entrances.,1243,LUTHER,55,no garage entrances.
+733,733,733,733,733,747,lobby's protected by five guards on rotating patrol.,1244,LUTHER,55,lobby's protected by five guards on rotating patrol.
+734,734,734,734,734,748,not goin' in from the ground.,1246,ETHAN,55,not goin' in from the ground.
+735,735,735,735,735,749,show me the atrium.,1246,ETHAN,55,show me the atrium.
+736,736,736,736,736,750,the atrium,1247,LUTHER'S VOICE,56,the atrium
+737,737,737,737,737,751,one of a kind.,1247,LUTHER'S VOICE,56,one of a kind.
+738,738,738,738,738,752,runs down through the center of the building.,1248,LUTHER'S VOICE,56,runs down through the center of the building.
+739,739,739,739,739,753,provides 24hournaturallight via mirrors and daylight storage cells.,1249,LUTHER'S VOICE,56,provides 24hournaturallight via mirrors and daylight storage cells.
+740,740,740,740,740,754,optimal growing conditions for the virus.,1249,LUTHER'S VOICE,56,optimal growing conditions for the virus.
+741,741,741,741,741,755,ends in a glass floor which doubles as part of the lab ceiling.,1250,LUTHER'S VOICE,56,ends in a glass floor which doubles as part of the lab ceiling.
+742,742,742,742,742,757,the atrium roof closes at sundown.,1253,LUTHER,56,the atrium roof closes at sundown.
+743,743,743,743,743,758,"and if the louvers are up for more than 40seconds at night,",1254,LUTHER'S VOICE,57,"and if the louvers are up for more than 40seconds at night,"
+744,744,744,744,744,759,the civil emergency alarms are tripped.,1256,LUTHER'S VOICE,57,the civil emergency alarms are tripped.
+745,745,745,745,745,760,"those, even i can't stop.",1256,LUTHER'S VOICE,57,"those, even i can't stop."
+746,746,746,746,746,761,"ethan, we have a total of 40 seconds...",1257,LUTHER'S VOICE,57,"ethan, we have a total of 40 seconds..."
+747,747,747,747,747,762,to get you in and the cables out.,1257,LUTHER'S VOICE,57,to get you in and the cables out.
+748,748,748,748,748,763,"no, hunt will prefer to enter biocyte somewhere from the top...",1259,AMBROSE,57,"no, hunt will prefer to enter biocyte somewhere from the top..."
+749,749,749,749,749,764,where security is minimal.,1259,AMBROSE,57,where security is minimal.
+750,750,750,750,750,765,he'll undoubtedly engage in some aerobatic insanity...,1259,AMBROSE,57,he'll undoubtedly engage in some aerobatic insanity...
+751,751,751,751,751,766,before he'll risk harming a hair on a security guard's head.,1259,AMBROSE,57,before he'll risk harming a hair on a security guard's head.
+752,752,752,752,752,767, checkcheck.,1267,ETHAN,64, checkcheck.
+753,753,753,753,753,768,got copy,1267,ETHAN,64,got copy
+754,754,754,754,754,769, you're fivebyfive.,1267,BILLY,64, you're fivebyfive.
+755,755,755,755,755,770,"luther, how we doin '",1268,ETHAN,64,"luther, how we doin '"
+756,756,756,756,756,771,"not there yet, ethan.",1268,LUTHER,64,"not there yet, ethan."
+757,757,757,757,757,772,i'll give you the word.,1268,LUTHER,64,i'll give you the word.
+758,758,758,758,758,773,"billy, ready to go",1270,ETHAN,64,"billy, ready to go"
+759,759,759,759,759,774,"okay, package away in five",1274,BILLY,64,"okay, package away in five"
+760,760,760,760,760,775,i'm not ready.,1276,LUTHER,64,i'm not ready.
+761,761,761,761,761,776,the louvers aren't moving.,1276,LUTHER,64,the louvers aren't moving.
+762,762,762,762,762,777,"come on, luther",1278,BILLY,64,"come on, luther"
+763,763,763,763,763,778,we gotta go,1278,BILLY,64,we gotta go
+764,764,764,764,764,779,"wait, there's a glitch in the access code.",1279,LUTHER,64,"wait, there's a glitch in the access code."
+765,765,765,765,765,780,"luther, we're out of time.",1284,BILLY,64,"luther, we're out of time."
+766,766,766,766,766,781,on the count.,1284,BILLY,64,on the count.
+767,767,767,767,767,782,"please, baby, open up, open up.",1287,LUTHER,64,"please, baby, open up, open up."
+768,768,768,768,768,783," five, four,  come on",1289,BILLY,64," five, four,  come on"
+769,769,769,769,769,784,"three, two, one",1292,BILLY,64,"three, two, one"
+770,770,770,770,770,785, i'm going now,1294,ETHAN,64, i'm going now
+771,771,771,771,771,786," ethan, wait",1294,LUTHER,64," ethan, wait"
+772,772,772,772,772,787,"twenty five, twenty four, twenty three,",1324,LUTHER,64,"twenty five, twenty four, twenty three,"
+773,773,773,773,773,788,"twenty two, twenty one, twenty.",1326,LUTHER,64,"twenty two, twenty one, twenty."
+774,774,774,774,774,789,"ethan, you've got 19seconds to clear the cable.",1327,LUTHER,64,"ethan, you've got 19seconds to clear the cable."
+775,775,775,775,775,790,"okay, retracting cable",1339,BILLY,64,"okay, retracting cable"
+776,776,776,776,776,791,come on,1341,BILLY,64,come on
+777,777,777,777,777,792,"nine, eight, seven, six,",1344,LUTHER,64,"nine, eight, seven, six,"
+778,778,778,778,778,793,"five, four, three, two",1349,LUTHER'S VOICE,64,"five, four, three, two"
+779,779,779,779,779,794,cable's clear,1352,BILLY'S VOICE,64,cable's clear
+780,780,780,780,780,795,transponder activated.,1358,LUTHER,64,transponder activated.
+781,781,781,781,781,796,reading package and cable clear.,1358,LUTHER,64,reading package and cable clear.
+782,782,782,782,782,797,"he'll breach the lab at the only possible time,",1362,AMBROSE,66,"he'll breach the lab at the only possible time,"
+783,783,783,783,783,798,whether you break in from the ground or the roof.,1363,AMBROSE,66,whether you break in from the ground or the roof.
+784,784,784,784,784,799,"it's 2300 hours, one minute...",1363,AMBROSE,66,"it's 2300 hours, one minute..."
+785,785,785,785,785,800,when the air filtration generators will cover the sound of hunt's breakin...,1363,AMBROSE'S VOICE,66,when the air filtration generators will cover the sound of hunt's breakin...
+786,786,786,786,786,801,and the rotating guards make the building vulnerable...,1363,AMBROSE,66,and the rotating guards make the building vulnerable...
+787,787,787,787,787,802,to our breakin from below.,1363,AMBROSE'S VOICE,66,to our breakin from below.
+788,788,788,788,788,803,"ethan, the generator's about to go active.",1365,LUTHER,66,"ethan, the generator's about to go active."
+789,789,789,789,789,804,just a friendly reminder.,1366,LUTHER,66,just a friendly reminder.
+790,790,790,790,790,805,we'll be out of contact for eight minutes.,1366,LUTHER,66,we'll be out of contact for eight minutes.
+791,791,791,791,791,806,i'm betting hunt will destroy chimera...,1384,AMBROSE,66,i'm betting hunt will destroy chimera...
+792,792,792,792,792,807,rather than attempt to preserve any part of it.,1384,AMBROSE,66,rather than attempt to preserve any part of it.
+793,793,793,793,793,808,he'll have to do it in two places.,1384,AMBROSE,66,he'll have to do it in two places.
+794,794,794,794,794,809,"first, the incubation room where the growth vials are kept.",1384,AMBROSE'S VOICE,66,"first, the incubation room where the growth vials are kept."
+795,795,795,795,795,810,"and finally, in the inoculation chamber...",1386,AMBROSE'S VOICE,66,"and finally, in the inoculation chamber..."
+796,796,796,796,796,811,holding the last remaining chimera virus in three injection guns.,1388,AMBROSE'S VOICE,66,holding the last remaining chimera virus in three injection guns.
+797,797,797,797,797,812,he won't be allowed to destroy the virus in those guns.,1389,AMBROSE,66,he won't be allowed to destroy the virus in those guns.
+798,798,798,798,798,813,what's this,1393,ONE OF THE GUARDS,67,what's this
+799,799,799,799,799,814,"you're on time, for once",1393,ONE OF THE GUARDS,67,"you're on time, for once"
+800,800,800,800,800,815,"not exactly, sport.",1393,STAMP,67,"not exactly, sport."
+801,801,801,801,801,816,john c. mccloy.,1395,ETHAN,68,john c. mccloy.
+802,802,802,802,802,817,"billy, i think we've got a problem.",1404,LUTHER,69,"billy, i think we've got a problem."
+803,803,803,803,803,818,nyah's on the wing up early.,1406,LUTHER,69,nyah's on the wing up early.
+804,804,804,804,804,819,"billy, do you copy",1406,LUTHER,69,"billy, do you copy"
+805,805,805,805,805,820,"yeah, i got you, luther.",1407,BILLY,69,"yeah, i got you, luther."
+806,806,806,806,806,821,"sorry, exactly where is she",1407,BILLY,69,"sorry, exactly where is she"
+807,807,807,807,807,822, in the building.,1408,LUTHER,69, in the building.
+808,808,808,808,808,823," say again, mate.",1408,BILLY'S VOICE,69," say again, mate."
+809,809,809,809,809,824,sounds like you're saying she's in the building.,1410,BILLY'S VOICE,69,sounds like you're saying she's in the building.
+810,810,810,810,810,825,i am.,1412,LUTHER,69,i am.
+811,811,811,811,811,826,she is.,1412,LUTHER,69,she is.
+812,812,812,812,812,827,"uh, well, then she's not likely to be alone, is she, mate",1413,BILLY,69,"uh, well, then she's not likely to be alone, is she, mate"
+813,813,813,813,813,828,"she's in the elevator, headed towards ethan.",1415,LUTHER,69,"she's in the elevator, headed towards ethan."
+814,814,814,814,814,829,the question is.,1415,LUTHER,69,the question is.
+815,815,815,815,815,830, how many of them,1415,LUTHER,69, how many of them
+816,816,816,816,816,831,"i can't get through to ethan, not till the generators go.",1416,LUTHER,69,"i can't get through to ethan, not till the generators go."
+817,817,817,817,817,832," yeah, well, when's that",1417,BILLY,69," yeah, well, when's that"
+818,818,818,818,818,833, not for another...,1417,LUTHER,69, not for another...
+819,819,819,819,819,834,fiveandahalf minutes.,1419,LUTHER,69,fiveandahalf minutes.
+820,820,820,820,820,835,chimera in vitro ph and temperature level...,1436,COMPUTER VOICE,71,chimera in vitro ph and temperature level...
+821,821,821,821,821,836,outside optimal range.,1437,COMPUTER VOICE,71,outside optimal range.
+822,822,822,822,822,837,chimera in vitro ph and temperature level...,1439,COMPUTER VOICE,71,chimera in vitro ph and temperature level...
+823,823,823,823,823,838,outside optimal range.,1441,COMPUTER VOICE,71,outside optimal range.
+824,824,824,824,824,839,chimera working seed stock ph at critical level.,1442,COMPUTER VOICE,71,chimera working seed stock ph at critical level.
+825,825,825,825,825,840,alert.,1443,COMPUTER VOICE,71,alert.
+826,826,826,826,826,841,chimera stock life threatened.,1443,COMPUTER VOICE,71,chimera stock life threatened.
+827,827,827,827,827,842,alert.,1444,COMPUTER VOICE,71,alert.
+828,828,828,828,828,843,chimera stock life terminated.,1444,COMPUTER VOICE,71,chimera stock life terminated.
+829,829,829,829,829,844,"come on, ethan.",1448,LUTHER,71,"come on, ethan."
+830,830,830,830,830,845,come on.,1448,LUTHER,71,come on.
+831,831,831,831,831,846,subject is contaminant free.,1455,COMPUTER VOICE,71,subject is contaminant free.
+832,832,832,832,832,847,zero contaminant factor.,1456,COMPUTER VOICE,71,zero contaminant factor.
+833,833,833,833,833,848,"come on, come on, come on, come on.",1460,LUTHER,71,"come on, come on, come on, come on."
+834,834,834,834,834,849,"luther, what the hell can we do",1461,BILLY,71,"luther, what the hell can we do"
+835,835,835,835,835,850,what can we do,1462,LUTHER,71,what can we do
+836,836,836,836,836,851,hope he kills all the bugs before the yellow dot gets to the red one.,1462,LUTHER,71,hope he kills all the bugs before the yellow dot gets to the red one.
+837,837,837,837,837,852,"however we travel,",1488,NEKHORVICH,72,"however we travel,"
+838,838,838,838,838,853,i must arrive at my destination within 20 hours of departure.,1488,NEKHORVICH,72,i must arrive at my destination within 20 hours of departure.
+839,839,839,839,839,854,how was i to know that he needed to be treated...,1491,NEKHORVICH,72,how was i to know that he needed to be treated...
+840,840,840,840,840,855,with bellerophon within 20hours,1491,NEKHORVICH,72,with bellerophon within 20hours
+841,841,841,841,841,856,get him.,1514,AMBROSE,75,get him.
+842,842,842,842,842,857,how much longer before you can reach him,1533,BILLY,75,how much longer before you can reach him
+843,843,843,843,843,858,"we've got29seconds before the generators turn off,",1534,LUTHER,75,"we've got29seconds before the generators turn off,"
+844,844,844,844,844,859,then ethan will be back online.,1535,LUTHER,75,then ethan will be back online.
+845,845,845,845,845,860,ahh,1549,SOLDIER,75,ahh
+846,846,846,846,846,861,luther,1566,BILLY,80,luther
+847,847,847,847,847,862,luther,1566,BILLY,80,luther
+848,848,848,848,848,863,hold your fire,1596,AMBROSE,82,hold your fire
+849,849,849,849,849,864,"hold your fire, damn it",1598,AMBROSE,82,"hold your fire, damn it"
+850,850,850,850,850,865,"well, hunt...",1602,AMBROSE (cont'd),82,"well, hunt..."
+851,851,851,851,851,866,how've you been,1605,AMBROSE (cont'd),82,how've you been
+852,852,852,852,852,867,fighting a bit of a cold.,1605,ETHAN,82,fighting a bit of a cold.
+853,853,853,853,853,869,"you know, that was the hardest part of having to portray you",1608,AMBROSE,82,"you know, that was the hardest part of having to portray you"
+854,854,854,854,854,870,grinning like an idiot every 15 minutes.,1609,AMBROSE,82,grinning like an idiot every 15 minutes.
+855,855,855,855,855,871,i would've thought the hardest part was curbing that pressing need of yours...,1612,ETHAN,82,i would've thought the hardest part was curbing that pressing need of yours...
+856,856,856,856,856,872,to get your gun off.,1613,ETHAN,82,to get your gun off.
+857,857,857,857,857,873,you were in such a hurry to knock off that 747...,1614,ETHAN,82,you were in such a hurry to knock off that 747...
+858,858,858,858,858,874,you never figured out where chimera really was.,1615,ETHAN,82,you never figured out where chimera really was.
+859,859,859,859,859,875, i knew where it was.,1617,AMBROSE,82, i knew where it was.
+860,860,860,860,860,876, oh.,1617,ETHAN,82, oh.
+861,861,861,861,861,877,then you knew the only way nekhovich could smuggle the live virus...,1617,ETHAN,82,then you knew the only way nekhovich could smuggle the live virus...
+862,862,862,862,862,878,is by injecting himself and using his own bloodstream as a petri dish.,1618,ETHAN,82,is by injecting himself and using his own bloodstream as a petri dish.
+863,863,863,863,863,879,"you knew that... while you were knocking him off,",1621,ETHAN,82,"you knew that... while you were knocking him off,"
+864,864,864,864,864,880,destroying the very thing you came for.,1622,ETHAN,82,destroying the very thing you came for.
+865,865,865,865,865,881,stop,1632,AMBROSE,82,stop
+866,866,866,866,866,882,put a sock in it,1632,AMBROSE,82,put a sock in it
+867,867,867,867,867,883,"hit that bloody gun, and you'll spray the virus all over the place",1635,AMBROSE,82,"hit that bloody gun, and you'll spray the virus all over the place"
+868,868,868,868,868,884,"there it is, guys.",1637,ETHAN,82,"there it is, guys."
+869,869,869,869,869,885,the last of it.,1638,ETHAN,82,the last of it.
+870,870,870,870,870,886,what was the top bid,1639,ETHAN,82,what was the top bid
+871,871,871,871,871,887,why,1640,AMBROSE,82,why
+872,872,872,872,872,888,you gonna make me a better offer,1640,AMBROSE,82,you gonna make me a better offer
+873,873,873,873,873,889,than 37 million,1641,ETHAN,82,than 37 million
+874,874,874,874,874,890,not really.,1641,ETHAN,82,not really.
+875,875,875,875,875,891,oh,1642,AMBROSE,82,oh
+876,876,876,876,876,892,somebody has been slipping you our mail.,1643,AMBROSE,82,somebody has been slipping you our mail.
+877,877,877,877,877,893,"come on out here, you bad girl.",1645,AMBROSE,82,"come on out here, you bad girl."
+878,878,878,878,878,894,"sean, she doesn't belong here.",1650,ETHAN,82,"sean, she doesn't belong here."
+879,879,879,879,879,895,let her go.,1650,ETHAN,82,let her go.
+880,880,880,880,880,896,she wouldn't be here...,1652,AMBROSE,82,she wouldn't be here...
+881,881,881,881,881,897,"if it wasn't for you, hunt.",1652,AMBROSE,82,"if it wasn't for you, hunt."
+882,882,882,882,882,898,"from this moment, you are responsible for what happens to her.",1656,AMBROSE,82,"from this moment, you are responsible for what happens to her."
+883,883,883,883,883,899,"and if you're looking out for her wellbeing,",1657,AMBROSE,82,"and if you're looking out for her wellbeing,"
+884,884,884,884,884,900,i suggest you advise her to pick up the injection gun and bring it to me.,1660,AMBROSE,82,i suggest you advise her to pick up the injection gun and bring it to me.
+885,885,885,885,885,901,"ball's in your court, hunt.",1660,AMBROSE,82,"ball's in your court, hunt."
+886,886,886,886,886,902,nyah's in the building.,1665,LUTHER'S VOICE,82,nyah's in the building.
+887,887,887,887,887,903,do you copy,1665,LUTHER'S VOICE,82,do you copy
+888,888,888,888,888,904,thank you.,1665,ETHAN,82,thank you.
+889,889,889,889,889,905,how do you know he won't shoot you the minute he's got it,1672,ETHAN (cont'd),82,how do you know he won't shoot you the minute he's got it
+890,890,890,890,890,906,please.,1674,AMBROSE,82,please.
+891,891,891,891,891,907,one can't hold nyah responsible for her actions.,1674,AMBROSE,82,one can't hold nyah responsible for her actions.
+892,892,892,892,892,908,"you know women, mate.",1674,AMBROSE,82,"you know women, mate."
+893,893,893,893,893,909,like monkeys they are.,1674,AMBROSE,82,like monkeys they are.
+894,894,894,894,894,910,won't let go of one branch till they get a grip on the next,1674,AMBROSE,82,won't let go of one branch till they get a grip on the next
+895,895,895,895,895,911,"get it, nyah.",1676,AMBROSE,82,"get it, nyah."
+896,896,896,896,896,912,i'll cover you.,1676,AMBROSE,82,i'll cover you.
+897,897,897,897,897,913,i am waiting.,1690,AMBROSE (cont'd),82,i am waiting.
+898,898,898,898,898,914,"things haven't exactly worked out the way you thought they would, ethan.",1693,NYAH,82,"things haven't exactly worked out the way you thought they would, ethan."
+899,899,899,899,899,915,sorry.,1695,NYAH,82,sorry.
+900,900,900,900,900,916,you bitch,1709,AMBROSE,82,you bitch
+901,901,901,901,901,917,"you're not gonna shoot me, sean.",1717,NYAH,82,"you're not gonna shoot me, sean."
+902,902,902,902,902,918,not this bitch.,1717,NYAH,82,not this bitch.
+903,903,903,903,903,919,'cause she's worth 37 million.,1721,NYAH,82,'cause she's worth 37 million.
+904,904,904,904,904,920, what did you think you were doing,1746,ETHAN,87, what did you think you were doing
+905,905,905,905,905,921, i wasn't thinking,1746,NYAH,87, i wasn't thinking
+906,906,906,906,906,922,"just trying to stop you from getting hurt, that's all",1750,NYAH,87,"just trying to stop you from getting hurt, that's all"
+907,907,907,907,907,923,you who don't have a conscience.,1754,ETHAN,87,you who don't have a conscience.
+908,908,908,908,908,924,i guess i lied.,1756,NYAH,87,i guess i lied.
+909,909,909,909,909,925,"you can't get us both out of here, can you",1781,NYAH,87,"you can't get us both out of here, can you"
+910,910,910,910,910,926,i'm infected with chimera.,1790,NYAH,87,i'm infected with chimera.
+911,911,911,911,911,927,you know you don't have a choice.,1790,NYAH,87,you know you don't have a choice.
+912,912,912,912,912,928,just do it.,1790,NYAH,87,just do it.
+913,913,913,913,913,929,do it now,1793,NYAH (cont'd),87,do it now
+914,914,914,914,914,930,we've got 19 hours and 58 minutes,1811,ETHAN,87,we've got 19 hours and 58 minutes
+915,915,915,915,915,931,i'll get bellerophon into your system before then,1813,ETHAN,87,i'll get bellerophon into your system before then
+916,916,916,916,916,932,just stay alive,1819,ETHAN,87,just stay alive
+917,917,917,917,917,933,i'm not going to lose you,1819,ETHAN,87,i'm not going to lose you
+918,918,918,918,918,934,feel like pleading for your life,1853,AMBROSE,88,feel like pleading for your life
+919,919,919,919,919,935,"well, then, how about dying...",1857,AMBROSE,88,"well, then, how about dying..."
+920,920,920,920,920,936,so you can make me a lot of money,1858,AMBROSE,88,so you can make me a lot of money
+921,921,921,921,921,937,"in just a few hours time, you can be assured...",1860,AMBROSE,88,"in just a few hours time, you can be assured..."
+922,922,922,922,922,938,of going down in history as the typhoid mary of oz.,1860,AMBROSE,88,of going down in history as the typhoid mary of oz.
+923,923,923,923,923,939,g'day.,1860,AMBROSE,88,g'day.
+924,924,924,924,924,940,there's not a chance of locating nyah until can access the satellite.,1861,LUTHER,89,there's not a chance of locating nyah until can access the satellite.
+925,925,925,925,925,941,and there's not a chance of doing that until i can get this computer fixed.,1862,LUTHER,89,and there's not a chance of doing that until i can get this computer fixed.
+926,926,926,926,926,942,how much time does she have left,1863,LUTHER,89,how much time does she have left
+927,927,927,927,927,943,not long.,1864,ETHAN,89,not long.
+928,928,928,928,928,944,"but whatever happens, nyah will take care of nyah.",1864,ETHAN,89,"but whatever happens, nyah will take care of nyah."
+929,929,929,929,929,945,what do you mean,1867,BILLY,89,what do you mean
+930,930,930,930,930,946,"unless we dose her with bellerophon,",1867,ETHAN,89,"unless we dose her with bellerophon,"
+931,931,931,931,931,947,nyah will kill herself.,1868,ETHAN,89,nyah will kill herself.
+932,932,932,932,932,948,so first things first.,1870,ETHAN,89,so first things first.
+933,933,933,933,933,949,"ethan, ambrose and his team have arrived...",1882,BILLY,90,"ethan, ambrose and his team have arrived..."
+934,934,934,934,934,950,"over the bridge, and nyah's not with him, mate.",1882,BILLY'S VOICE,96,"over the bridge, and nyah's not with him, mate."
+935,935,935,935,935,951,copy that.,1882,ETHAN,97,copy that.
+936,936,936,936,936,952,"you all right, mate",1887,BILLY'S VOICE,97,"you all right, mate"
+937,937,937,937,937,953,looks like pretty heavy security from here.,1887,BILLY'S VOICE,97,looks like pretty heavy security from here.
+938,938,938,938,938,954,what's it look like from there,1888,BILLY'S VOICE,97,what's it look like from there
+939,939,939,939,939,955,risky.,1890,ETHAN,97,risky.
+940,940,940,940,940,956,simon,1932,SECURITY,98,simon
+941,941,941,941,941,957,simon,1932,SECURITY,98,simon
+942,942,942,942,942,958,stay here.,1933,SECURITY,98,stay here.
+943,943,943,943,943,959,breached the structure at the 1000 grating.,1944,ETHAN,99,breached the structure at the 1000 grating.
+944,944,944,944,944,960,it's a dna match.,1950,CHEMIST,100,it's a dna match.
+945,945,945,945,945,961,the blood's loaded with chimera.,1950,CHEMIST,100,the blood's loaded with chimera.
+946,946,946,946,946,962,and they certainly have bellerophon.,1955,CHEMIST (cont'd),100,and they certainly have bellerophon.
+947,947,947,947,947,963,"well, then you've got both the virus and the antivirus,",1957,MCCLOY,100,"well, then you've got both the virus and the antivirus,"
+948,948,948,948,948,964,which means i've got 30 million for you.,1958,MCCLOY,100,which means i've got 30 million for you.
+949,949,949,949,949,965,not exactly.,1959,AMBROSE,100,not exactly.
+950,950,950,950,950,966,we don't want just your cash.,1959,AMBROSE,100,we don't want just your cash.
+951,951,951,951,951,967, what do you want,1962,MCCLOY,100, what do you want
+952,952,952,952,952,968," stock, mr. mccloy.",1962,AMBROSE,100," stock, mr. mccloy."
+953,953,953,953,953,969,"stock options, to be a little more precise.",1962,AMBROSE,100,"stock options, to be a little more precise."
+954,954,954,954,954,970,cut her loose... right in the center of town.,1966,AMBROSE,100,cut her loose... right in the center of town.
+955,955,955,955,955,971,the more crowded the better.,1966,AMBROSE,100,the more crowded the better.
+956,956,956,956,956,972,"ethan, just picked up an ambrose call.",1969,LUTHER'S VOICE,101,"ethan, just picked up an ambrose call."
+957,957,957,957,957,973,nyah's been dropped off.,1969,LUTHER'S VOICE,101,nyah's been dropped off.
+958,958,958,958,958,974, where is she,1971,ETHAN,101, where is she
+959,959,959,959,959,975, somewhere in sydney.,1971,LUTHER,102, somewhere in sydney.
+960,960,960,960,960,976,somewhere in sydney,1975,ETHAN'S VOICE,103,somewhere in sydney
+961,961,961,961,961,977,care to harden the target,1975,ETHAN'S VOICE,103,care to harden the target
+962,962,962,962,962,978,i can't until...,1977,LUTHER'S VOICE,103,i can't until...
+963,963,963,963,963,979,i can get the gps up on our computer.,1978,LUTHER'S VOICE,103,i can get the gps up on our computer.
+964,964,964,964,964,980,it's down.,1978,LUTHER,103,it's down.
+965,965,965,965,965,981,the clock is ticking.,1980,ETHAN,103,the clock is ticking.
+966,966,966,966,966,982,how quickly can you manufacture more of the antivirus,1981,AMBROSE,104,how quickly can you manufacture more of the antivirus
+967,967,967,967,967,983,"no time at all, once i've got it.",1982,MCCLOY,104,"no time at all, once i've got it."
+968,968,968,968,968,984,good.,1983,AMBROSE,104,good.
+969,969,969,969,969,985,biocyte stock is just a few weeks away from going through the roof.,1983,AMBROSE,104,biocyte stock is just a few weeks away from going through the roof.
+970,970,970,970,970,986, what are you talking about,1984,MCCLOY,104, what are you talking about
+971,971,971,971,971,987, an outbreak of chimera.,1984,AMBROSE,104, an outbreak of chimera.
+972,972,972,972,972,988, where,1987,MCCLOY,104, where
+973,973,973,973,973,989," downtown sydney, for a start.",1987,AMBROSE,104," downtown sydney, for a start."
+974,974,974,974,974,990,"you create the supply, mr. mccloy.",1988,AMBROSE (cont'd),104,"you create the supply, mr. mccloy."
+975,975,975,975,975,991,we've just created the demand.,1989,AMBROSE (cont'd),104,we've just created the demand.
+976,976,976,976,976,992,three million people in sydney...,1989,AMBROSE (cont'd),104,three million people in sydney...
+977,977,977,977,977,993,and 17 million people in australia...,1989,AMBROSE (cont'd),104,and 17 million people in australia...
+978,978,978,978,978,994,"are going to need bellerophon within the next few days,",1989,AMBROSE (cont'd),104,"are going to need bellerophon within the next few days,"
+979,979,979,979,979,995,not to mention the rest of the world.,1989,AMBROSE (cont'd),104,not to mention the rest of the world.
+980,980,980,980,980,996,"now, this is how it's going to work.",1989,AMBROSE,104,"now, this is how it's going to work."
+981,981,981,981,981,997," wallis, the shares outstanding are",1990,AMBROSE,104," wallis, the shares outstanding are"
+982,982,982,982,982,998,93.4 million.,1990,WALLIS,104,93.4 million.
+983,983,983,983,983,999,"which means, mr. mccloy, we need to get our hands on 480,000 options.",1991,AMBROSE,104,"which means, mr. mccloy, we need to get our hands on 480,000 options."
+984,984,984,984,984,1000,we'll borrow your 30 million to buy those options.,1991,AMBROSE,104,we'll borrow your 30 million to buy those options.
+985,985,985,985,985,1001,your stock has never sold above 3 1 a share.,1992,AMBROSE,104,your stock has never sold above 3 1 a share.
+986,986,986,986,986,1002,"when your stock goes north of 200,",1993,AMBROSE,104,"when your stock goes north of 200,"
+987,987,987,987,987,1003,"which it will, those options will be worth billions,",1994,AMBROSE (cont'd),104,"which it will, those options will be worth billions,"
+988,988,988,988,988,1004,and i will own 51 of biocyte.,1996,AMBROSE (cont'd),104,and i will own 51 of biocyte.
+989,989,989,989,989,1005,this is outrageous.,1997,MCCLOY,104,this is outrageous.
+990,990,990,990,990,1006,i will not let you take control of my company.,1997,MCCLOY,104,i will not let you take control of my company.
+991,991,991,991,991,1007,sit down.,1998,AMBROSE,104,sit down.
+992,992,992,992,992,1008,you'll be a billionaire.,2023,AMBROSE,104,you'll be a billionaire.
+993,993,993,993,993,1009,it's better than being broke.,2023,AMBROSE,104,it's better than being broke.
+994,994,994,994,994,1010,i have terrorists and...,2024,AMBROSE,104,i have terrorists and...
+995,995,995,995,995,1011,other pharmaceutical companies standing in line.,2024,AMBROSE,104,other pharmaceutical companies standing in line.
+996,996,996,996,996,1012,"the ball's in your court, mr. mccloy.",2027,AMBROSE,104,"the ball's in your court, mr. mccloy."
+997,997,997,997,997,1013,run that bastard down.,2056,AMBROSE,112,run that bastard down.
+998,998,998,998,998,1014,"we're running short on time, mr. mccloy.",2063,AMBROSE,114,"we're running short on time, mr. mccloy."
+999,999,999,999,999,1015,we have got to conclude our business.,2067,AMBROSE,114,we have got to conclude our business.
+1000,1000,1000,1000,1000,1016,yes.,2068,MCCLOY,114,yes.
+1001,1001,1001,1001,1001,1017,start the transfer.,2068,MCCLOY,114,start the transfer.
+1002,1002,1002,1002,1002,1018,follow it... and let me know.,2074,AMBROSE,114,follow it... and let me know.
+1003,1003,1003,1003,1003,1020,raise your hands very slowly.,2105,ETHAN,115,raise your hands very slowly.
+1004,1004,1004,1004,1004,1021,sure you want me to do this,2106,STAMP,115,sure you want me to do this
+1005,1005,1005,1005,1005,1022,raise your hands very slowly.,2106,STAMP,115,raise your hands very slowly.
+1006,1006,1006,1006,1006,1023,"ethan, ethan, do you copy",2130,LUTHER,116,"ethan, ethan, do you copy"
+1007,1007,1007,1007,1007,1024,do you copy,2130,LUTHER,116,do you copy
+1008,1008,1008,1008,1008,1025,keep it going,2134,AMBROSE,117,keep it going
+1009,1009,1009,1009,1009,1026,"sean, this rat's reached the end of the maze.",2138,STAMP'S VOICE,117,"sean, this rat's reached the end of the maze."
+1010,1010,1010,1010,1010,1027,is he alive,2138,AMBROSE,117,is he alive
+1011,1011,1011,1011,1011,1028,"yeah, more or less.",2138,STAMP'S VOICE,117,"yeah, more or less."
+1012,1012,1012,1012,1012,1029,bring him to me.,2138,AMBROSE,117,bring him to me.
+1013,1013,1013,1013,1013,1030,go,2139,LUTHER,118,go
+1014,1014,1014,1014,1014,1031,"sean, transfer completed.",2144,WALLIS,122,"sean, transfer completed."
+1015,1015,1015,1015,1015,1032,"well done, stamp.",2155,AMBROSE,122,"well done, stamp."
+1016,1016,1016,1016,1016,1033,well done.,2155,AMBROSE,122,well done.
+1017,1017,1017,1017,1017,1034,stop mumbling,2172,AMBROSE (cont'd),122,stop mumbling
+1018,1018,1018,1018,1018,1035,i'm afraid he's got no choice.,2174,STAMP,122,i'm afraid he's got no choice.
+1019,1019,1019,1019,1019,1036,i believe i broke his jaw.,2175,STAMP,122,i believe i broke his jaw.
+1020,1020,1020,1020,1020,1037,"stamp, i'm impressed.",2176,AMBROSE,122,"stamp, i'm impressed."
+1021,1021,1021,1021,1021,1038,right.,2177,AMBROSE,122,right.
+1022,1022,1022,1022,1022,1039,"we don't have a lot of time, hunt.",2177,AMBROSE,122,"we don't have a lot of time, hunt."
+1023,1023,1023,1023,1023,1040,"what ever you got to say, say it now.",2178,AMBROSE,122,"what ever you got to say, say it now."
+1024,1024,1024,1024,1024,1041,how about giving us a big smile,2181,AMBROSE (cont'd),122,how about giving us a big smile
+1025,1025,1025,1025,1025,1042, no,2183,AMBROSE (cont'd),122, no
+1026,1026,1026,1026,1026,1043, what are you doing,2183,AMBROSE (cont'd),122, what are you doing
+1027,1027,1027,1027,1027,1044,get down on your knees.,2188,AMBROSE (cont'd),122,get down on your knees.
+1028,1028,1028,1028,1028,1045,"now, this is what's known...",2190,AMBROSE (cont'd),122,"now, this is what's known..."
+1029,1029,1029,1029,1029,1046,as getting your gun off.,2191,AMBROSE (cont'd),122,as getting your gun off.
+1030,1030,1030,1030,1030,1047,there he is,2224,BILLY,126,there he is
+1031,1031,1031,1031,1031,1048,ethan,2234,BILLY,127,ethan
+1032,1032,1032,1032,1032,1049,just back off and pinpoint your positions,2255,ETHAN,127,just back off and pinpoint your positions
+1033,1033,1033,1033,1033,1050,"luther, clear the bridge for me",2305,ETHAN,128,"luther, clear the bridge for me"
+1034,1034,1034,1034,1034,1051,"hunt's heading for the bridge, coming in at 1200 high.",2308,AMBROSE,129,"hunt's heading for the bridge, coming in at 1200 high."
+1035,1035,1035,1035,1035,1052,"oh, i'm mad now.",2322,LUTHER' VOICE,130,"oh, i'm mad now."
+1036,1036,1036,1036,1036,1053,haha,2353,BILLY'S VOICE,130,haha
+1037,1037,1037,1037,1037,1054,"you all right, mate",2372,BILLY'S VOICE,130,"you all right, mate"
+1038,1038,1038,1038,1038,1055,that punk put a hole in my versace,2372,LUTHER,130,that punk put a hole in my versace
+1039,1039,1039,1039,1039,1056,"ethan, the computer's up.",2419,LUTHER,131,"ethan, the computer's up."
+1040,1040,1040,1040,1040,1057,i've got nyah.,2419,LUTHER,131,i've got nyah.
+1041,1041,1041,1041,1041,1058,she's moved out of the city.,2421,LUTHER,131,she's moved out of the city.
+1042,1042,1042,1042,1042,1059,she's on the north head bluff approaching the cliffs.,2423,LUTHER,131,she's on the north head bluff approaching the cliffs.
+1043,1043,1043,1043,1043,1060, but i can't get a visual.,2424,LUTHER,131, but i can't get a visual.
+1044,1044,1044,1044,1044,1061, copy,2424,ETHAN,131, copy
+1045,1045,1045,1045,1045,1062,she's only got a little time left,2427,ETHAN,131,she's only got a little time left
+1046,1046,1046,1046,1046,1063,track ahead and pick her up,2428,ETHAN,131,track ahead and pick her up
+1047,1047,1047,1047,1047,1064,i can't get a good shot.,2437,STAMP,131,i can't get a good shot.
+1048,1048,1048,1048,1048,1065,"ethan, we won't be able to cover you",2437,LUTHER,131,"ethan, we won't be able to cover you"
+1049,1049,1049,1049,1049,1066,my earpiece is failing,2439,ETHAN,131,my earpiece is failing
+1050,1050,1050,1050,1050,1067,you've got me on gps,2439,ETHAN,131,you've got me on gps
+1051,1051,1051,1051,1051,1068,bring her to me,2441,ETHAN,131,bring her to me
+1052,1052,1052,1052,1052,1069,"billy, north head bluff.",2449,LUTHER,134,"billy, north head bluff."
+1053,1053,1053,1053,1053,1070,haul ass.,2449,LUTHER,134,haul ass.
+1054,1054,1054,1054,1054,1071, get out there and keep firing,2467,WALLIS,137, get out there and keep firing
+1055,1055,1055,1055,1055,1072, i can't see anything,2467,ULRICH (cont'd),137, i can't see anything
+1056,1056,1056,1056,1056,1073,"slow down, mate",2469,ULRICH (cont'd),137,"slow down, mate"
+1057,1057,1057,1057,1057,1074,slow down,2469,WALLIS,137,slow down
+1058,1058,1058,1058,1058,1075,range is 2k.,2580,LUTHER,144,range is 2k.
+1059,1059,1059,1059,1059,1077,go ahead.,2743,AMBROSE,145,go ahead.
+1060,1060,1060,1060,1060,1078,"use it, hunt.",2743,AMBROSE,145,"use it, hunt."
+1061,1061,1061,1061,1061,1079,it's not a bad way to go.,2744,AMBROSE,145,it's not a bad way to go.
+1062,1062,1062,1062,1062,1080,it's a lot better than the way that bitch is gonna die.,2745,AMBROSE,145,it's a lot better than the way that bitch is gonna die.
+1063,1063,1063,1063,1063,1081,"hey, there she is",2778,BILLY,146,"hey, there she is"
+1064,1064,1064,1064,1064,1082,hunt,2847,AMBROSE,147,hunt
+1065,1065,1065,1065,1065,1083,you should've killed me.,2849,AMBROSE,148,you should've killed me.
+1066,1066,1066,1066,1066,1084,"miss hall's blood, it appears,",2886,SWANBECK,149,"miss hall's blood, it appears,"
+1067,1067,1067,1067,1067,1085,"has absolutely no elements of the chimera virus,",2886,SWANBECK,149,"has absolutely no elements of the chimera virus,"
+1068,1068,1068,1068,1068,1086,not even antibodies.,2886,SWANBECK,149,not even antibodies.
+1069,1069,1069,1069,1069,1087,yes.,2887,ETHAN,149,yes.
+1070,1070,1070,1070,1070,1088,i gathered as much.,2887,ETHAN,149,i gathered as much.
+1071,1071,1071,1071,1071,1089,"but you were under specific instructions, mr. hunt,",2888,SWANBECK,149,"but you were under specific instructions, mr. hunt,"
+1072,1072,1072,1072,1072,1090,to bring back a living sample of the chimera virus.,2888,SWANBECK,149,to bring back a living sample of the chimera virus.
+1073,1073,1073,1073,1073,1091,"i'd be very interested to know how, after you managed this recovery,",2889,SWANBECK,149,"i'd be very interested to know how, after you managed this recovery,"
+1074,1074,1074,1074,1074,1092,it subsequently got destroyed.,2889,SWANBECK,149,it subsequently got destroyed.
+1075,1075,1075,1075,1075,1093,by fire.,2889,ETHAN,149,by fire.
+1076,1076,1076,1076,1076,1094,"it's the best way, really.",2889,ETHAN,149,"it's the best way, really."
+1077,1077,1077,1077,1077,1095,oh.,2891,SWANBECK (cont'd),149,oh.
+1078,1078,1078,1078,1078,1096,"well, mr. hunt,",2891,SWANBECK (cont'd),149,"well, mr. hunt,"
+1079,1079,1079,1079,1079,1097,"as for miss hall, in light of her efforts,",2892,SWANBECK (cont'd),149,"as for miss hall, in light of her efforts,"
+1080,1080,1080,1080,1080,1098,her criminal record will certainly be expunged.,2892,SWANBECK (cont'd),149,her criminal record will certainly be expunged.
+1081,1081,1081,1081,1081,1099,wiped out.,2893,SWANBECK,149,wiped out.
+1082,1082,1082,1082,1082,1100,i'm assuming you approve.,2893,SWANBECK,149,i'm assuming you approve.
+1083,1083,1083,1083,1083,1101,i do.,2894,ETHAN,149,i do.
+1084,1084,1084,1084,1084,1102,yeah.,2895,SWANBECK,149,yeah.
+1085,1085,1085,1085,1085,1103,"where is she now, by the way",2895,SWANBECK,149,"where is she now, by the way"
+1086,1086,1086,1086,1086,1104,any idea,2895,SWANBECK,149,any idea
+1087,1087,1087,1087,1087,1105,i don't know.,2896,ETHAN,149,i don't know.
+1088,1088,1088,1088,1088,1106,not exactly.,2896,ETHAN,149,not exactly.
+1089,1089,1089,1089,1089,1107,"so, what are your plans",2897,SWANBECK,149,"so, what are your plans"
+1090,1090,1090,1090,1090,1108,i don't know.,2900,ETHAN,149,i don't know.
+1091,1091,1091,1091,1091,1109,"uh, some sort of vacation.",2900,ETHAN,149,"uh, some sort of vacation."
+1092,1092,1092,1092,1092,1110,i'll let you know where i'm going.,2900,ETHAN,149,i'll let you know where i'm going.
+1093,1093,1093,1093,1093,1111,you don't have to do that.,2901,SWANBECK,149,you don't have to do that.
+1094,1094,1094,1094,1094,1112,you don't have to do that.,2901,SWANBECK,149,you don't have to do that.

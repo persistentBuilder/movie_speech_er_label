@@ -1,0 +1,2064 @@
+,0,1,2,3,4,sentence
+0,2,speaking in japanese,17,SECURITY GUARD,1,speaking in japanese
+1,3,attendant in japanese,19,SECURITY GUARD,1,attendant in japanese
+2,4,are you here to kill me,25,ELDERLY JAPANESE MAN,2,are you here to kill me
+3,5,i know what this is.,27,ELDERLY JAPANESE MAN,2,i know what this is.
+4,6,i've seen one before.,28,ELDERLY JAPANESE MAN,2,i've seen one before.
+5,7,"many, many years ago.",28,ELDERLY JAPANESE MAN,2,"many, many years ago."
+6,8,it belonged to a man i met in a halfremembered dream.,29,ELDERLY JAPANESE MAN,2,it belonged to a man i met in a halfremembered dream.
+7,9,a man possessed of some radical notions.,30,ELDERLY JAPANESE MAN,2,a man possessed of some radical notions.
+8,10,cobb what is the most resilient parasite,31,COBB (V.O.),2,cobb what is the most resilient parasite
+9,11,a bacteria,32,COBB,3,a bacteria
+10,12,a virus,32,COBB,3,a virus
+11,13,an intestinal worm,33,COBB,3,an intestinal worm
+12,15,what mr. cobb is trying to say...,34,ARTHUR,3,what mr. cobb is trying to say...
+13,16,an idea.,35,COBB,3,an idea.
+14,17,resilient.,37,COBB,3,resilient.
+15,18,highly contagious.,37,COBB,3,highly contagious.
+16,19,"once an idea has taken hold of the brain, it's almost impossible to eradicate.",37,COBB,3,"once an idea has taken hold of the brain, it's almost impossible to eradicate."
+17,20,"an idea that is fully formed, fully understood, that sticks.",39,COBB,3,"an idea that is fully formed, fully understood, that sticks."
+18,21,right in there somewhere.,39,COBB,3,right in there somewhere.
+19,22,for someone like you to steal,40,SAITO,3,for someone like you to steal
+20,23,yes.,40,ARTHUR,3,yes.
+21,24,"in the dream state, your conscious defenses are lowered...",40,ARTHUR,3,"in the dream state, your conscious defenses are lowered..."
+22,25,...and that makes your thoughts vulnerable to theft.,41,ARTHUR,3,...and that makes your thoughts vulnerable to theft.
+23,26,it's called extraction.,41,ARTHUR,3,it's called extraction.
+24,27,"mr. saito, we can train your subconscious to defend itself...",42,COBB,3,"mr. saito, we can train your subconscious to defend itself..."
+25,28,...from even the most skilled extractor.,42,COBB,3,...from even the most skilled extractor.
+26,29,how can you do that,42,SAITO,3,how can you do that
+27,30,because i am the most skilled extractor.,43,COBB,3,because i am the most skilled extractor.
+28,31,i know how to search your mind and find your secrets.,43,COBB,3,i know how to search your mind and find your secrets.
+29,32,i know the tricks.,43,COBB,3,i know the tricks.
+30,33,"and i can teach them to you, so that even when you're asleep...",43,COBB,3,"and i can teach them to you, so that even when you're asleep..."
+31,34,...your defense is never down.,43,COBB,3,...your defense is never down.
+32,35,"look, if you want my help, you're gonna have to be completely open with me.",44,COBB,3,"look, if you want my help, you're gonna have to be completely open with me."
+33,36,i need to know my way around your thoughts better than your wife...,45,COBB,3,i need to know my way around your thoughts better than your wife...
+34,37,"...better than your therapist, better than anyone.",46,COBB,3,"...better than your therapist, better than anyone."
+35,38,"if this is a dream, and you have a safe full of secrets...",46,COBB,3,"if this is a dream, and you have a safe full of secrets..."
+36,39,...i need to know what's in that safe.,47,COBB,3,...i need to know what's in that safe.
+37,40,"in order for this all to work, you need to completely let me in.",48,COBB,3,"in order for this all to work, you need to completely let me in."
+38,41,"enjoy your evening, gentlemen, as i consider your proposal.",50,SAITO,3,"enjoy your evening, gentlemen, as i consider your proposal."
+39,42,he knows.,52,ARTHUR,3,he knows.
+40,44,what's going on up there,54,ARTHUR,3,what's going on up there
+41,49,saito knows.,69,ARTHUR,6,saito knows.
+42,50,he's playing with us.,69,ARTHUR,6,he's playing with us.
+43,51,doesn't matter.,70,COBB,6,doesn't matter.
+44,52,i can get it here.,70,COBB,6,i can get it here.
+45,53,trust me.,70,COBB,6,trust me.
+46,54,the information is in the safe.,70,COBB,6,the information is in the safe.
+47,55,he looked right at it when i mentioned secrets.,70,COBB,6,he looked right at it when i mentioned secrets.
+48,56,what's she doing here,71,ARTHUR,6,what's she doing here
+49,57,just head back to the room.,73,COBB,6,just head back to the room.
+50,58,all right,73,ARTHUR,6,all right
+51,59,i'll take care of this.,73,COBB,6,i'll take care of this.
+52,60,"okay, make sure you do.",73,ARTHUR,6,"okay, make sure you do."
+53,61,we're here to work.,73,ARTHUR,6,we're here to work.
+54,62,"if i jumped, would i survive",74,MAL,6,"if i jumped, would i survive"
+55,63,"with a clean dive, perhaps.",74,COBB,6,"with a clean dive, perhaps."
+56,64,"mal, what are you doing here",75,COBB,6,"mal, what are you doing here"
+57,65,i thought you might be missing me.,75,MAL,6,i thought you might be missing me.
+58,66,you know that i am.,75,COBB,6,you know that i am.
+59,67,but i can't trust you anymore.,76,COBB,6,but i can't trust you anymore.
+60,68,so what,77,MAL,6,so what
+61,69,looks like arthur's taste.,78,MAL,7,looks like arthur's taste.
+62,70,"actually, the subject is partial to postwar british painters.",80,COBB,7,"actually, the subject is partial to postwar british painters."
+63,71,"please, have a seat.",82,COBB,7,"please, have a seat."
+64,72,tell me...,86,MAL,7,tell me...
+65,73,...do the children miss me,87,MAL,7,...do the children miss me
+66,74,you can't imagine.,89,COBB,7,you can't imagine.
+67,75,what are you doing,92,MAL,7,what are you doing
+68,76,just getting some fresh air.,93,COBB,7,just getting some fresh air.
+69,77,"stay where you are, mal.",95,COBB,7,"stay where you are, mal."
+70,79,goddamn it.,104,COBB,7,goddamn it.
+71,84,turn around.,120,SAITO (O.S.),12,turn around.
+72,85,"the gun, dom.",121,MAL,12,"the gun, dom."
+73,86,please.,125,MAL,12,please.
+74,87,"now the envelope, mr. cobb.",130,SAITO,12,"now the envelope, mr. cobb."
+75,88,did she tell you,131,COBB,12,did she tell you
+76,89,or have you known all along,131,COBB,12,or have you known all along
+77,90,"that you're here to steal from me, or that we are actually asleep",132,SAITO,12,"that you're here to steal from me, or that we are actually asleep"
+78,91,i want to know the name of your employer.,135,SAITO,12,i want to know the name of your employer.
+79,92,"ah, there's no use threatening him in a dream, right, mal",137,COBB,12,"ah, there's no use threatening him in a dream, right, mal"
+80,93,that depends on what you're threatening.,138,MAL,12,that depends on what you're threatening.
+81,94,killing him would just wake him up.,138,MAL,12,killing him would just wake him up.
+82,95,but pain...,138,MAL,12,but pain...
+83,97,pain is in the mind.,142,MAL,12,pain is in the mind.
+84,98,"and judging by the decor, we're in your mind, aren't we, arthur",142,MAL,12,"and judging by the decor, we're in your mind, aren't we, arthur"
+85,100, what are you doing,153,NASH,13, what are you doing
+86,101,it's too soon.,153,NASH,13,it's too soon.
+87,102, but the dream's collapsing.,153,ARTHUR,13, but the dream's collapsing.
+88,103,i'm gonna try to keep saito under a little bit longer.,154,ARTHUR,13,i'm gonna try to keep saito under a little bit longer.
+89,104,we're almost there.,154,ARTHUR,13,we're almost there.
+90,106,he was close.,162,MAL,13,he was close.
+91,107,very close.,162,MAL,13,very close.
+92,110,stop him,172,SAITO,17,stop him
+93,115,this isn't gonna work.,187,ARTHUR,19,this isn't gonna work.
+94,116,wake him up.,187,ARTHUR,19,wake him up.
+95,118,he won't wake.,201,NASH,24,he won't wake.
+96,119, give him the kick.,206,ARTHUR,24, give him the kick.
+97,120,what,206,NASH,24,what
+98,121,dunk him.,207,ARTHUR,25,dunk him.
+99,125,he's out.,223,COBB,25,he's out.
+100,127,"you came prepared, hmm",225,COBB,31,"you came prepared, hmm"
+101,128,not even my head of security knows this apartment.,226,SAITO,31,not even my head of security knows this apartment.
+102,129,how did you find it,226,SAITO,31,how did you find it
+103,130,it's difficult for a man of your position to keep a love nest like this secret...,227,COBB,31,it's difficult for a man of your position to keep a love nest like this secret...
+104,131,...particularly where there's a married woman involved.,227,COBB,31,...particularly where there's a married woman involved.
+105,132, she would never...,229,SAITO,31, she would never...
+106,133, yet here we are.,231,COBB,31, yet here we are.
+107,133,with a dilemma.,231,COBB,31,with a dilemma.
+108,134, they're getting closer.,231,ARTHUR,31, they're getting closer.
+109,135, you got what you came for.,232,SAITO,31, you got what you came for.
+110,136,"cobb well, that's not true.",232,COBB,31,"cobb well, that's not true."
+111,137,"you left out a key piece of information, didn't you",233,COBB,31,"you left out a key piece of information, didn't you"
+112,138,you held something back because you knew what we were up to.,234,COBB,33,you held something back because you knew what we were up to.
+113,139," question is, why'd you let us in at all",235,COBB,33," question is, why'd you let us in at all"
+114,140, an audition.,235,SAITO,33, an audition.
+115,141, an audition for what,238,COBB,33, an audition for what
+116,142, doesn't matter.,238,SAITO,33, doesn't matter.
+117,143,you failed.,238,SAITO,33,you failed.
+118,144,we extracted every bit of information you had in there.,239,COBB,33,we extracted every bit of information you had in there.
+119,145,but your deception was obvious.,241,SAITO,33,but your deception was obvious.
+120,147,"edith piaf's non, je ne regrette rien playing",256,SAITO,35,"edith piaf's non, je ne regrette rien playing"
+121,149, so leave me and go.,259,SAITO,35, so leave me and go.
+122,150," you don't seem to understand, mr. saito.",259,COBB,35," you don't seem to understand, mr. saito."
+123,151,"that corporation that hired us, they won't accept failure.",262,COBB,35,"that corporation that hired us, they won't accept failure."
+124,152,we won't last two days.,263,COBB,35,we won't last two days.
+125,153,cobb,265,ARTHUR,35,cobb
+126,154,looks like i'm gonna have to do this a little more simply.,266,COBB,35,looks like i'm gonna have to do this a little more simply.
+127,155,tell us what you know,270,COBB,35,tell us what you know
+128,156,"tell us what you know, now",270,COBB,35,"tell us what you know, now"
+129,158,i've always hated this carpet.,272,SAITO,35,i've always hated this carpet.
+130,159,it's stained and frayed in such distinctive ways.,274,SAITO,35,it's stained and frayed in such distinctive ways.
+131,160,but very definitely made of wool.,275,SAITO,35,but very definitely made of wool.
+132,161,right now...,275,SAITO,35,right now...
+133,162,...l'm lying on polyester.,275,SAITO,35,...l'm lying on polyester.
+134,163,"which means i'm not lying on my carpet, in my apartment.",278,SAITO,37,"which means i'm not lying on my carpet, in my apartment."
+135,164,"you have lived up to your reputation, mr. cobb.",280,SAITO,37,"you have lived up to your reputation, mr. cobb."
+136,165,i'm still dreaming.,281,SAITO,37,i'm still dreaming.
+137,167, how'd it go,285,TODASHI,38, how'd it go
+138,168, not good.,285,ARTHUR,38, not good.
+139,169,"dream within a dream, huh",288,SAITO,39,"dream within a dream, huh"
+140,170,i'm impressed.,288,SAITO,39,i'm impressed.
+141,171,"but in my dream, you play by my rules.",290,SAITO,41,"but in my dream, you play by my rules."
+142,172,"ah, yes, but you see, mr. saito...",290,NASH,41,"ah, yes, but you see, mr. saito..."
+143,173,we're not in your dream.,291,COBB,41,we're not in your dream.
+144,174,we're in mine.,292,NASH,41,we're in mine.
+145,178,asshole.,299,ARTHUR (O.S.),42,asshole.
+146,179,how do you mess up the carpet,299,ARTHUR,42,how do you mess up the carpet
+147,180, it wasn't my fault.,301,NASH,42, it wasn't my fault.
+148,181, you're the architect.,301,ARTHUR,42, you're the architect.
+149,182,i didn't know he was gonna rub his cheek on it,302,NASH,42,i didn't know he was gonna rub his cheek on it
+150,183,that's enough.,303,COBB,42,that's enough.
+151,184,you.,304,ARTHUR,42,you.
+152,185,what the hell was all that,304,ARTHUR,42,what the hell was all that
+153,186, i have it under control.,305,COBB,42, i have it under control.
+154,187, i'd hate to see you out of control.,305,ARTHUR,42, i'd hate to see you out of control.
+155,188,we don't have time for this.,309,COBB,42,we don't have time for this.
+156,189,i'm getting off at kyoto.,309,COBB,42,i'm getting off at kyoto.
+157,190,he's not gonna check every compartment.,309,ARTHUR,42,he's not gonna check every compartment.
+158,191,"yeah, well, i don't like trains.",309,COBB,42,"yeah, well, i don't like trains."
+159,192,listen.,309,COBB,42,listen.
+160,193,every man for himself.,309,COBB,42,every man for himself.
+161,195,"yes, hello",326,COBB,46,"yes, hello"
+162,196,"hi, daddy.",327,CHILDREN'S VOICES,46,"hi, daddy."
+163,197,"hi, dad.",327,CHILDREN'S VOICES,46,"hi, dad."
+164,198,"hey, guys.",328,COBB,46,"hey, guys."
+165,199,hey.,328,COBB,46,hey.
+166,200,how are you,328,COBB,46,how are you
+167,201,"how you doing, huh",328,COBB,46,"how you doing, huh"
+168,202,good.,328,CHILDREN'S VOICES,46,good.
+169,203,"okay, i guess.",328,CHILDREN'S VOICES,46,"okay, i guess."
+170,204,okay,328,COBB,46,okay
+171,205,who's just okay,328,COBB,46,who's just okay
+172,206,"is that you, james",328,COBB,46,"is that you, james"
+173,207,yeah.,329,JAMES,46,yeah.
+174,208,"when are you coming home, dad",329,JAMES,46,"when are you coming home, dad"
+175,209,"well, i can't, sweetheart.",330,COBB,46,"well, i can't, sweetheart."
+176,210,i can't.,330,COBB,46,i can't.
+177,211,"not for a while, remember",330,COBB,46,"not for a while, remember"
+178,212,why,330,COBB,46,why
+179,213,"look, i told you, i'm away because i'm working, right",330,COBB,46,"look, i told you, i'm away because i'm working, right"
+180,214,grandma says you're never coming back.,330,LITTLE GIRL,46,grandma says you're never coming back.
+181,215,"phillipa, is that you",331,COBB,46,"phillipa, is that you"
+182,216,"put grandma on the phone for me, will you",332,COBB,46,"put grandma on the phone for me, will you"
+183,217,she's shaking her head.,332,PHILIPPA,46,she's shaking her head.
+184,218,"well, just hope she's wrong about that.",332,COBB,46,"well, just hope she's wrong about that."
+185,219,daddy,332,JAMES,46,daddy
+186,220,"yeah, james",332,COBB,46,"yeah, james"
+187,221,is mommy with you,332,JAMES,46,is mommy with you
+188,222,"james, we talked about this.",334,COBB,46,"james, we talked about this."
+189,223,mommy's not here anymore.,334,COBB,46,mommy's not here anymore.
+190,224,where,334,JAMES,46,where
+191,225,"that's enough, kids.",334,GRANDMA'S VOICE,46,"that's enough, kids."
+192,226,say byebye.,334,GRANDMA'S VOICE,46,say byebye.
+193,227,"listen, i'm gonna send some presents with grandpa, all right",334,COBB,46,"listen, i'm gonna send some presents with grandpa, all right"
+194,228,"and you be good, you be...",334,COBB,46,"and you be good, you be..."
+195,231, our ride's on the roof.,336,ARTHUR,46, our ride's on the roof.
+196,233,"hey, are you okay",337,ARTHUR,46,"hey, are you okay"
+197,234,yeah.,338,COBB,46,yeah.
+198,235,"yeah, i'm fine.",338,COBB,46,"yeah, i'm fine."
+199,236,why,338,COBB,46,why
+200,237,"well, down in the dream, mal showing up.",338,ARTHUR,46,"well, down in the dream, mal showing up."
+201,238,"look, i'm, uh, sorry about your leg.",340,COBB,46,"look, i'm, uh, sorry about your leg."
+202,239,won't happen again.,340,COBB,46,won't happen again.
+203,240," it's getting worse, isn't it",341,ARTHUR,46," it's getting worse, isn't it"
+204,241," one apology's all you're getting, all right",341,COBB,46," one apology's all you're getting, all right"
+205,242, where's nash,343,COBB,46, where's nash
+206,243, he hasn't shown.,343,ARTHUR,46, he hasn't shown.
+207,244,you wanna wait,343,ARTHUR,46,you wanna wait
+208,245,we were supposed to deliver saito's expansion plans...,344,COBB,46,we were supposed to deliver saito's expansion plans...
+209,246,...to cobol engineering two hours ago.,344,COBB,46,...to cobol engineering two hours ago.
+210,247,"by now, they know we failed.",345,COBB,46,"by now, they know we failed."
+211,248,it's time we disappear.,345,COBB,46,it's time we disappear.
+212,249, where you gonna go,346,ARTHUR,47, where you gonna go
+213,250, buenos aires.,346,COBB,47, buenos aires.
+214,251,"i can lie low there, maybe sniff out a job when things quiet down.",346,COBB,47,"i can lie low there, maybe sniff out a job when things quiet down."
+215,252,you,346,COBB,47,you
+216,253,stateside.,346,ARTHUR,47,stateside.
+217,254,send my regards.,346,COBB,47,send my regards.
+218,255,he sold you out.,349,SAITO,49,he sold you out.
+219,256,thought to come to me and bargain for his life.,349,SAITO,49,thought to come to me and bargain for his life.
+220,257,so i offer you the satisfaction.,353,SAITO,49,so i offer you the satisfaction.
+221,258,it's not the way i deal with things.,356,COBB,49,it's not the way i deal with things.
+222,260, what will you do with him,361,COBB,49, what will you do with him
+223,261, nothing.,361,SAITO,49, nothing.
+224,262,but i can't speak for cobol engineering.,362,SAITO,49,but i can't speak for cobol engineering.
+225,263, what do you want from us,366,COBB,49, what do you want from us
+226,264, inception.,366,SAITO,49, inception.
+227,265, is it possible,368,SAITO,49, is it possible
+228,266, of course not.,368,ARTHUR,49, of course not.
+229,267,if you can steal an idea from someone's mind...,371,SAITO,49,if you can steal an idea from someone's mind...
+230,268,...why can't you plant one there instead,371,SAITO,49,...why can't you plant one there instead
+231,269,"okay, here's me planting an idea in your head.",372,ARTHUR,49,"okay, here's me planting an idea in your head."
+232,270,"i say, don't think about elephants.",372,ARTHUR,49,"i say, don't think about elephants."
+233,271,what are you thinking about,372,ARTHUR,49,what are you thinking about
+234,272,elephants.,373,SAITO,49,elephants.
+235,273,right.,374,ARTHUR,49,right.
+236,274,"but it's not your idea, because you know i gave it to you.",374,ARTHUR,49,"but it's not your idea, because you know i gave it to you."
+237,275,the subject's mind can always trace the genesis of the idea.,376,ARTHUR,49,the subject's mind can always trace the genesis of the idea.
+238,276, true inspiration's impossible to fake.,377,ARTHUR,49, true inspiration's impossible to fake.
+239,277, that's not true.,377,COBB,49, that's not true.
+240,278, can you do it,380,COBB,49, can you do it
+241,279, are you offering me a choice,380,COBB,49, are you offering me a choice
+242,280,because i can find my own way to square things with cobol.,380,COBB,49,because i can find my own way to square things with cobol.
+243,281,then you do have a choice.,381,SAITO,49,then you do have a choice.
+244,282,"then i choose to leave, sir.",382,COBB,49,"then i choose to leave, sir."
+245,283,tell the crew where you want to go.,384,SAITO,50,tell the crew where you want to go.
+246,284,"hey, mr. cobb.",386,SAITO,50,"hey, mr. cobb."
+247,285,how would you like to go home,388,SAITO,50,how would you like to go home
+248,286,to america.,388,SAITO,50,to america.
+249,287,to your children.,388,SAITO,50,to your children.
+250,288,you can't fix that.,389,COBB,50,you can't fix that.
+251,289,no one can.,389,COBB,50,no one can.
+252,290, just like inception.,390,SAITO,50, just like inception.
+253,291," cobb, come on.",390,ARTHUR,50," cobb, come on."
+254,292, how complex is the idea,391,COBB,50, how complex is the idea
+255,293, simple enough.,391,SAITO,50, simple enough.
+256,294,no idea is simple when you need to plant it in somebody else's mind.,393,COBB,50,no idea is simple when you need to plant it in somebody else's mind.
+257,295,my main competitor is an old man in poor health.,394,SAITO,50,my main competitor is an old man in poor health.
+258,296,his son will soon inherit control of the corporation.,394,SAITO,50,his son will soon inherit control of the corporation.
+259,297,i need him to decide to break up his father's empire.,394,SAITO,50,i need him to decide to break up his father's empire.
+260,298," cobb, we should walk away from this.",395,ARTHUR,50," cobb, we should walk away from this."
+261,299, hold on.,395,COBB,50, hold on.
+262,300,"if i were to do this, if i even could do it...",395,COBB,50,"if i were to do this, if i even could do it..."
+263,301,...l'd need a guarantee.,395,COBB,50,...l'd need a guarantee.
+264,302, how do i know you can deliver,395,COBB,50, how do i know you can deliver
+265,303, you don't.,395,SAITO,50, you don't.
+266,304,but i can.,396,SAITO,50,but i can.
+267,305,so do you want to take a leap of faith...,396,SAITO,50,so do you want to take a leap of faith...
+268,306,"...or become an old man, filled with regret...",396,SAITO,50,"...or become an old man, filled with regret..."
+269,307,...waiting to die alone,397,SAITO,50,...waiting to die alone
+270,308,"assemble your team, mr. cobb.",398,SAITO,50,"assemble your team, mr. cobb."
+271,309,and choose your people more wisely.,398,SAITO,50,and choose your people more wisely.
+272,310,"look, i know how much you wanna go home.",401,ARTHUR,51,"look, i know how much you wanna go home."
+273,311,this can't be done.,402,ARTHUR,51,this can't be done.
+274,312,"yes, it can.",402,COBB,51,"yes, it can."
+275,313,just have to go deep enough.,402,COBB,51,just have to go deep enough.
+276,314,you don't know that.,402,ARTHUR,51,you don't know that.
+277,315,i've done it before.,402,COBB,51,i've done it before.
+278,316,who'd you do it to,403,ARTHUR,51,who'd you do it to
+279,317,why are we going to paris,406,ARTHUR,51,why are we going to paris
+280,318,we're gonna need a new architect.,406,COBB,51,we're gonna need a new architect.
+281,320,"you never did like your office, did you",411,COBB (O.S.),53,"you never did like your office, did you"
+282,321,no space to think in that broom cupboard.,413,MILES,53,no space to think in that broom cupboard.
+283,322,is it safe for you to be here,414,MILES,53,is it safe for you to be here
+284,323,extradition between france and the united states...,415,COBB,53,extradition between france and the united states...
+285,324,"...is a bureaucratic nightmare, you know that.",415,COBB,53,"...is a bureaucratic nightmare, you know that."
+286,325,i think they might find a way to make it work in your case.,416,MILES,53,i think they might find a way to make it work in your case.
+287,326,"look, i, uh, brought these for you to give to the kids when you have a chance.",417,COBB,53,"look, i, uh, brought these for you to give to the kids when you have a chance."
+288,327,it'll take more than the occasional stuffed animal...,417,MILES,53,it'll take more than the occasional stuffed animal...
+289,328,...to convince those children they still have a father.,418,MILES,53,...to convince those children they still have a father.
+290,329,i'm just doing what i know.,419,COBB,53,i'm just doing what i know.
+291,330,i'm doing what you taught me.,419,COBB,53,i'm doing what you taught me.
+292,331,i never taught you to be a thief.,420,MILES,53,i never taught you to be a thief.
+293,332,"no, you taught me to navigate people's minds.",421,COBB,53,"no, you taught me to navigate people's minds."
+294,333,but after what happened...,421,COBB,53,but after what happened...
+295,334,...there weren't a whole lot of legitimate ways for me to use that skill.,421,COBB,53,...there weren't a whole lot of legitimate ways for me to use that skill.
+296,335,"what are you doing here, dom",422,MILES,53,"what are you doing here, dom"
+297,336,i think i found a way home.,423,COBB,53,i think i found a way home.
+298,337,"it's a job for some very, very powerful people.",424,COBB,53,"it's a job for some very, very powerful people."
+299,338,people who i believe can fix my charges permanently.,425,COBB,53,people who i believe can fix my charges permanently.
+300,339,but i need your help.,427,COBB,53,but i need your help.
+301,340,you're here to corrupt one of my brightest and best.,428,MILES,53,you're here to corrupt one of my brightest and best.
+302,341,you know what i'm offering.,429,COBB,53,you know what i'm offering.
+303,342,let them decide for themselves.,429,COBB,53,let them decide for themselves.
+304,343, money.,430,MILES,53, money.
+305,344, not just money.,430,COBB,53, not just money.
+306,345,you remember.,431,COBB,53,you remember.
+307,346,"it's the chance to build cathedrals, entire cities...",431,COBB,53,"it's the chance to build cathedrals, entire cities..."
+308,347,...things that never existed...,431,COBB,53,...things that never existed...
+309,348,...things that couldn't exist in the real world.,432,COBB,53,...things that couldn't exist in the real world.
+310,349,so you want me to let someone else follow you into your fantasy,432,MILES,53,so you want me to let someone else follow you into your fantasy
+311,350,they don't actually come into the dream.,433,COBB,53,they don't actually come into the dream.
+312,351,they just design the levels and teach them to the dreamers.,433,COBB,53,they just design the levels and teach them to the dreamers.
+313,352,that's all.,433,COBB,53,that's all.
+314,353,design it yourself.,434,MILES,53,design it yourself.
+315,354,mal won't let me.,435,COBB,53,mal won't let me.
+316,355,"come back to reality, dom.",436,MILES,53,"come back to reality, dom."
+317,356, please.,436,MILES,53, please.
+318,357, reality.,436,COBB,53, reality.
+319,358,"those kids, your grandchildren...",437,COBB,53,"those kids, your grandchildren..."
+320,359,...they're waiting for their father to come back home.,438,COBB,53,...they're waiting for their father to come back home.
+321,360,that's their reality.,438,COBB,53,that's their reality.
+322,361,"and this job, this last job, that's how i get there.",439,COBB,53,"and this job, this last job, that's how i get there."
+323,362,i would not be standing here if i knew any other way.,440,COBB,53,i would not be standing here if i knew any other way.
+324,363,i need an architect who's as good as i was.,441,COBB,53,i need an architect who's as good as i was.
+325,364,i've got somebody better.,442,MILES,53,i've got somebody better.
+326,365,ariadne,442,MILES,54,ariadne
+327,366,i'd like you to meet mr. cobb.,443,MILES,54,i'd like you to meet mr. cobb.
+328,367,pleased to meet you.,443,ARIADNE,54,pleased to meet you.
+329,368,"if you have a few moments, mr. cobb has a job offer he'd like to discuss with you.",443,MILES,54,"if you have a few moments, mr. cobb has a job offer he'd like to discuss with you."
+330,369,a work placement,443,ARIADNE,54,a work placement
+331,370,not exactly.,444,COBB,54,not exactly.
+332,371,i have a test for you.,445,COBB,55,i have a test for you.
+333,372,you're not gonna tell me anything first,446,ARIADNE,55,you're not gonna tell me anything first
+334,373,"before i describe the job, i have to know you can do it.",447,COBB,55,"before i describe the job, i have to know you can do it."
+335,374, why,449,ARIADNE,55, why
+336,375," it's not, strictly speaking, legal.",449,COBB,55," it's not, strictly speaking, legal."
+337,376,you have two minutes to design a maze that it takes one minute to solve.,452,COBB,55,you have two minutes to design a maze that it takes one minute to solve.
+338,377,stop.,453,COBB,55,stop.
+339,378,again.,455,COBB,55,again.
+340,379,stop.,456,COBB,55,stop.
+341,380,you're gonna have to do better than that.,458,COBB,55,you're gonna have to do better than that.
+342,381,that's more like it.,469,COBB,55,that's more like it.
+343,382,they say we only use a fraction of our brain's true potential.,474,COBB,59,they say we only use a fraction of our brain's true potential.
+344,383,"now, that's when we're awake.",475,COBB,59,"now, that's when we're awake."
+345,384,"when we're asleep, our mind can do almost anything.",477,COBB,59,"when we're asleep, our mind can do almost anything."
+346,385,such as,477,ARIADNE,59,such as
+347,386,imagine you're designing a building.,478,COBB,59,imagine you're designing a building.
+348,387,you consciously create each aspect.,478,COBB,59,you consciously create each aspect.
+349,388,"but sometimes, it feels like it's almost creating itself, if you know what i mean.",479,COBB,59,"but sometimes, it feels like it's almost creating itself, if you know what i mean."
+350,389,"yeah, like i'm discovering it.",479,ARIADNE,59,"yeah, like i'm discovering it."
+351,390,"genuine inspiration, right",480,COBB,59,"genuine inspiration, right"
+352,391,"now, in a dream, our mind continuously does this.",480,COBB,59,"now, in a dream, our mind continuously does this."
+353,392,we create and perceive our world simultaneously.,480,COBB,59,we create and perceive our world simultaneously.
+354,393,and our mind does this so well that we don't even know it's happening.,482,COBB,59,and our mind does this so well that we don't even know it's happening.
+355,394,that allows us to get right in the middle of that process.,482,COBB,59,that allows us to get right in the middle of that process.
+356,395, how,485,ARIADNE,59, how
+357,396, by taking over the creating part.,485,COBB,59, by taking over the creating part.
+358,397,"now, this is where i need you.",485,COBB,59,"now, this is where i need you."
+359,398,you create the world of the dream.,486,COBB,59,you create the world of the dream.
+360,399,"we bring the subject into that dream, and they fill it with their subconscious.",487,COBB,59,"we bring the subject into that dream, and they fill it with their subconscious."
+361,400,how could i ever acquire enough detail to make them think that it's reality,488,ARIADNE,59,how could i ever acquire enough detail to make them think that it's reality
+362,401,"well, dreams, they feel real while we're in them, right",489,COBB,59,"well, dreams, they feel real while we're in them, right"
+363,402,it's only when we wake up that we realize something was actually strange.,489,COBB,59,it's only when we wake up that we realize something was actually strange.
+364,403,let me ask you a question.,490,COBB,59,let me ask you a question.
+365,404,"you never really remember the beginning of a dream, do you",490,COBB,59,"you never really remember the beginning of a dream, do you"
+366,405,you always wind up right in the middle of what's going on.,492,COBB,59,you always wind up right in the middle of what's going on.
+367,406,"i guess, yeah.",492,ARIADNE,59,"i guess, yeah."
+368,407,so how did we end up here,493,COBB,59,so how did we end up here
+369,408,"well, we just came from the, uh...",494,ARIADNE,59,"well, we just came from the, uh..."
+370,409,"think about it, ariadne.",495,COBB,59,"think about it, ariadne."
+371,410,how did you get here,495,COBB,59,how did you get here
+372,411,where are you right now,496,COBB,59,where are you right now
+373,412,we're dreaming,498,ARIADNE,59,we're dreaming
+374,413,"you're in the middle of the workshop, sleeping.",499,ARIADNE,59,"you're in the middle of the workshop, sleeping."
+375,414,this is your first lesson in shared dreaming.,500,ARIADNE,59,this is your first lesson in shared dreaming.
+376,415,stay calm.,500,COBB,59,stay calm.
+377,418,"if it's just a dream, then why are you...",519,ARIADNE,59,"if it's just a dream, then why are you..."
+378,420,"cobb because it's never just a dream, is it",520,COBB (O.S.),60,"cobb because it's never just a dream, is it"
+379,421,and a face full of glass hurts like hell.,521,COBB,60,and a face full of glass hurts like hell.
+380,422,"when you're in it, it feels real.",521,COBB,60,"when you're in it, it feels real."
+381,423,arthur that's why the military developed dream sharing.,522,ARTHUR,60,arthur that's why the military developed dream sharing.
+382,424,"it was a training program for soldiers to shoot, stab and strangle each other...",523,ARTHUR,60,"it was a training program for soldiers to shoot, stab and strangle each other..."
+383,425,...and then wake up.,523,ARTHUR,60,...and then wake up.
+384,426,how did architects become involved,523,ARIADNE,60,how did architects become involved
+385,427,"well, someone had to design the dreams, right",523,COBB,60,"well, someone had to design the dreams, right"
+386,428,why don't you give us another five minutes,523,COBB,60,why don't you give us another five minutes
+387,429,five minutes,524,ARIADNE,60,five minutes
+388,430,what...,524,ARIADNE,60,what...
+389,431,"we were talking for, like, at least an hour.",524,ARIADNE,60,"we were talking for, like, at least an hour."
+390,432,"in a dream, your mind functions more quickly...",525,COBB,60,"in a dream, your mind functions more quickly..."
+391,433,...therefore time seems to feel more slow.,525,COBB,60,...therefore time seems to feel more slow.
+392,434,five minutes in the real world gives you an hour in the dream.,526,ARTHUR,60,five minutes in the real world gives you an hour in the dream.
+393,435,why don't you see what you can get up to in five minutes,528,COBB,60,why don't you see what you can get up to in five minutes
+394,437,you've got the basic layout.,532,COBB,61,you've got the basic layout.
+395,438,"bookstore, caf.",532,COBB,61,"bookstore, caf."
+396,439,almost everything else is here too.,532,COBB,61,almost everything else is here too.
+397,440,who are the people,533,ARIADNE,61,who are the people
+398,441,projections of my subconscious.,533,COBB,61,projections of my subconscious.
+399,442, yours,533,ARIADNE,61, yours
+400,443, yes.,533,COBB,61, yes.
+401,444,"remember, you are the dreamer.",534,COBB,61,"remember, you are the dreamer."
+402,445,you build this world.,534,COBB,61,you build this world.
+403,446,i am the subject.,535,COBB,61,i am the subject.
+404,447,my mind populates it.,535,COBB,61,my mind populates it.
+405,448,you can literally talk to my subconscious.,535,COBB,61,you can literally talk to my subconscious.
+406,449,that's one of the ways we extract information from the subject.,535,COBB,61,that's one of the ways we extract information from the subject.
+407,450,how else do you do it,535,ARIADNE,61,how else do you do it
+408,451,"by creating something secure, like a bank vault or a jail.",535,COBB,61,"by creating something secure, like a bank vault or a jail."
+409,452,the mind automatically fills it with information it's trying to protect.,535,COBB,61,the mind automatically fills it with information it's trying to protect.
+410,453, you understand,535,COBB,61, you understand
+411,454, then you break in and steal it,535,ARIADNE,61, then you break in and steal it
+412,455,well...,535,COBB,61,well...
+413,456,i guess i thought that the dream space would be all about the visual...,536,ARIADNE,61,i guess i thought that the dream space would be all about the visual...
+414,457,...but it's more about the feel of it.,537,ARIADNE,61,...but it's more about the feel of it.
+415,458,my question is what happens when you start messing with the physics of it all,538,ARIADNE,61,my question is what happens when you start messing with the physics of it all
+416,460,"it's something, isn't it",546,ARIADNE,61,"it's something, isn't it"
+417,461,"yes, it is.",547,COBB,61,"yes, it is."
+418,462,why are they all looking at me,554,ARIADNE,61,why are they all looking at me
+419,463,because my subconscious feels that someone else is creating this world.,555,COBB,61,because my subconscious feels that someone else is creating this world.
+420,464,"the more you change things, the quicker the projections start to converge on you.",556,COBB,61,"the more you change things, the quicker the projections start to converge on you."
+421,465,converge,557,ARIADNE,61,converge
+422,466,they sense the foreign nature of the dreamer.,557,COBB,61,they sense the foreign nature of the dreamer.
+423,467,"they attack, like white blood cells fighting an infection.",557,COBB,61,"they attack, like white blood cells fighting an infection."
+424,468," what, they're gonna attack us",557,ARIADNE,61," what, they're gonna attack us"
+425,469," no, no.",557,COBB,61," no, no."
+426,470,just you.,557,COBB,61,just you.
+427,472,"this is great, but i'm telling you, if you keep changing things like this...",559,COBB,61,"this is great, but i'm telling you, if you keep changing things like this..."
+428,473,"jeez, mind telling your subconscious to take it easy",561,ARIADNE,61,"jeez, mind telling your subconscious to take it easy"
+429,474,it's my subconscious.,561,COBB,61,it's my subconscious.
+430,475,remember,561,COBB,61,remember
+431,476,i can't control it.,561,COBB,61,i can't control it.
+432,477,very impressive.,572,COBB,61,very impressive.
+433,478,i know this bridge.,577,COBB,61,i know this bridge.
+434,479,"this place is real, isn't it",577,COBB,61,"this place is real, isn't it"
+435,480,"yeah, i cross it every day to get to the college.",578,ARIADNE,61,"yeah, i cross it every day to get to the college."
+436,481,never recreate places from your memory.,579,COBB,61,never recreate places from your memory.
+437,482,always imagine new places.,579,COBB,61,always imagine new places.
+438,483,"you draw from stuff you know, right",580,ARIADNE,61,"you draw from stuff you know, right"
+439,484,only use details.,581,COBB,61,only use details.
+440,485,a streetlamp or a phone booth.,581,COBB,61,a streetlamp or a phone booth.
+441,486,never entire areas.,581,COBB,61,never entire areas.
+442,487, why not,582,ARIADNE,61, why not
+443,488, building a dream from your memory...,582,COBB,61, building a dream from your memory...
+444,489,...is the easiest way to lose your grasp on what's real and what is a dream.,582,COBB,61,...is the easiest way to lose your grasp on what's real and what is a dream.
+445,490, is that what happened to you,582,ARIADNE,61, is that what happened to you
+446,491, listen to me.,582,COBB,61, listen to me.
+447,492,"this has nothing to do with me, understand",583,COBB,61,"this has nothing to do with me, understand"
+448,493,that why you need me to build your dreams,584,COBB,61,that why you need me to build your dreams
+449,494,"hey, get off of her.",586,COBB,61,"hey, get off of her."
+450,495,back up.,586,COBB,61,back up.
+451,496,back up.,586,COBB,61,back up.
+452,497, cobb,587,ARIADNE,61, cobb
+453,498,cobb,587,ARIADNE,61,cobb
+454,499, get off of her,587,COBB,61, get off of her
+455,500, let me go,588,ARIADNE,61, let me go
+456,501,let me go,588,ARIADNE,61,let me go
+457,502, mal,588,COBB,61, mal
+458,503, mal,591,COBB,61, mal
+459,504, cobb,591,ARIADNE,61, cobb
+460,505,wake me up,591,ARIADNE,61,wake me up
+461,506, wake me up,593,ARIADNE,61, wake me up
+462,507,wake me up,593,ARIADNE,61,wake me up
+463,508, no,593,COBB,61, no
+464,509," mal, no",595,COBB,61," mal, no"
+465,510,no,595,COBB,61,no
+466,511, wake me up,595,ARIADNE,61, wake me up
+467,513,"hey, hey, hey.",597,ARTHUR,61,"hey, hey, hey."
+468,514,look at me.,597,ARTHUR,61,look at me.
+469,515,you're okay.,597,ARTHUR,62,you're okay.
+470,516,you're okay.,597,ARTHUR,62,you're okay.
+471,517, hey.,597,ARTHUR,62, hey.
+472,518, why wouldn't i wake up,597,ARIADNE,62, why wouldn't i wake up
+473,519,there was still time on the clock.,597,ARTHUR,62,there was still time on the clock.
+474,520,you can't wake up from within the dream unless you die.,597,ARTHUR,62,you can't wake up from within the dream unless you die.
+475,521, she'll need a totem.,598,COBB,62, she'll need a totem.
+476,522,what,598,ARIADNE,62,what
+477,523,"a totem, it's a small personal...",599,ARTHUR,62,"a totem, it's a small personal..."
+478,524,"that's some subconscious you've got on you, cobb",600,ARIADNE,62,"that's some subconscious you've got on you, cobb"
+479,525, she's a real charmer.,601,ARIADNE,62, she's a real charmer.
+480,526, oh.,601,ARTHUR,62, oh.
+481,527, i see you met mrs. cobb.,601,ARTHUR,62, i see you met mrs. cobb.
+482,528, she's his wife,601,ARIADNE,62, she's his wife
+483,529,yeah.,601,ARTHUR,62,yeah.
+484,530,so a totem.,601,ARTHUR,62,so a totem.
+485,531,"you need a small object, potentially heavy.",601,ARTHUR,62,"you need a small object, potentially heavy."
+486,532,something you can have on you that no one else knows.,602,ARTHUR,62,something you can have on you that no one else knows.
+487,533,like a coin,602,ARIADNE,64,like a coin
+488,534,no.,602,ARTHUR,64,no.
+489,535,it needs to be more unique than that.,604,ARTHUR,64,it needs to be more unique than that.
+490,536,"like, this is a loaded die.",604,ARTHUR,66,"like, this is a loaded die."
+491,537,"no, i can't let you touch it.",606,ARTHUR,66,"no, i can't let you touch it."
+492,538,that would defeat the purpose.,606,ARTHUR,66,that would defeat the purpose.
+493,539,"see, only i know the balance and the weight of this particular loaded die.",607,ARTHUR,66,"see, only i know the balance and the weight of this particular loaded die."
+494,540,"that way, when you look at your totem...",609,ARTHUR,66,"that way, when you look at your totem..."
+495,541,...you know beyond a doubt that you're not in someone else's dream.,610,ARTHUR (O.S.),67,...you know beyond a doubt that you're not in someone else's dream.
+496,542,"i don't know if you can't see what's going on, or if you just don't want to...",611,ARIADNE,68,"i don't know if you can't see what's going on, or if you just don't want to..."
+497,543,...but cobb has some serious problems that he's tried to bury down there.,613,ARIADNE,68,...but cobb has some serious problems that he's tried to bury down there.
+498,544,and i'm not about to just open my mind to someone like that.,613,ARIADNE,68,and i'm not about to just open my mind to someone like that.
+499,546,she'll be back.,616,COBB (O.S.),68,she'll be back.
+500,547,i've never seen anyone pick it up that quickly before.,616,COBB,68,i've never seen anyone pick it up that quickly before.
+501,548,"reality's not gonna be enough for her now, and when she comes back...",618,COBB,68,"reality's not gonna be enough for her now, and when she comes back..."
+502,549,"when she comes back, you're gonna have her building mazes.",618,COBB,68,"when she comes back, you're gonna have her building mazes."
+503,550, where are you gonna be,619,ARTHUR,68, where are you gonna be
+504,551, i gotta go visit eames.,619,COBB,68, i gotta go visit eames.
+505,552,eames,620,ARTHUR,68,eames
+506,553,"no, he's in mombasa.",620,ARTHUR,68,"no, he's in mombasa."
+507,554,it's cobol's back yard.,620,ARTHUR,68,it's cobol's back yard.
+508,555,it's a necessary risk.,621,COBB,68,it's a necessary risk.
+509,556," well, there's plenty of good thieves.",623,ARTHUR,68," well, there's plenty of good thieves."
+510,557, we don't just need a thief.,623,COBB,68, we don't just need a thief.
+511,558,we need a forger.,623,COBB,68,we need a forger.
+512,559,"rub them together all you want, they're not gonna breed.",625,COBB (O.S.),69,"rub them together all you want, they're not gonna breed."
+513,560,you never know.,627,EAMES,69,you never know.
+514,561,i'm gonna get you a drink.,629,COBB,69,i'm gonna get you a drink.
+515,562,you're buying.,630,EAMES,69,you're buying.
+516,563, your spelling hasn't improved.,631,COBB,69, your spelling hasn't improved.
+517,564, piss off.,631,EAMES,69, piss off.
+518,565,how's your handwriting,631,COBB,69,how's your handwriting
+519,566, it's versatile.,631,EAMES,69, it's versatile.
+520,567, good.,631,COBB,70, good.
+521,568,thank you very much.,631,EAMES,70,thank you very much.
+522,569,inception.,632,COBB,71,inception.
+523,570,"now, before you bother telling me it's impossible, let me...",632,COBB,71,"now, before you bother telling me it's impossible, let me..."
+524,571,"no, it's perfectly possible.",632,EAMES,71,"no, it's perfectly possible."
+525,572,it's just bloody difficult.,632,EAMES,71,it's just bloody difficult.
+526,573,interesting.,632,COBB,71,interesting.
+527,574,because arthur keeps telling me it can't be done.,632,COBB,71,because arthur keeps telling me it can't be done.
+528,575,hmm.,633,EAMES,71,hmm.
+529,576,arthur.,633,EAMES,71,arthur.
+530,577,you still working with that stick in the mud,633,EAMES,71,you still working with that stick in the mud
+531,578,"he is good at what he does, right",634,COBB,71,"he is good at what he does, right"
+532,579,"oh, he's the best, but he has no imagination.",636,EAMES,71,"oh, he's the best, but he has no imagination."
+533,580,not like you.,636,EAMES,71,not like you.
+534,581,"listen, if you're gonna perform inception, you need imagination.",637,EAMES,71,"listen, if you're gonna perform inception, you need imagination."
+535,582,let me ask you something.,638,COBB,71,let me ask you something.
+536,583,have you done it before,638,COBB,71,have you done it before
+537,584,we tried it.,639,EAMES,71,we tried it.
+538,585,"uh, we got the idea in place, but it didn't take.",639,EAMES,71,"uh, we got the idea in place, but it didn't take."
+539,586, you didn't plant it deep enough,640,COBB,71, you didn't plant it deep enough
+540,587," no, it's not just about depth.",640,EAMES,71," no, it's not just about depth."
+541,588,you need the simplest version of the idea...,641,EAMES,71,you need the simplest version of the idea...
+542,589,...in order for it to grow naturally in your subject's mind.,641,EAMES,71,...in order for it to grow naturally in your subject's mind.
+543,590,it's a subtle art.,641,EAMES,71,it's a subtle art.
+544,591,"so, what is this idea that you need to plant",643,EAMES,71,"so, what is this idea that you need to plant"
+545,592,we need the heir of a major corporation to dissolve his father's empire.,644,COBB,71,we need the heir of a major corporation to dissolve his father's empire.
+546,593,right there you have various political motivations...,645,EAMES,71,right there you have various political motivations...
+547,594,...and antimonopolistic sentiments and so forth.,645,EAMES,71,...and antimonopolistic sentiments and so forth.
+548,595,"but all of that stuff, it's, um...",645,EAMES,71,"but all of that stuff, it's, um..."
+549,596,"it's really at the mercy of your subject's prejudice, you see",645,EAMES,71,"it's really at the mercy of your subject's prejudice, you see"
+550,597,what you have to do is start at the absolute basic.,645,EAMES,71,what you have to do is start at the absolute basic.
+551,598,which is what,646,COBB,71,which is what
+552,599,the relationship with the father.,647,EAMES,71,the relationship with the father.
+553,600, do you have a chemist,649,EAMES,71, do you have a chemist
+554,601," no, not yet.",649,COBB,71," no, not yet."
+555,602,right.,651,EAMES,71,right.
+556,603,"okay, well, there's a man here, yusuf.",651,EAMES,71,"okay, well, there's a man here, yusuf."
+557,604,"he, uh, formulates his own versions of the compounds.",651,EAMES,71,"he, uh, formulates his own versions of the compounds."
+558,605,why don't you take me there,652,COBB,71,why don't you take me there
+559,606,once you've lost your tail.,652,EAMES,71,once you've lost your tail.
+560,607,the man at the bar.,652,EAMES,71,the man at the bar.
+561,608,cobol engineering.,654,COBB,71,cobol engineering.
+562,609,"that price on my head, was that dead or alive",655,COBB,71,"that price on my head, was that dead or alive"
+563,610,don't remember.,656,EAMES,71,don't remember.
+564,611,let's see if he starts shooting.,656,EAMES,71,let's see if he starts shooting.
+565,612,run interference.,658,COBB,71,run interference.
+566,613,"i'll meet you downstairs in the bar in, say, uh, half an hour",658,COBB,71,"i'll meet you downstairs in the bar in, say, uh, half an hour"
+567,614, back here,658,EAMES,71, back here
+568,615, this is the last place they'd suspect.,658,COBB,71, this is the last place they'd suspect.
+569,617,all right.,660,EAMES,71,all right.
+570,618,freddy.,661,EAMES,71,freddy.
+571,619,freddy simmonds.,661,EAMES,71,freddy simmonds.
+572,620,"my god, it's you, isn't it",664,EAMES,71,"my god, it's you, isn't it"
+573,622,"no, it isn't you.",669,EAMES,71,"no, it isn't you."
+574,623,"not dreaming now, are you",671,TAIL,71,"not dreaming now, are you"
+575,625,get him,674,TAIL,71,get him
+576,626,there,684,TAIL,72,there
+577,628,one caf.,689,COBB,72,one caf.
+578,629,shh.,692,COBB,72,shh.
+579,631,one caf.,695,COBB,72,one caf.
+580,632,one caf.,697,COBB,72,one caf.
+581,637,"care for a lift, mr. cobb",738,SAITO,72,"care for a lift, mr. cobb"
+582,638, what are you doing in mombasa,740,COBB,72, what are you doing in mombasa
+583,639, i'm here to protect my investment.,740,SAITO,72, i'm here to protect my investment.
+584,641,ah.,743,EAMES,72,ah.
+585,642,"so this is your idea of losing a tail, huh",743,EAMES,73,"so this is your idea of losing a tail, huh"
+586,643,different tail.,744,COBB,73,different tail.
+587,645,cobb said you'd be back.,747,ARTHUR,74,cobb said you'd be back.
+588,646," i tried not to come, but...",748,ARIADNE,74," i tried not to come, but..."
+589,647, but there's nothing quite like it.,748,ARTHUR,74, but there's nothing quite like it.
+590,648,it's just pure creation.,749,ARIADNE,74,it's just pure creation.
+591,649,shall we take a look at some paradoxical architecture,750,ARTHUR,74,shall we take a look at some paradoxical architecture
+592,650,you're gonna have to master a few tricks...,751,ARTHUR,75,you're gonna have to master a few tricks...
+593,651,...if you're gonna build three complete dream levels.,751,ARTHUR,75,...if you're gonna build three complete dream levels.
+594,652,excuse me.,751,ARTHUR,75,excuse me.
+595,653,what kind of tricks,752,ARIADNE,75,what kind of tricks
+596,654,"in a dream, you can cheat architecture into impossible shapes.",753,ARTHUR,75,"in a dream, you can cheat architecture into impossible shapes."
+597,655,"that lets you create closed loops, like the penrose steps.",754,ARTHUR,75,"that lets you create closed loops, like the penrose steps."
+598,656,the infinite staircase.,755,ARTHUR,75,the infinite staircase.
+599,657,see,758,ARTHUR,75,see
+600,658,paradox.,758,ARTHUR,75,paradox.
+601,659,so a closed loop like that...,758,ARTHUR,75,so a closed loop like that...
+602,660,...will help you disguise the boundaries of the dream you create.,758,ARTHUR,75,...will help you disguise the boundaries of the dream you create.
+603,661,but how big do these levels have to be,759,ARIADNE,75,but how big do these levels have to be
+604,662,it could be anything from the floor of a building to an entire city.,759,ARTHUR,75,it could be anything from the floor of a building to an entire city.
+605,663,they have to be complicated enough that we can hide from the projections.,759,ARTHUR,75,they have to be complicated enough that we can hide from the projections.
+606,664, a maze,759,ARIADNE,75, a maze
+607,665," right, a maze.",759,ARTHUR,75," right, a maze."
+608,666,and the better the maze...,759,ARTHUR,75,and the better the maze...
+609,667,then the longer we have before the projections catch us,759,ARIADNE,75,then the longer we have before the projections catch us
+610,668,exactly.,759,ARTHUR,75,exactly.
+611,669, my subconscious seems polite enough.,759,ARIADNE,75, my subconscious seems polite enough.
+612,670," ha, ha.",759,ARTHUR,75," ha, ha."
+613,671,"you wait, they'll turn ugly.",759,ARTHUR,75,"you wait, they'll turn ugly."
+614,672,no one likes to feel someone else messing around in their mind.,760,ARTHUR,75,no one likes to feel someone else messing around in their mind.
+615,673,"cobb can't build anymore, can he",761,ARIADNE,75,"cobb can't build anymore, can he"
+616,674,"i don't know if he can't, but he won't.",761,ARTHUR,75,"i don't know if he can't, but he won't."
+617,675,he thinks it's safer if he doesn't know the layouts.,761,ARTHUR,75,he thinks it's safer if he doesn't know the layouts.
+618,676,why,762,ARIADNE,75,why
+619,677,he won't tell me.,763,ARTHUR,75,he won't tell me.
+620,678,but i think it's mal.,763,ARTHUR,75,but i think it's mal.
+621,679, his exwife,763,ARIADNE,75, his exwife
+622,680," no, not his ex.",763,ARTHUR,75," no, not his ex."
+623,681, they're still together,765,ARIADNE,75, they're still together
+624,682, no.,765,ARTHUR,75, no.
+625,683,"no, she's dead.",765,ARTHUR,75,"no, she's dead."
+626,684,what you see in there is just his projection of her.,767,ARTHYR,76,what you see in there is just his projection of her.
+627,685,what was she like in real life,768,ARIADNE,76,what was she like in real life
+628,686,she was lovely.,769,ARTHUR,76,she was lovely.
+629,687,you are seeking a chemist,770,YUSUF,79,you are seeking a chemist
+630,688,yes.,770,COBB,79,yes.
+631,689,to formulate compounds for a job,771,YUSUF,79,to formulate compounds for a job
+632,690,and to go into the field with us.,772,COBB,79,and to go into the field with us.
+633,691,"no, i rarely go into the field, mr. cobb.",773,YUSUF,79,"no, i rarely go into the field, mr. cobb."
+634,692,"well, we'd need you there to tailor compounds specific to our needs.",774,COBB,79,"well, we'd need you there to tailor compounds specific to our needs."
+635,693, which are,775,YUSUF,79, which are
+636,694, great depth.,775,COBB,79, great depth.
+637,695,a dream within a dream,777,YUSUF,79,a dream within a dream
+638,696,two levels,777,YUSUF,79,two levels
+639,697,three.,778,COBB,79,three.
+640,698,not possible.,779,YUSUF,79,not possible.
+641,699,that many dreams within dreams is too unstable.,779,YUSUF,79,that many dreams within dreams is too unstable.
+642,700,it is possible.,780,COBB,79,it is possible.
+643,701,you just have to add a sedative.,780,COBB,79,you just have to add a sedative.
+644,702,a powerful sedative.,781,YUSUF,79,a powerful sedative.
+645,703, how many team members,783,YUSUF,79, how many team members
+646,704, five.,783,COBB,79, five.
+647,705,six.,784,SAITO,79,six.
+648,706,the only way to know you've done the job is if i go in with you.,785,SAITO,79,the only way to know you've done the job is if i go in with you.
+649,707,"there's no room for tourists on a job like this, mr. saito.",786,EAMES,79,"there's no room for tourists on a job like this, mr. saito."
+650,708,"this time, it seems there is.",787,SAITO,79,"this time, it seems there is."
+651,709,"this, i think, is a good place to start.",788,YUSUF,79,"this, i think, is a good place to start."
+652,710,i use it every day.,788,YUSUF,79,i use it every day.
+653,711,what for,788,COBB,79,what for
+654,712," here, i'll show you.",788,YUSUF,79," here, i'll show you."
+655,713,perhaps you will not want to see.,790,YUSUF,79,perhaps you will not want to see.
+656,715,machine hissing,792,YUSUF,80,machine hissing
+657,716,ten.,793,EAMES,80,ten.
+658,717,twelve.,793,EAMES,80,twelve.
+659,718,all connected.,793,EAMES,80,all connected.
+660,719,bloody hell.,793,EAMES,80,bloody hell.
+661,720,they come every day to share the dream.,793,YUSUF,80,they come every day to share the dream.
+662,721,you see,794,YUSUF,80,you see
+663,722,very stable.,794,YUSUF,80,very stable.
+664,723, how long do they dream for,795,COBB,80, how long do they dream for
+665,724,"three, four hours, each day.",795,YUSUF,80,"three, four hours, each day."
+666,725,in dream time,795,COBB,80,in dream time
+667,726,with this compound,795,YUSUF,80,with this compound
+668,727,"about 40 hours, each and every day.",795,YUSUF,80,"about 40 hours, each and every day."
+669,728, why do they do it,796,SAITO,80, why do they do it
+670,729,"tell him, mr. cobb.",796,YUSUF,80,"tell him, mr. cobb."
+671,730,"after a while, it becomes the only way you can dream.",797,COBB,80,"after a while, it becomes the only way you can dream."
+672,731,"do you still dream, mr. cobb",797,YUSUF,80,"do you still dream, mr. cobb"
+673,732, they come here every day to sleep,797,EAMES,80, they come here every day to sleep
+674,733,no.,797,ELDERLY BALD MAN (O.S.),80,no.
+675,734,they come to be woken up.,797,ELDERLY BALD MAN,80,they come to be woken up.
+676,735,the dream has become their reality.,797,ELDERLY BALD MAN,80,the dream has become their reality.
+677,736,"who are you to say otherwise, sir",797,ELDERLY BALD MAN,80,"who are you to say otherwise, sir"
+678,737,let's see what you can do.,798,COBB,80,let's see what you can do.
+679,739,you know how to find me.,802,MAL,80,you know how to find me.
+680,740,you know what you have to do.,805,MAL,80,you know what you have to do.
+681,741,"sharp, no",807,YUSUF,80,"sharp, no"
+682,742,"are you all right, mr. cobb",816,SAITO,80,"are you all right, mr. cobb"
+683,743,"yeah, yeah.",816,COBB,80,"yeah, yeah."
+684,744,everything's just fine.,816,COBB,80,everything's just fine.
+685,745,"robert fischer, heir to the fischer morrow energy conglomerate.",822,SAITO,81,"robert fischer, heir to the fischer morrow energy conglomerate."
+686,746,cobb what's your problem with this mr. fischer,823,COBB,81,cobb what's your problem with this mr. fischer
+687,747,that's not your concern.,824,SAITO,81,that's not your concern.
+688,748,"mr. saito, this isn't your typical corporate espionage.",825,COBB,81,"mr. saito, this isn't your typical corporate espionage."
+689,749,you asked me for inception.,825,COBB,81,you asked me for inception.
+690,750,i do hope you understand the gravity of that request.,825,COBB,81,i do hope you understand the gravity of that request.
+691,751,"now, the seed that we plant in this man's mind will grow into an idea.",825,COBB,81,"now, the seed that we plant in this man's mind will grow into an idea."
+692,752,this idea will define him.,825,COBB,81,this idea will define him.
+693,753,it may come to change...,825,COBB,81,it may come to change...
+694,754,"well, it may come to change everything about him.",825,COBB,81,"well, it may come to change everything about him."
+695,755,we're the last company standing between them and total energy dominance.,826,SAITO,81,we're the last company standing between them and total energy dominance.
+696,756,and we can no longer compete.,826,SAITO,81,and we can no longer compete.
+697,757,"soon, they'll control the energy supply of half the world.",828,SAITO,81,"soon, they'll control the energy supply of half the world."
+698,758,"in effect, they become a new superpower.",829,SAITO,81,"in effect, they become a new superpower."
+699,759,the world needs robert fischer to change his mind.,831,SAITO,81,the world needs robert fischer to change his mind.
+700,760,that's where we come in.,831,EAMES,81,that's where we come in.
+701,761,how is robert fischer's relationship with his father,832,EAMES,81,how is robert fischer's relationship with his father
+702,762,rumor is the relationship is quite complicated.,833,SAITO,81,rumor is the relationship is quite complicated.
+703,763,"well, we can't work based solely on rumor, can we",834,COBB,81,"well, we can't work based solely on rumor, can we"
+704,764,can you get me access to this man here,835,EAMES,81,can you get me access to this man here
+705,765,browning.,835,EAMES,81,browning.
+706,766,fischer senior's righthand man.,836,EAMES,81,fischer senior's righthand man.
+707,767,fischer junior's godfather.,836,EAMES,81,fischer junior's godfather.
+708,768,"it should be possible, if you can get the right references.",838,SAITO,81,"it should be possible, if you can get the right references."
+709,769,"references are something of a specialty for me, mr. saito.",839,EAMES,81,"references are something of a specialty for me, mr. saito."
+710,770,i'm not smelling settlement here.,840,BROWNING,82,i'm not smelling settlement here.
+711,771,take them down.,840,BROWNING,84,take them down.
+712,772,mr. browning...,841,LAWYER,84,mr. browning...
+713,773,...maurice fischer's policy is always one of avoiding litigation.,841,LAWYER,84,...maurice fischer's policy is always one of avoiding litigation.
+714,774,"well, shall we voice your concerns with maurice directly",841,BROWNING,84,"well, shall we voice your concerns with maurice directly"
+715,775,not sure that's necessary.,842,LAWYER,84,not sure that's necessary.
+716,776,"no, no, no.",843,BROWNING,84,"no, no, no."
+717,777,i think we should.,843,BROWNING,84,i think we should.
+718,778,how is he,845,BROWNING,84,how is he
+719,779,"i don't want to bother him unnecessarily, but...",845,BROWNING,84,"i don't want to bother him unnecessarily, but..."
+720,780,"robert, i told you keep out the damn...",846,MAURICE,84,"robert, i told you keep out the damn..."
+721,781,wait.,846,MAURICE,84,wait.
+722,782,so do it.,846,MAURICE,84,so do it.
+723,783,get...,846,MAURICE,84,get...
+724,784,nurse mr. fischer.,848,NURSE,84,nurse mr. fischer.
+725,785,put it through.,848,MAURICE,84,put it through.
+726,786,"never, never.",849,MAURICE,84,"never, never."
+727,787,never do the same as i asked.,849,MAURICE,84,never do the same as i asked.
+728,788,leave that.,851,MAURICE,84,leave that.
+729,789,here.,852,MAURICE,84,here.
+730,790,must be a cherished memory of his.,854,BROWNING,84,must be a cherished memory of his.
+731,791,i put it beside his bed.,855,FISHER,84,i put it beside his bed.
+732,792,he hasn't even noticed.,855,FISHER,84,he hasn't even noticed.
+733,793,robert...,856,BROWNING,86,robert...
+734,794,...we need to talk about a power of attorney.,856,BROWNING,86,...we need to talk about a power of attorney.
+735,795," i know this is hard, but it's imperative...  not now, uncle peter.",857,BROWNING,86," i know this is hard, but it's imperative...  not now, uncle peter."
+736,796,the vultures are circling.,857,EAMES,86,the vultures are circling.
+737,797,"and the sicker maurice fischer becomes, the more powerful peter browning becomes.",857,EAMES,86,"and the sicker maurice fischer becomes, the more powerful peter browning becomes."
+738,798,i've had ample opportunity to observe browning...,858,EAMES,86,i've had ample opportunity to observe browning...
+739,799,"...and adopt his physical presence, study his mannerisms, and so on and so forth.",859,EAMES,86,"...and adopt his physical presence, study his mannerisms, and so on and so forth."
+740,800,"so now in the first layer of the dream, i can impersonate browning.",860,EAMES,86,"so now in the first layer of the dream, i can impersonate browning."
+741,801,and suggest concepts to fischer's conscious mind.,861,EAMES,86,and suggest concepts to fischer's conscious mind.
+742,802,"then, when we take him a level deeper...",862,EAMES,86,"then, when we take him a level deeper..."
+743,803,...his own projection of browning should feed that right back to him.,862,EAMES,86,...his own projection of browning should feed that right back to him.
+744,804,so he gives himself the idea.,863,ARTHUR,86,so he gives himself the idea.
+745,805,precisely.,864,EAMES,86,precisely.
+746,806,that's the only way it will stick.,864,EAMES,86,that's the only way it will stick.
+747,807,it has to seem selfgenerated.,864,EAMES,86,it has to seem selfgenerated.
+748,808,"eames, i am impressed.",865,ARTHUR,86,"eames, i am impressed."
+749,809,"your condescension, as always, is much appreciated, arthur, thank you.",866,EAMES,86,"your condescension, as always, is much appreciated, arthur, thank you."
+750,811,were you going under on your own,873,ARIADNE,86,were you going under on your own
+751,812,"no, no, i was just, uh, running some experiments.",874,COBB,86,"no, no, i was just, uh, running some experiments."
+752,813,"i didn't realize anyone was here, so...",874,COBB,86,"i didn't realize anyone was here, so..."
+753,814,"yeah, i was just...",875,ARIADNE,86,"yeah, i was just..."
+754,815,"i was working on my totem, actually.",875,ARIADNE,86,"i was working on my totem, actually."
+755,816,"here, let me take a look.",876,COBB,86,"here, let me take a look."
+756,817,"so you're learning, huh",878,COBB,86,"so you're learning, huh"
+757,818,an elegant solution for keeping track of reality.,879,ARIADNE,86,an elegant solution for keeping track of reality.
+758,819, was it your idea,879,ARIADNE,86, was it your idea
+759,820," no, it was, uh...",879,COBB,86," no, it was, uh..."
+760,821,"it was mal's, actually.",880,COBB,86,"it was mal's, actually."
+761,822,this...,880,COBB,86,this...
+762,823,this one was hers.,881,COBB,86,this one was hers.
+763,824,she would spin it in the dream and it would never topple.,881,COBB,86,she would spin it in the dream and it would never topple.
+764,825,just spin and spin.,883,COBB,86,just spin and spin.
+765,826,arthur told me she passed away.,885,ARIADNE,86,arthur told me she passed away.
+766,827,how are the mazes coming along,886,COBB,86,how are the mazes coming along
+767,828,each level relates to the part of the subject's subconscious...,887,ARIADNE,86,each level relates to the part of the subject's subconscious...
+768,829,...that we are trying to access.,887,ARIADNE,86,...that we are trying to access.
+769,830,"so i'm making the bottom level a hospital, so fischer will bring his father.",887,ARIADNE,86,"so i'm making the bottom level a hospital, so fischer will bring his father."
+770,831,"you know, l... actually, i have a question about this layout.",887,ARIADNE,86,"you know, l... actually, i have a question about this layout."
+771,832,"no, no, no.",889,COBB,86,"no, no, no."
+772,833,don't show me specifics.,889,COBB,86,don't show me specifics.
+773,834,only the dreamer should know the layout.,889,COBB,86,only the dreamer should know the layout.
+774,835,why is that so important,890,ARIADNE,86,why is that so important
+775,836,in case one of us brings in our projections.,891,COBB,86,in case one of us brings in our projections.
+776,837,we don't want them knowing the details of the maze.,891,COBB,86,we don't want them knowing the details of the maze.
+777,838,you mean in case you bring mal in.,892,ARIADNE,86,you mean in case you bring mal in.
+778,839,"you can't keep her out, can you",893,ARIADNE,86,"you can't keep her out, can you"
+779,840, right.,893,COBB,86, right.
+780,841, you can't build...,893,ARIADNE,86, you can't build...
+781,842,"...because if you know the maze, then she knows it.",894,ARIADNE,86,"...because if you know the maze, then she knows it."
+782,843,"well, she'd sabotage the whole operation.",895,ARIADNE,86,"well, she'd sabotage the whole operation."
+783,844," cobb, do the others know",896,ARIADNE,86," cobb, do the others know"
+784,845, no.,896,COBB,86, no.
+785,846,"no, they don't.",896,COBB,86,"no, they don't."
+786,847,you've gotta warn them if this is getting worse.,898,ARIADNE,86,you've gotta warn them if this is getting worse.
+787,848,no one said it's getting worse.,899,COBB,86,no one said it's getting worse.
+788,849,i need to get home.,901,COBB,86,i need to get home.
+789,850,that's all i care about right now.,901,COBB,86,that's all i care about right now.
+790,851,why can't you go home,902,ARIADNE,86,why can't you go home
+791,852,because they think i killed her.,903,COBB,86,because they think i killed her.
+792,853, thank you.,904,COBB,86, thank you.
+793,854, for what,904,ARIADNE,86, for what
+794,855,for not asking whether i did.,905,COBB,86,for not asking whether i did.
+795,856,i will split up my father's empire.,905,COBB,87,i will split up my father's empire.
+796,857,"now, this is obviously an idea that robert himself would choose to reject...",906,COBB,87,"now, this is obviously an idea that robert himself would choose to reject..."
+797,858,...which is why we need to plant it deep in his subconscious.,906,COBB,87,...which is why we need to plant it deep in his subconscious.
+798,859,"the subconscious is motivated by emotion, right",907,COBB,87,"the subconscious is motivated by emotion, right"
+799,860,not reason.,907,COBB,87,not reason.
+800,861,we need to find a way to translate this into an emotional concept.,907,COBB,87,we need to find a way to translate this into an emotional concept.
+801,862,how do you translate business strategy into emotion,908,ARTHUR,87,how do you translate business strategy into emotion
+802,863,that's what we're here to figure out.,909,COBB,87,that's what we're here to figure out.
+803,864,robert's relationship with his father...,909,COBB,87,robert's relationship with his father...
+804,865,"...is stressed, to say the least.",912,COBB,87,"...is stressed, to say the least."
+805,866, can we run with that,912,EAMES,87, can we run with that
+806,867,we suggest breaking up his father's company as a screw you to the old man.,913,EAMES,87,we suggest breaking up his father's company as a screw you to the old man.
+807,868,"no, because i think positive emotion trumps negative emotion every time.",914,COBB,87,"no, because i think positive emotion trumps negative emotion every time."
+808,869,"we all yearn for reconciliation, for catharsis.",915,COBB,87,"we all yearn for reconciliation, for catharsis."
+809,870,we need robert fischer to have a positive emotional reaction to all this.,916,COBB,87,we need robert fischer to have a positive emotional reaction to all this.
+810,871,"all right, well, try this.",917,EAMES,87,"all right, well, try this."
+811,872,um...,917,EAMES,87,um...
+812,873,"my father accepts that i want to create for myself, not follow in his footsteps.",917,EAMES,87,"my father accepts that i want to create for myself, not follow in his footsteps."
+813,874,that might work.,918,COBB,87,that might work.
+814,875,might,919,ARTHUR,87,might
+815,876,we're gonna need to do a little better than might.,919,ARTHUR,87,we're gonna need to do a little better than might.
+816,877,"thank you for your contribution, arthur.",919,EAMES,87,"thank you for your contribution, arthur."
+817,878,"forgive me for wanting a little specificity, eames.",919,ARTHUR,87,"forgive me for wanting a little specificity, eames."
+818,879,specificity,919,ARTHUR,87,specificity
+819,880,inception's not about being specific.,920,COBB,87,inception's not about being specific.
+820,881,"when we get inside his mind, we're gonna have to work with what we find.",921,COBB,87,"when we get inside his mind, we're gonna have to work with what we find."
+821,882,"on the top level, we open up his relationship with his father...",922,EAMES,88,"on the top level, we open up his relationship with his father..."
+822,883,"...and say, i will not follow in my father's footsteps.",923,EAMES,88,"...and say, i will not follow in my father's footsteps."
+823,884,"then the next level down, we feed him, i will create something for myself.",924,EAMES,88,"then the next level down, we feed him, i will create something for myself."
+824,885,"then, by the time we hit the bottom level, we bring out the big guns.",924,EAMES,88,"then, by the time we hit the bottom level, we bring out the big guns."
+825,886, my father doesn't want me to be him.,925,COBB,88, my father doesn't want me to be him.
+826,887,exactly.,925,EAMES,88,exactly.
+827,889,"three layers down, the dreams are gonna collapse with the slightest disturbance.",926,ARTHUR,89,"three layers down, the dreams are gonna collapse with the slightest disturbance."
+828,890,sedation.,928,YUSUF,89,sedation.
+829,891,for sleep stable enough to create three layers of dreaming...,928,YUSUF,89,for sleep stable enough to create three layers of dreaming...
+830,892,...we'll have to combine it with an extremely powerful sedative.,929,YUSUF,89,...we'll have to combine it with an extremely powerful sedative.
+831,894,good night.,933,YUSUF,89,good night.
+832,895,he compound we'll be using to share the dream...,934,YUSUF,89,he compound we'll be using to share the dream...
+833,896,...creates a clear connection between dreamers...,935,YUSUF,89,...creates a clear connection between dreamers...
+834,897,...whilst accelerating brain function.,936,EAMES,89,...whilst accelerating brain function.
+835,898," in other words, more time on each level.",936,COBB,89," in other words, more time on each level."
+836,899,brain function in the dream will be about 20 times normal.,938,YUSUF,89,brain function in the dream will be about 20 times normal.
+837,900,"and when you enter a dream within that dream, the effect is compounded.",938,YUSUF,89,"and when you enter a dream within that dream, the effect is compounded."
+838,901,"it's three dreams, that's 10 hours times 20...",939,YUSUF,89,"it's three dreams, that's 10 hours times 20..."
+839,902,math was never my strong subject.,939,EAMES,89,math was never my strong subject.
+840,903,how much time is that,939,EAMES,89,how much time is that
+841,904,"it's a week, the first level down.",940,COBB,89,"it's a week, the first level down."
+842,905,"six months the second level down, and the third level...",941,COBB,89,"six months the second level down, and the third level..."
+843,906,that's 10 years.,941,ARIADNE,89,that's 10 years.
+844,907,who'd wanna be stuck in a dream for 10 years,943,ARIADNE,89,who'd wanna be stuck in a dream for 10 years
+845,908,depends on the dream.,944,YUSUF,89,depends on the dream.
+846,909,"so once we've made the plant, how do we get out",945,ARTHUR,89,"so once we've made the plant, how do we get out"
+847,910,i'm hoping you have something more elegant than shooting me in the head.,945,ARTHUR,89,i'm hoping you have something more elegant than shooting me in the head.
+848,911, a kick.,947,COBB,89, a kick.
+849,912, what's a kick,947,ARIADNE,89, what's a kick
+850,913,"this, ariadne, would be a kick.",947,EAMES,89,"this, ariadne, would be a kick."
+851,914,it's that feeling of falling you get that jolts you awake.,949,COBB,89,it's that feeling of falling you get that jolts you awake.
+852,915, snaps you out of the dream.,949,COBB,89, snaps you out of the dream.
+853,916, we gonna feel a kick with this sedation,949,ARTHUR,89, we gonna feel a kick with this sedation
+854,917,that's the clever part.,950,YUSUF,89,that's the clever part.
+855,918,i customized the sedative to leave innerear function unimpaired.,951,YUSUF,89,i customized the sedative to leave innerear function unimpaired.
+856,919,"that way, however deep the sleep, the sleeper still feels falling.",951,YUSUF,89,"that way, however deep the sleep, the sleeper still feels falling."
+857,920,or tipping.,953,YUSUF,89,or tipping.
+858,921,the trick is to synchronize a kick that can penetrate all three levels.,955,COBB,89,the trick is to synchronize a kick that can penetrate all three levels.
+859,922,we could use a musical countdown to synchronize the different kicks.,956,ARTHUR,89,we could use a musical countdown to synchronize the different kicks.
+860,924,"eames he hasn't got any surgery scheduled, no dental, nothing.",958,EAMES,93,"eames he hasn't got any surgery scheduled, no dental, nothing."
+861,925,wasn't he supposed to have a knee operation,958,COBB,93,wasn't he supposed to have a knee operation
+862,926,nothing.,959,EAMES,93,nothing.
+863,927,"nothing that they'll put him under for, anyway.",959,EAMES,93,"nothing that they'll put him under for, anyway."
+864,928,and we need...,959,EAMES,93,and we need...
+865,929,we need at least a good 10 hours.,959,EAMES,93,we need at least a good 10 hours.
+866,930,sydney to los angeles.,960,SAITO,93,sydney to los angeles.
+867,931,one of the longest flights in the world.,962,SAITO,93,one of the longest flights in the world.
+868,932,he makes it every two weeks.,962,SAITO,93,he makes it every two weeks.
+869,933,"he must be flying private, then.",964,COBB (V.O.),94,"he must be flying private, then."
+870,934,not if there were unexpected maintenance with his plane.,966,SAITO (V.O.),94,not if there were unexpected maintenance with his plane.
+871,935,it would have to be a 747.,968,ARTHUR,95,it would have to be a 747.
+872,936, why's that,968,COBB,95, why's that
+873,937,"on a 747, the pilot's up top...",969,ARTHUR,95,"on a 747, the pilot's up top..."
+874,938,"...the firstclass cabin's in the nose, so no one would walk through.",969,ARTHUR,95,"...the firstclass cabin's in the nose, so no one would walk through."
+875,939,you'd have to buy out the entire cabin and the firstclass flight attendant.,969,ARTHUR,95,you'd have to buy out the entire cabin and the firstclass flight attendant.
+876,940,i bought the airline.,970,SAITO,95,i bought the airline.
+877,941,it seemed neater.,972,SAITO,95,it seemed neater.
+878,942,"well, looks like we have our 10 hours.",973,COBB,95,"well, looks like we have our 10 hours."
+879,943,ariadne,974,COBB,96,ariadne
+880,944,"terrific work, by the way.",974,COBB,96,"terrific work, by the way."
+881,946,you know how to find me.,983,MAL,106,you know how to find me.
+882,947,you know what you have to do.,983,MAL,106,you know what you have to do.
+883,948,you remember when you asked me to marry you,984,MAL,106,you remember when you asked me to marry you
+884,949,of course i do.,984,COBB,106,of course i do.
+885,950,you said you had a dream.,985,MAL,106,you said you had a dream.
+886,951,that we'd grow old together.,985,COBB,106,that we'd grow old together.
+887,952,and we can.,986,MAL,106,and we can.
+888,953,you shouldn't be here.,990,COBB,106,you shouldn't be here.
+889,954,just wanted to see what kind of tests you're doing on your own every night.,990,ARIADNE,106,just wanted to see what kind of tests you're doing on your own every night.
+890,955, this has nothing to do with you.,990,COBB,106, this has nothing to do with you.
+891,956, this has everything to do with me.,990,ARIADNE,106, this has everything to do with me.
+892,957, you've asked me to share dreams with you.,991,ARIADNE,106, you've asked me to share dreams with you.
+893,958, not these.,991,COBB,106, not these.
+894,959,these are my dreams.,991,COBB,106,these are my dreams.
+895,960,why do you do this to yourself,997,ARIADNE,107,why do you do this to yourself
+896,961,it's the only way i can still dream.,998,COBB,107,it's the only way i can still dream.
+897,962,why is it so important to dream,1000,ARIADNE,107,why is it so important to dream
+898,963,"in my dreams, we're still together.",1000,COBB,107,"in my dreams, we're still together."
+899,964,these aren't just dreams.,1005,ARIADNE,108,these aren't just dreams.
+900,965,these are memories.,1007,ARIADNE,108,these are memories.
+901,966,and you said never to use memories.,1007,ARIADNE,108,and you said never to use memories.
+902,967,i know i did.,1007,COBB,108,i know i did.
+903,968,you're trying to keep her alive.,1008,ARIADNE,108,you're trying to keep her alive.
+904,969,you can't let her go.,1008,ARIADNE,108,you can't let her go.
+905,970,you don't understand.,1009,COBB,108,you don't understand.
+906,971,these are moments i regret.,1009,COBB,108,these are moments i regret.
+907,972,they're memories that i have to change.,1010,COBB,108,they're memories that i have to change.
+908,973,"well, what's down there that you regret",1011,ARIADNE,108,"well, what's down there that you regret"
+909,974,"listen, there's only one thing you need to understand about me.",1014,COBB,108,"listen, there's only one thing you need to understand about me."
+910,975,this is your house,1016,ARIADNE,109,this is your house
+911,976,"mine and mal's, yes.",1016,COBB,109,"mine and mal's, yes."
+912,977,where is she,1017,ARIADNE,109,where is she
+913,978,she's already gone.,1017,COBB,109,she's already gone.
+914,979,"that's my son, james.",1017,COBB,109,"that's my son, james."
+915,980,"he's digging for something, maybe a worm.",1018,COBB,109,"he's digging for something, maybe a worm."
+916,982,that's phillipa.,1020,COBB,109,that's phillipa.
+917,983,i thought about calling out to them...,1021,COBB,109,i thought about calling out to them...
+918,984,...so they'd turn and smile and i could see...,1021,COBB,109,...so they'd turn and smile and i could see...
+919,985,"...those beautiful faces of theirs, but it's all too late.",1021,COBB,109,"...those beautiful faces of theirs, but it's all too late."
+920,986,"man right now or never, cobb.",1022,THIN MAN,109,"man right now or never, cobb."
+921,987,then i start to panic.,1024,COBB,109,then i start to panic.
+922,988,i realize i'm gonna regret this moment...,1025,COBB,109,i realize i'm gonna regret this moment...
+923,989,...that i need to see their faces one last time.,1026,COBB,109,...that i need to see their faces one last time.
+924,991,james...phillipa,1027,COBB,109,james...phillipa
+925,992,come on in,1027,COBB,109,come on in
+926,993,cobb but the moment's past.,1028,COBB,109,cobb but the moment's past.
+927,994,"and whatever i do, i can't change this moment.",1029,COBB,109,"and whatever i do, i can't change this moment."
+928,995,as i'm about to call out to them...,1031,COBB,109,as i'm about to call out to them...
+929,996,...they run away.,1031,COBB,109,...they run away.
+930,997,"if i'm ever gonna see their faces again, i've gotta get back home.",1032,COBB,109,"if i'm ever gonna see their faces again, i've gotta get back home."
+931,998,the real world.,1034,COBB,109,the real world.
+932,1001,what are you doing here,1051,MAL (O.S.),111,what are you doing here
+933,1002,my name is...,1051,ARIADNE,111,my name is...
+934,1003,i know who you are.,1052,MAL,111,i know who you are.
+935,1004,what are you doing here,1052,MAL,111,what are you doing here
+936,1005,i'm just trying to understand.,1053,ARIADNE,111,i'm just trying to understand.
+937,1006,how could you understand,1054,MAL,111,how could you understand
+938,1007,do you know what it is to be a lover,1054,MAL,111,do you know what it is to be a lover
+939,1008,to be half of a whole,1055,MAL,111,to be half of a whole
+940,1009,no.,1056,ARIADNE,111,no.
+941,1010,i'll tell you a riddle.,1058,MAL,111,i'll tell you a riddle.
+942,1011,you're waiting for a train.,1059,MAL,111,you're waiting for a train.
+943,1012,a train that will take you far away.,1059,MAL,111,a train that will take you far away.
+944,1013,you know where you hope this train will take you...,1060,MAL,111,you know where you hope this train will take you...
+945,1014,...but you don't know for sure.,1061,MAL,111,...but you don't know for sure.
+946,1015,but it doesn't matter.,1061,MAL,111,but it doesn't matter.
+947,1016,how can it not matter to you where that train will take you,1063,MAL,111,how can it not matter to you where that train will take you
+948,1017,because you'll be together.,1065,COBB (O.S.),111,because you'll be together.
+949,1018,"how could you bring her here, dom",1066,MAL,111,"how could you bring her here, dom"
+950,1019, what is this place,1066,ARIADNE,111, what is this place
+951,1020,this is a hotel suite where we used to spend our anniversary.,1068,COBB,111,this is a hotel suite where we used to spend our anniversary.
+952,1021,what happened here,1069,ARIADNE,111,what happened here
+953,1022,you promised,1072,MAL,111,you promised
+954,1023,you promised we'd be together,1072,MAL,111,you promised we'd be together
+955,1024,"please, i need you to stay here just for now",1077,COBB,111,"please, i need you to stay here just for now"
+956,1025,you said we'd be together,1078,MAL,111,you said we'd be together
+957,1026,you said we'd grow old together,1078,MAL,111,you said we'd grow old together
+958,1027,i'll come back for you.,1081,COBB,111,i'll come back for you.
+959,1028,i promise.,1081,COBB,111,i promise.
+960,1030,do you think you can just build a prison of memories to lock her in,1088,ARIADNE,113,do you think you can just build a prison of memories to lock her in
+961,1031,do you really think that that's gonna contain her,1090,ARIADNE,113,do you really think that that's gonna contain her
+962,1032,it's time.,1091,ARIADNE,113,it's time.
+963,1033,maurice fischer just died in sydney.,1093,SAITO,113,maurice fischer just died in sydney.
+964,1034, when's the funeral,1093,COBB,113, when's the funeral
+965,1035, thursday.,1093,SAITO,113, thursday.
+966,1036,in los angeles.,1093,SAITO,113,in los angeles.
+967,1037,robert should accompany the body no later than tuesday.,1094,ARTHUR,113,robert should accompany the body no later than tuesday.
+968,1038,we should move.,1094,ARTHUR,113,we should move.
+969,1039,all right.,1095,COBB,113,all right.
+970,1040," cobb, i'm coming with you.",1097,ARIADNE,113," cobb, i'm coming with you."
+971,1041, i promised miles.,1097,ARIADNE,113, i promised miles.
+972,1042,no.,1097,COBB,113,no.
+973,1043,the team needs someone who understands what you're struggling with.,1098,ARIADNE,113,the team needs someone who understands what you're struggling with.
+974,1044,and it doesn't have to be me...,1101,ARIADNE,113,and it doesn't have to be me...
+975,1045,...but then you have to show arthur what i just saw.,1102,ARIADNE,113,...but then you have to show arthur what i just saw.
+976,1046,get us another seat on the plane.,1103,COBB,113,get us another seat on the plane.
+977,1047,if i get on this plane and you don't honor our agreement...,1106,COBB,114,if i get on this plane and you don't honor our agreement...
+978,1048,"...when we land, i go to jail for the rest of my life.",1107,COBB,114,"...when we land, i go to jail for the rest of my life."
+979,1049,complete the job en route...,1107,SAITO,114,complete the job en route...
+980,1050,...i make one phone call from the plane...,1107,SAITO,114,...i make one phone call from the plane...
+981,1051,...you have no trouble getting through lmmigration.,1107,SAITO,114,...you have no trouble getting through lmmigration.
+982,1052, i'm sorry.,1111,FISHER,117, i'm sorry.
+983,1053," oh, yeah, absolutely.",1111,EAMES,117," oh, yeah, absolutely."
+984,1054,thank you.,1111,FISCHER,117,thank you.
+985,1055,"excuse me, i think this is yours",1122,COBB,117,"excuse me, i think this is yours"
+986,1056,you must have dropped it.,1122,COBB,117,you must have dropped it.
+987,1057,would you care for a drink,1122,FLIGHT ATTENDANT,117,would you care for a drink
+988,1058,oh.,1122,COBB,117,oh.
+989,1059,"water, please.",1122,COBB,117,"water, please."
+990,1060,"oh, um, same, please.",1122,FISHER,117,"oh, um, same, please."
+991,1061,um...,1123,FISHER,117,um...
+992,1062,thank you.,1123,FISCHER,117,thank you.
+993,1063,"you know, i couldn't help but notice...",1124,COBB,117,"you know, i couldn't help but notice..."
+994,1064,"...but you wouldn't happen to be related to the maurice fischer, would you",1124,COBB,117,"...but you wouldn't happen to be related to the maurice fischer, would you"
+995,1065,"yes, he, um...",1125,FISCHER,117,"yes, he, um..."
+996,1066,he was my father.,1125,FISCHER,117,he was my father.
+997,1067,"well, he was a very inspiring figure.",1125,COBB,117,"well, he was a very inspiring figure."
+998,1068,i'm sorry for your loss.,1125,COBB,117,i'm sorry for your loss.
+999,1069, here you go.,1127,COBB,117, here you go.
+1000,1070, thank you.,1127,FISHER,117, thank you.
+1001,1071,hey.,1127,COBB,117,hey.
+1002,1072,to your father.,1127,COBB,117,to your father.
+1003,1073,"may he rest in peace, huh",1127,COBB,117,"may he rest in peace, huh"
+1004,1076, couldn't have peed before you went under,1146,ARTHUR,122, couldn't have peed before you went under
+1005,1077, sorry.,1146,YUSUF,122, sorry.
+1006,1078,bit too much free champagne before takeoff,1147,EAMES,122,bit too much free champagne before takeoff
+1007,1079,"ha, ha, bloody ha.",1148,YUSUF,122,"ha, ha, bloody ha."
+1008,1080,we know he's gonna be looking for a taxi in this weather.,1149,COBB,122,we know he's gonna be looking for a taxi in this weather.
+1009,1081, asshole,1157,CABDRIVER,123, asshole
+1010,1082,"hey, man, why don't you try...",1157,CABDRIVER,123,"hey, man, why don't you try..."
+1011,1083, walk away.,1157,COBB,123, walk away.
+1012,1086,just have him ca...,1160,FISCHER,124,just have him ca...
+1013,1087,i gotta go.,1160,FISCHER,124,i gotta go.
+1014,1088,all right.,1160,FISCHER,124,all right.
+1015,1089,taxi.,1160,FISCHER,124,taxi.
+1016,1090,thank you.,1160,FISCHER,124,thank you.
+1017,1091,"all right, third and market.",1161,FISCHER,124,"all right, third and market."
+1018,1092,snappy.,1161,FISCHER,124,snappy.
+1019,1093, what are you doing,1162,FISCHER,124, what are you doing
+1020,1094," sorry, i thought it was free.",1162,EAMES,124," sorry, i thought it was free."
+1021,1095, it's not.,1165,EAMES,124, it's not.
+1022,1096, maybe we could share.,1165,EAMES,124, maybe we could share.
+1023,1097,maybe not.,1167,FISCHER,124,maybe not.
+1024,1098,can you pull over and get this...,1167,FISCHER,124,can you pull over and get this...
+1025,1099,great.,1170,FISCHER,124,great.
+1026,1100,come on.,1173,COBB,124,come on.
+1027,1101,there's 500 in there.,1179,FISCHER,124,there's 500 in there.
+1028,1102,the wallet's worth more than that.,1179,FISCHER,124,the wallet's worth more than that.
+1029,1103,you might at least drop me at my stop.,1179,FISCHER,124,you might at least drop me at my stop.
+1030,1104,i'm afraid that it doesn't...,1180,EAMES,124,i'm afraid that it doesn't...
+1031,1107, cover him,1189,ARTHUR,124, cover him
+1032,1108,down,1189,EAMES,124,down
+1033,1109,down now,1189,EAMES,124,down now
+1034,1110,what the hell is going on,1189,EAMES,124,what the hell is going on
+1035,1111,this wasn't in the design.,1193,ARIADNE,124,this wasn't in the design.
+1036,1112,cobb,1196,ARIADNE,124,cobb
+1037,1113,cobb,1197,ARIADNE,124,cobb
+1038,1116,get him,1249,ARTHUR,124,get him
+1039,1117,are you all right,1254,ARTHUR,124,are you all right
+1040,1118,"yeah, i'm okay.",1255,EAMES,124,"yeah, i'm okay."
+1041,1119,i'm okay.,1255,EAMES,124,i'm okay.
+1042,1120,"fischer's okay, unless he gets carsick.",1255,EAMES,124,"fischer's okay, unless he gets carsick."
+1043,1121,saito,1256,ARTHUR,124,saito
+1044,1122,get fischer in the back room now.,1261,COBB,126,get fischer in the back room now.
+1045,1123, get him in the back room.,1261,COBB,126, get him in the back room.
+1046,1124,move.,1261,COBB,126,move.
+1047,1125,what the hell happened,1261,ARTHUR,126,what the hell happened
+1048,1126,has he been shot,1262,COBB,126,has he been shot
+1049,1127,is he dying,1262,COBB,126,is he dying
+1050,1128,i don't know.,1262,ARTHUR,126,i don't know.
+1051,1129, jesus christ.,1262,COBB,126, jesus christ.
+1052,1130,what happened to you,1262,ARTHUR,126,what happened to you
+1053,1131, blocked by a freight train.,1262,COBB,126, blocked by a freight train.
+1054,1132,why put a train in a downtown intersection,1263,ARTHUR,126,why put a train in a downtown intersection
+1055,1133, i didn't.,1263,ARIADNE,126, i didn't.
+1056,1134,where'd it come from,1263,ARTHUR,126,where'd it come from
+1057,1135,why the hell were we ambushed,1263,COBB,126,why the hell were we ambushed
+1058,1136,those were not normal projections.,1263,COBB,126,those were not normal projections.
+1059,1137,"they'd been trained, for god's sakes.",1263,ARIADNE,126,"they'd been trained, for god's sakes."
+1060,1138, how could he be trained,1265,ARIADNE,126, how could he be trained
+1061,1139, fischer's had an extractor...,1265,ARTHUR,126, fischer's had an extractor...
+1062,1140,"...teach his subconscious to defend itself, so his subconscious is militarized.",1266,ARTHUR,126,"...teach his subconscious to defend itself, so his subconscious is militarized."
+1063,1141,it should've shown in the research.,1266,ARTHUR,126,it should've shown in the research.
+1064,1142,why the hell didn't it,1267,COBB,126,why the hell didn't it
+1065,1143, calm down.,1267,ARTHUR,126, calm down.
+1066,1144,don't tell me to calm down,1267,COBB,126,don't tell me to calm down
+1067,1145,"this was your job, goddamn it",1267,COBB,126,"this was your job, goddamn it"
+1068,1146,this was your responsibility,1267,COBB,126,this was your responsibility
+1069,1147,you were meant to check fischer's background,1267,COBB,126,you were meant to check fischer's background
+1070,1148, we are not prepared for this,1267,COBB,126, we are not prepared for this
+1071,1149, we have dealt with subsecurity before,1267,ARTHUR,126, we have dealt with subsecurity before
+1072,1150,we'll be more careful and we're gonna be fine,1268,ARTHUR,126,we'll be more careful and we're gonna be fine
+1073,1151,this was not a part of the plan,1269,COBB,126,this was not a part of the plan
+1074,1152,he's dying.,1269,COBB,126,he's dying.
+1075,1153,put him out his misery.,1269,EAMES,126,put him out his misery.
+1076,1154," no, don't do that",1270,EAMES,126," no, don't do that"
+1077,1155,don't do that.,1270,EAMES,126,don't do that.
+1078,1156,"hey, hey.",1270,COBB,126,"hey, hey."
+1079,1157,he's in agony.,1270,EAMES,126,he's in agony.
+1080,1158,i'm waking him up.,1270,EAMES,126,i'm waking him up.
+1081,1159,no.,1270,COBB,126,no.
+1082,1160,it won't wake him up.,1270,COBB,126,it won't wake him up.
+1083,1161,"what do you mean, it won't wake him up",1270,EAMES,126,"what do you mean, it won't wake him up"
+1084,1162,"when we die in a dream, we wake up.",1270,EAMES,126,"when we die in a dream, we wake up."
+1085,1163,not from this.,1270,YUSUF,126,not from this.
+1086,1164,we're too heavily sedated to wake up that way.,1270,YUSUF,126,we're too heavily sedated to wake up that way.
+1087,1165,right.,1270,EAMES,126,right.
+1088,1166,"so, what happens when we die",1270,EAMES,126,"so, what happens when we die"
+1089,1167, we drop into limbo.,1271,COBB,126, we drop into limbo.
+1090,1168, are you serious,1271,ARTHUR,126, are you serious
+1091,1169, limbo,1273,ARIADNE,126, limbo
+1092,1170,unconstructed dream space.,1273,ARTHUR,126,unconstructed dream space.
+1093,1171,what the hell is down there,1273,ARIADNE,126,what the hell is down there
+1094,1172," just raw, infinite subconscious.",1273,ARTHUR,126," just raw, infinite subconscious."
+1095,1173,"nothing is down there, except for what might have been left behind...",1273,ARTHUR,126,"nothing is down there, except for what might have been left behind..."
+1096,1174,...by anyone sharing the dream who's been trapped there before.,1273,ARTHUR,126,...by anyone sharing the dream who's been trapped there before.
+1097,1175,"which, in our case, is just you.",1273,ARTHUR,126,"which, in our case, is just you."
+1098,1176, how long could we be stuck,1274,ARIADNE,126, how long could we be stuck
+1099,1177,can't even think about...,1274,YUSUF,126,can't even think about...
+1100,1178,...trying to escape until the sedation...,1275,YUSUF,126,...trying to escape until the sedation...
+1101,1179,how long,1275,EAMES,126,how long
+1102,1180,decades it could be infinite.,1275,YUSUF,126,decades it could be infinite.
+1103,1181,"ask him, he's the one who's been there.",1275,YUSUF,126,"ask him, he's the one who's been there."
+1104,1182,let's get him upstairs.,1276,ARTHUR,126,let's get him upstairs.
+1105,1184,great.,1278,EAMES,126,great.
+1106,1185,thank you.,1279,EAMES,126,thank you.
+1107,1186,"so now we're trapped in fischer's mind, battling his own private army.",1280,EAMES,126,"so now we're trapped in fischer's mind, battling his own private army."
+1108,1187,and if we get killed...,1280,EAMES,126,and if we get killed...
+1109,1188,"...we'll be lost in limbo till our brains turn to scrambled egg, hmm",1280,EAMES,126,"...we'll be lost in limbo till our brains turn to scrambled egg, hmm"
+1110,1189,someone got first aid,1282,ARTHUR,127,someone got first aid
+1111,1190, you knew these risks and didn't tell us,1282,ARTHUR,127, you knew these risks and didn't tell us
+1112,1191, there weren't meant to be risks.,1282,COBB,127, there weren't meant to be risks.
+1113,1192, i didn't know we'd be dealing with gunfire.,1283,COBB,127, i didn't know we'd be dealing with gunfire.
+1114,1193, you had no right.,1283,ARTHUR,127, you had no right.
+1115,1194,this was the only way to go three layers deep.,1285,COBB,127,this was the only way to go three layers deep.
+1116,1195,you knew about this and went along with it,1286,ARTHUR,127,you knew about this and went along with it
+1117,1196,i trusted him.,1286,YUSUF,127,i trusted him.
+1118,1197,when,1286,ARTHUR,127,when
+1119,1198,when he promised you half his share,1286,ARTHUR,127,when he promised you half his share
+1120,1199,no.,1286,YUSUF,127,no.
+1121,1200,his whole share.,1286,YUSUF,127,his whole share.
+1122,1201,"besides, he said he'd done it before.",1286,YUSUF,127,"besides, he said he'd done it before."
+1123,1202,"what, with mal",1287,ARTHUR,127,"what, with mal"
+1124,1203,because that worked so good,1287,ARTHUR,127,because that worked so good
+1125,1204,that has nothing to do with it.,1287,COBB,127,that has nothing to do with it.
+1126,1205,i did what i had to to get to my children.,1287,COBB,127,i did what i had to to get to my children.
+1127,1206,you led us into a war zone with no way out,1288,EAMES,127,you led us into a war zone with no way out
+1128,1207,there is a way out.,1289,COBB,127,there is a way out.
+1129,1208,"we continue on with the job, and we do it as fast as possible...",1289,COBB,127,"we continue on with the job, and we do it as fast as possible..."
+1130,1209,"...and we get out using the kick, just like before.",1289,COBB,127,"...and we get out using the kick, just like before."
+1131,1210,forget it.,1290,EAMES,127,forget it.
+1132,1211,"we go any deeper, we just raise the stakes.",1290,EAMES,127,"we go any deeper, we just raise the stakes."
+1133,1212,i am sitting this one out on this level.,1290,EAMES,127,i am sitting this one out on this level.
+1134,1213,fischer's security is surrounding this place.,1290,COBB,127,fischer's security is surrounding this place.
+1135,1214,ten hours of flight time is a week at this level.,1291,COBB,127,ten hours of flight time is a week at this level.
+1136,1215,that means each and every one of us will be killed.,1291,COBB,127,that means each and every one of us will be killed.
+1137,1216,that i can guarantee you.,1291,COBB,127,that i can guarantee you.
+1138,1217,we have no other choice but to continue on and do it as fast as possible.,1293,COBB,127,we have no other choice but to continue on and do it as fast as possible.
+1139,1218,downwards is the only way forwards.,1293,COBB,127,downwards is the only way forwards.
+1140,1219,get ready.,1294,COBB,127,get ready.
+1141,1220,"you, come on.",1295,COBB,127,"you, come on."
+1142,1221,let's go shake him up.,1295,COBB,127,let's go shake him up.
+1143,1222,i'm insured against kidnapping for up to 10 million.,1297,FISCHER,128,i'm insured against kidnapping for up to 10 million.
+1144,1223, this should be very simple.,1297,FISCHER,128, this should be very simple.
+1145,1224,shut up,1297,COBB,128,shut up
+1146,1225,it won't be.,1297,ARTHUR,128,it won't be.
+1147,1226,"in your father's office, below the bookshelves...",1298,ARTHUR,128,"in your father's office, below the bookshelves..."
+1148,1227,...is his personal safe.,1299,ARTHUR,128,...is his personal safe.
+1149,1228,we need the combination.,1299,ARTHUR,128,we need the combination.
+1150,1230,i don't know any safe.,1299,FISCHER,128,i don't know any safe.
+1151,1231,that doesn't mean you don't know the combination.,1300,COBB,128,that doesn't mean you don't know the combination.
+1152,1232,tell us what it is.,1300,COBB,128,tell us what it is.
+1153,1233,i don't know.,1301,FISCHER,128,i don't know.
+1154,1234,we have it on good authority you do know.,1302,ARTHUR,128,we have it on good authority you do know.
+1155,1235,yeah,1303,FISCHER,128,yeah
+1156,1236,whose authority,1303,FISCHER,128,whose authority
+1157,1237," five hundred dollars, this cost.",1305,YUSUF,129," five hundred dollars, this cost."
+1158,1238,what's inside it,1305,EAMES,129,what's inside it
+1159,1239,"cash, cards, id.",1305,YUSUF,129,"cash, cards, id."
+1160,1240,and this.,1305,YUSUF,129,and this.
+1161,1241,useful,1308,EAMES,129,useful
+1162,1242,maybe.,1308,COBB,129,maybe.
+1163,1243,you're on.,1309,COBB,129,you're on.
+1164,1244,you've got an hour.,1309,COBB,129,you've got an hour.
+1165,1245,an hour,1309,EAMES,129,an hour
+1166,1246,i was supposed to have all night to crack this.,1311,EAMES,129,i was supposed to have all night to crack this.
+1167,1247,and saito wasn't supposed to be shot in the chest.,1312,COBB,129,and saito wasn't supposed to be shot in the chest.
+1168,1248,"you've got one hour, now get us something useful, please.",1313,COBB,129,"you've got one hour, now get us something useful, please."
+1169,1250, what's that,1315,FISCHER,130, what's that
+1170,1251, good authority.,1315,ARTHUR,130, good authority.
+1171,1252,uncle peter.,1317,FISCHER,130,uncle peter.
+1172,1253,just make them stop.,1317,FISCHER,130,just make them stop.
+1173,1254, the combination.,1317,ARTHUR,130, the combination.
+1174,1255, i don't know it.,1317,FISCHER,130, i don't know it.
+1175,1256, why does browning say you do,1317,ARTHUR,130, why does browning say you do
+1176,1257, i don't know.,1317,FISCHER,130, i don't know.
+1177,1258,just let me talk to him and i'll find out.,1318,FISCHER,130,just let me talk to him and i'll find out.
+1178,1259,you have one hour.,1320,COBB,131,you have one hour.
+1179,1260,start talking.,1320,COBB,131,start talking.
+1180,1261, you all right,1322,FISHER,131, you all right
+1181,1263,you okay,1323,COBB,131,you okay
+1182,1264,those bastards have had at me for two days.,1323,BROWNING (EAMES),131,those bastards have had at me for two days.
+1183,1265,they have someone with access to your father's office.,1324,BROWNING (EAMES),131,they have someone with access to your father's office.
+1184,1266, they're trying to open his safe.,1324,BROWNING (EAMES),131, they're trying to open his safe.
+1185,1267, yeah.,1324,FISHER,131, yeah.
+1186,1268,"they thought i'd know the combination, but i don't know it.",1324,BROWNING (EAMES),131,"they thought i'd know the combination, but i don't know it."
+1187,1269," yeah, well, neither do i, so...",1324,FISCHER,131," yeah, well, neither do i, so..."
+1188,1270,"what.. maurice told me that when he passed, you were the only one able to open it.",1325,BROWNING,131,"what.. maurice told me that when he passed, you were the only one able to open it."
+1189,1271,"no, he never gave me any combination.",1326,FISCHER,131,"no, he never gave me any combination."
+1190,1272,maybe he did.,1327,BROWNING,131,maybe he did.
+1191,1273,"i mean, maybe you just didn't know it was a combination.",1327,BROWNING,131,"i mean, maybe you just didn't know it was a combination."
+1192,1274,"well, what, then",1328,FISCHER,131,"well, what, then"
+1193,1275,"i don't know, some meaningful combination of numbers...",1329,BROWNING,131,"i don't know, some meaningful combination of numbers..."
+1194,1276,...based on your experiences with maurice.,1329,BROWNING,131,...based on your experiences with maurice.
+1195,1277,"we didn't have very many, uh, meaningful experiences together.",1330,FISCHER,131,"we didn't have very many, uh, meaningful experiences together."
+1196,1278,perhaps after your mother died.,1331,BROWNING,131,perhaps after your mother died.
+1197,1279,"after my mother died, you know what he told me",1332,FISCHER,131,"after my mother died, you know what he told me"
+1198,1280,"robert, there's really nothing to be said.",1334,FISCHER,131,"robert, there's really nothing to be said."
+1199,1281,"oh, well, he was bad with emotion.",1335,BROWNING,131,"oh, well, he was bad with emotion."
+1200,1282,"i was 11, uncle peter.",1336,FISCHER,131,"i was 11, uncle peter."
+1201,1283, how's he doing,1338,COBB,132, how's he doing
+1202,1284, he's in a lot of pain.,1338,ARIADNE,132, he's in a lot of pain.
+1203,1285,"when we get down to the lower levels, the pain will be less intense.",1341,COBB,132,"when we get down to the lower levels, the pain will be less intense."
+1204,1286,and if he dies,1341,ARIADNE,132,and if he dies
+1205,1287,worstcase scenario,1342,COBB,132,worstcase scenario
+1206,1288,"when he wakes up, his mind is completely gone.",1342,COBB,132,"when he wakes up, his mind is completely gone."
+1207,1289,"cobb, i'll still honor the arrangement.",1342,SAITO,132,"cobb, i'll still honor the arrangement."
+1208,1290,"cobb i appreciate that, saito.",1343,COBB,132,"cobb i appreciate that, saito."
+1209,1291,"but when you wake up, you won't even remember that we had an arrangement.",1344,COBB,132,"but when you wake up, you won't even remember that we had an arrangement."
+1210,1292,limbo is gonna become your reality.,1345,COBB,132,limbo is gonna become your reality.
+1211,1293,you're gonna be lost down there so long that you're gonna become an old man.,1346,COBB,132,you're gonna be lost down there so long that you're gonna become an old man.
+1212,1294,filled with regret,1347,SAITO,132,filled with regret
+1213,1295,waiting to die alone.,1348,COBB,132,waiting to die alone.
+1214,1296,no.,1349,SAITO,132,no.
+1215,1297,i'll come back.,1349,SAITO,132,i'll come back.
+1216,1298,and we'll be young men together again.,1349,SAITO,132,and we'll be young men together again.
+1217,1299,breathe.,1350,COBB,132,breathe.
+1218,1300,these people are gonna kill us if we don't give them the combination.,1351,BROWNING,133,these people are gonna kill us if we don't give them the combination.
+1219,1301, they just wanna ransom us.,1352,FISHER,133, they just wanna ransom us.
+1220,1302, i heard them.,1352,BROWNING,133, i heard them.
+1221,1303,"they're gonna lock us in that van, and then drive it into the river.",1353,BROWNING,133,"they're gonna lock us in that van, and then drive it into the river."
+1222,1304,all right.,1354,FISHER,133,all right.
+1223,1305,what is in the safe,1354,FISHER,133,what is in the safe
+1224,1306,something for you.,1355,BROWNING,133,something for you.
+1225,1307,maurice always said it was his most precious gift to you.,1355,BROWNING,133,maurice always said it was his most precious gift to you.
+1226,1308, a will.,1357,FISHER,133, a will.
+1227,1309, maurice's will is with port and dunn.,1357,FISHER,133, maurice's will is with port and dunn.
+1228,1310,that's an alternate.,1357,BROWNING,133,that's an alternate.
+1229,1311,this would supersede the other if you want it to.,1358,BROWNING,133,this would supersede the other if you want it to.
+1230,1312,it splits up the component businesses of fischer morrow.,1358,BROWNING,133,it splits up the component businesses of fischer morrow.
+1231,1313,it'd be the end of the entire empire as we know it.,1359,BROWNING,133,it'd be the end of the entire empire as we know it.
+1232,1314,destroying my whole inheritance,1360,FISHER,133,destroying my whole inheritance
+1233,1315, why would he suggest such a thing,1360,FISHER,133, why would he suggest such a thing
+1234,1316, i just don't know.,1360,BROWNING,133, i just don't know.
+1235,1317,"he loved you, robert.",1361,BROWNING,133,"he loved you, robert."
+1236,1318,in his own way.,1361,BROWNING,133,in his own way.
+1237,1319,in his own way.,1361,FISHER,133,in his own way.
+1238,1320,at the end...,1362,FISHER,133,at the end...
+1239,1321,...he called me in to his deathbed.,1363,FISHER,133,...he called me in to his deathbed.
+1240,1322,he could barely speak.,1363,FISHER,133,he could barely speak.
+1241,1323,but he took the trouble to tell me one last thing.,1364,FISHER,133,but he took the trouble to tell me one last thing.
+1242,1324,he pulled me close.,1364,FISHER,133,he pulled me close.
+1243,1325,and i could only make out...,1364,FISHER,133,and i could only make out...
+1244,1326,...one word.,1364,FISHER,133,...one word.
+1245,1327,disappointed.,1364,FISHER,133,disappointed.
+1246,1329,when were you in limbo,1366,ARIADNE,134,when were you in limbo
+1247,1330,you might have the rest of the team convinced to carry on with this job.,1368,ARIADNE,134,you might have the rest of the team convinced to carry on with this job.
+1248,1331, but they don't know the truth.,1369,ARIADNE,134, but they don't know the truth.
+1249,1332, truth,1369,COBB,134, truth
+1250,1333,what truth,1369,COBB,134,what truth
+1251,1334,"the truth that, at any minute, you might bring a freight train through the wall.",1370,ARIADNE,134,"the truth that, at any minute, you might bring a freight train through the wall."
+1252,1335,the truth that mal is bursting through your subconscious.,1372,ARIADNE,134,the truth that mal is bursting through your subconscious.
+1253,1336,"and the truth that, as we go deeper into fischer...",1373,ARIADNE,134,"and the truth that, as we go deeper into fischer..."
+1254,1337,...we're also going deeper into you.,1374,ARIADNE,134,...we're also going deeper into you.
+1255,1338,and i'm not sure we're gonna like what we find.,1376,ARIADNE,134,and i'm not sure we're gonna like what we find.
+1256,1339,we were working together.,1377,COBB,134,we were working together.
+1257,1340,we were exploring the concept of a dream within a dream.,1377,COBB,134,we were exploring the concept of a dream within a dream.
+1258,1341,i kept pushing things.,1377,COBB,134,i kept pushing things.
+1259,1342,i wanted to go deeper and deeper.,1377,COBB,134,i wanted to go deeper and deeper.
+1260,1343,i wanted to go further.,1377,COBB,134,i wanted to go further.
+1261,1344,i just didn't understand the concept that hours could turn into years down there...,1377,COBB,134,i just didn't understand the concept that hours could turn into years down there...
+1262,1345,...that we could get trapped so deep...,1378,COBB,134,...that we could get trapped so deep...
+1263,1346,...that when we wound up on the shore of our own subconscious...,1379,COBB,134,...that when we wound up on the shore of our own subconscious...
+1264,1347,...we lost sight of what was real.,1381,COBB,134,...we lost sight of what was real.
+1265,1348,we created.,1383,COBB,134,we created.
+1266,1349,we built the world for ourselves.,1383,COBB,134,we built the world for ourselves.
+1267,1350,we did that for years.,1384,COBB,134,we did that for years.
+1268,1351,we built our own world.,1385,COBB,134,we built our own world.
+1269,1352,how long were you stuck there,1386,ARIADNE,134,how long were you stuck there
+1270,1353,something like 50 years.,1387,COBB,134,something like 50 years.
+1271,1354,jesus.,1388,ARIADNE,134,jesus.
+1272,1355,how could you stand it,1388,ARIADNE,134,how could you stand it
+1273,1356,"it wasn't so bad at first, feeling like gods.",1389,COBB,134,"it wasn't so bad at first, feeling like gods."
+1274,1357,the problem was knowing that none of it was real.,1392,COBB,134,the problem was knowing that none of it was real.
+1275,1358,"eventually, it just became impossible for me to live like that.",1393,COBB,134,"eventually, it just became impossible for me to live like that."
+1276,1359,and what about for her,1394,ARIADNE,134,and what about for her
+1277,1360,"she had locked something away, something deep inside her.",1397,COBB,134,"she had locked something away, something deep inside her."
+1278,1361,"a truth that she had once known, but chose to forget.",1399,COBB,134,"a truth that she had once known, but chose to forget."
+1279,1362,limbo became her reality.,1401,COBB (V.O.),134,limbo became her reality.
+1280,1363,what happened when you woke up,1402,ARIADNE,134,what happened when you woke up
+1281,1364,"well, to wake up from that after years, after decades...",1403,COBB,134,"well, to wake up from that after years, after decades..."
+1282,1365,...to become old souls thrown back into youth like that,1405,COBB,134,...to become old souls thrown back into youth like that
+1283,1366,i knew something was wrong with her.,1406,COBB,134,i knew something was wrong with her.
+1284,1367,she just wouldn't admit it.,1406,COBB,134,she just wouldn't admit it.
+1285,1368,"eventually, she told me the truth.",1407,COBB,134,"eventually, she told me the truth."
+1286,1369,she was possessed by an idea.,1408,COBB,134,she was possessed by an idea.
+1287,1370,this one very simple idea that changed everything.,1409,COBB,134,this one very simple idea that changed everything.
+1288,1371,that our world wasn't real.,1410,COBB,134,that our world wasn't real.
+1289,1372,that she needed to wake up to come back to reality...,1410,COBB,134,that she needed to wake up to come back to reality...
+1290,1373,...that in order to get back home...,1410,COBB,134,...that in order to get back home...
+1291,1374,...we had to kill ourselves.,1410,COBB (V.O.),135,...we had to kill ourselves.
+1292,1375, what about your children,1411,ARIADNE,136, what about your children
+1293,1376, she thought they were projections...,1411,COBB,136, she thought they were projections...
+1294,1377,...that our real children were waiting for us up there somewhere.,1413,COBB,136,...that our real children were waiting for us up there somewhere.
+1295,1378,mal i'm their mother,1413,COBB,137,mal i'm their mother
+1296,1379,calm down.,1413,COBB,137,calm down.
+1297,1380,i can tell the difference.,1413,MAL,137,i can tell the difference.
+1298,1381,"if this is my dream, why can't i control this",1415,COBB,137,"if this is my dream, why can't i control this"
+1299,1382,you don't know you're dreaming,1416,MAL,137,you don't know you're dreaming
+1300,1383,she was certain there was nothing i could do...,1417,COBB,137,she was certain there was nothing i could do...
+1301,1384,"...no matter how much i begged, no matter how much i pleaded.",1419,COBB,137,"...no matter how much i begged, no matter how much i pleaded."
+1302,1385,"she wanted to do it, but she could not do it alone.",1419,COBB (V.O.),137,"she wanted to do it, but she could not do it alone."
+1303,1386,"she loved me too much, so she came up with a plan on our anniversary.",1420,COBB (V.O.),137,"she loved me too much, so she came up with a plan on our anniversary."
+1304,1387," sweetheart, what are you doing",1434,COBB (V.O.),140," sweetheart, what are you doing"
+1305,1388, join me.,1434,MAL,140, join me.
+1306,1389,just... just step back inside.,1435,COBB,140,just... just step back inside.
+1307,1390,all right,1435,COBB,140,all right
+1308,1391,"just step back inside now, come on.",1435,COBB,140,"just step back inside now, come on."
+1309,1392,no.,1436,MAL,140,no.
+1310,1393,"i'm going to jump, and you're coming with me.",1436,MAL,140,"i'm going to jump, and you're coming with me."
+1311,1394,"no, i'm not.",1437,COBB,140,"no, i'm not."
+1312,1395,"now, you listen to me.",1437,COBB,140,"now, you listen to me."
+1313,1396,"if you jump, you're not gonna wake up, remember",1437,COBB,140,"if you jump, you're not gonna wake up, remember"
+1314,1397,you're gonna die.,1437,COBB,140,you're gonna die.
+1315,1398,"now, just step back inside.",1437,COBB,140,"now, just step back inside."
+1316,1399,come on.,1437,COBB,140,come on.
+1317,1400,step back inside so we can talk about this.,1437,COBB,140,step back inside so we can talk about this.
+1318,1401,we've talked enough.,1438,MAL,140,we've talked enough.
+1319,1402, mal.,1439,COBB,140, mal.
+1320,1403, come out onto the ledge...,1439,MAL,140, come out onto the ledge...
+1321,1404,...or i'll jump right now.,1440,MAL,140,...or i'll jump right now.
+1322,1405, okay.,1440,COBB,140, okay.
+1323,1406,we're gonna talk about this.,1442,COBB,140,we're gonna talk about this.
+1324,1407,all right,1442,COBB,140,all right
+1325,1408, i'm asking you to take a leap of faith.,1443,MAL,140, i'm asking you to take a leap of faith.
+1326,1409," no, honey.",1443,COBB,140," no, honey."
+1327,1410,"no, i can't.",1445,COBB,140,"no, i can't."
+1328,1411,you know i can't do that.,1445,COBB,140,you know i can't do that.
+1329,1412,"take a second, think about our children.",1445,COBB,140,"take a second, think about our children."
+1330,1413,think about james.,1445,COBB,140,think about james.
+1331,1414,"think about phillipa, now.",1446,COBB,140,"think about phillipa, now."
+1332,1415,"if i go without you, they'll take them away anyway.",1446,MAL,140,"if i go without you, they'll take them away anyway."
+1333,1416, what does that mean,1447,COBB,140, what does that mean
+1334,1417, i filed a letter with our attorney...,1447,MAL,140, i filed a letter with our attorney...
+1335,1418,...explaining how i'm fearful for my safety.,1449,MAL,140,...explaining how i'm fearful for my safety.
+1336,1419,how you've threatened to kill me.,1450,MAL,140,how you've threatened to kill me.
+1337,1420, why did you do this,1451,COBB,140, why did you do this
+1338,1421," i love you, dom.",1451,MAL (CONT'D),140," i love you, dom."
+1339,1422,why did...,1451,COBB,140,why did...
+1340,1423,why would you do this to me,1451,COBB,140,why would you do this to me
+1341,1424,i've freed you from the guilt of choosing to leave them.,1452,MAL (CONT'D),140,i've freed you from the guilt of choosing to leave them.
+1342,1425,we're going home to our real children.,1453,MAL (CONT'D),140,we're going home to our real children.
+1343,1426,"oh, no, no, no, mal, you listen to me, all right",1456,COBB,140,"oh, no, no, no, mal, you listen to me, all right"
+1344,1427,"mal, look at me, please",1456,COBB,140,"mal, look at me, please"
+1345,1428,you're waiting for a train.,1456,MAL,140,you're waiting for a train.
+1346,1429," mal, goddamn it, don't do this",1458,COBB,140," mal, goddamn it, don't do this"
+1347,1430, a train that will take you far away.,1458,MAL,140, a train that will take you far away.
+1348,1431,james and phillipa are waiting for you,1459,COBB,140,james and phillipa are waiting for you
+1349,1432,"you know where you hope this train will take you, but you can't know for sure.",1460,MAL,140,"you know where you hope this train will take you, but you can't know for sure."
+1350,1433," mal, look at me",1463,COBB,140," mal, look at me"
+1351,1434, but it doesn't matter.,1463,MAL,140, but it doesn't matter.
+1352,1435," mal, goddamn it",1465,COBB,140," mal, goddamn it"
+1353,1436,"mal, listen to me",1465,COBB,140,"mal, listen to me"
+1354,1437, because you'll be together.,1465,MAL,140, because you'll be together.
+1355,1438,sweetheart,1468,COBB,140,sweetheart
+1356,1439,look at me,1468,COBB,140,look at me
+1357,1440,"mal, no",1468,COBB,140,"mal, no"
+1358,1441,jesus christ,1468,COBB (V.O.),140,jesus christ
+1359,1442,she had herself declared sane by three different psychiatrists.,1471,COBB (V.O.),142,she had herself declared sane by three different psychiatrists.
+1360,1443,it made it impossible for me to try to explain the nature of her madness.,1473,COBB (V.O.),142,it made it impossible for me to try to explain the nature of her madness.
+1361,1444,so i ran.,1474,COBB (V.O.),142,so i ran.
+1362,1446,"man right now, or never, cobb.",1476,LAWYER,143,"man right now, or never, cobb."
+1363,1448,james  phillipa,1484,WOMAN,143,james  phillipa
+1364,1449,come on in,1484,WOMAN,143,come on in
+1365,1450,come on,1484,WOMAN,143,come on
+1366,1451,"all right, let's go.",1484,COBB,143,"all right, let's go."
+1367,1452,i left my children behind and i've been trying to buy my way back ever since.,1486,COBB,143,i left my children behind and i've been trying to buy my way back ever since.
+1368,1453,your guilt defines her.,1487,ARIADNE,143,your guilt defines her.
+1369,1454,it's what powers her.,1487,ARIADNE,143,it's what powers her.
+1370,1455,but you are not responsible for the idea that destroyed her.,1489,ARIADNE,143,but you are not responsible for the idea that destroyed her.
+1371,1456,and if we are gonna succeed in this...,1490,ARIADNE,143,and if we are gonna succeed in this...
+1372,1457,"...you have to forgive yourself, and you're gonna have to confront her.",1491,ARIADNE,143,"...you have to forgive yourself, and you're gonna have to confront her."
+1373,1458,but you don't have to do that alone.,1492,COBB,143,but you don't have to do that alone.
+1374,1459," no, you're not...",1492,COBB,144," no, you're not..."
+1375,1460,i'm doing it for the others.,1493,ARIADNE,144,i'm doing it for the others.
+1376,1460,because they have no idea the risk they've taken coming down here with you.,1493,ARIADNE,144,because they have no idea the risk they've taken coming down here with you.
+1377,1461,we have to move.,1497,COBB,144,we have to move.
+1378,1462,time's up.,1498,COBB,144,time's up.
+1379,1463,all right.,1498,FISHER,144,all right.
+1380,1464,i don't know any combination.,1498,FISCHER,144,i don't know any combination.
+1381,1465," not consciously, anyway.",1498,FISCHER,144," not consciously, anyway."
+1382,1466,"cobb how about instinctively, huh",1498,COBB,144,"cobb how about instinctively, huh"
+1383,1467,i got somebody in your father's office right now ready to tap in the combination.,1498,COBB,144,i got somebody in your father's office right now ready to tap in the combination.
+1384,1468,give me the first six numbers that come to your head right now.,1498,COBB,144,give me the first six numbers that come to your head right now.
+1385,1469, i have no idea.,1499,FISCHER,144, i have no idea.
+1386,1470, right now,1499,COBB,144, right now
+1387,1471,"i said, right now",1499,COBB,144,"i said, right now"
+1388,1472,right now,1499,COBB,144,right now
+1389,1473,"five, two, eight, four, nine, one.",1499,FISCHER,144,"five, two, eight, four, nine, one."
+1390,1474,you'll have to do better than that.,1501,COBB,144,you'll have to do better than that.
+1391,1475,all right.,1504,COBB,144,all right.
+1392,1476,bag them.,1504,COBB,144,bag them.
+1393,1477,you're going for a ride.,1504,COBB,144,you're going for a ride.
+1394,1478,we're worth more to you alive.,1506,FISCHER,145,we're worth more to you alive.
+1395,1479,you hear me,1506,FISCHER,145,you hear me
+1396,1480,what'd you get,1507,FISCHER,145,what'd you get
+1397,1481,relationship with his father is worse than we imagined.,1507,EAMES,145,relationship with his father is worse than we imagined.
+1398,1482,this helps us how,1507,ARTHUR,145,this helps us how
+1399,1483,"the stronger the issues, the more powerful the catharsis.",1507,COBB,145,"the stronger the issues, the more powerful the catharsis."
+1400,1484, how are we gonna reconcile them,1507,ARTHUR,145, how are we gonna reconcile them
+1401,1485, i'm working on that.,1507,EAMES,145, i'm working on that.
+1402,1486,work faster.,1510,ARTHUR,145,work faster.
+1403,1487,the projections are closing in quick.,1510,ARTHUR,145,the projections are closing in quick.
+1404,1488,we gotta break out of here before we're totally boxed in.,1512,ARTHUR,145,we gotta break out of here before we're totally boxed in.
+1405,1489,damn it.,1529,ARTHUR,145,damn it.
+1406,1490,"you mustn't be afraid to dream a little bigger, darling.",1529,EAMES,145,"you mustn't be afraid to dream a little bigger, darling."
+1407,1491,we need to shift his animosity from his father to his godfather.,1534,COBB,146,we need to shift his animosity from his father to his godfather.
+1408,1492, destroy his one positive relationship,1536,ARIADNE,146, destroy his one positive relationship
+1409,1493," no, repair his relationship with his father...",1536,EAMES,146," no, repair his relationship with his father..."
+1410,1494,...whilst exposing his godfather's true nature.,1536,EAMES,146,...whilst exposing his godfather's true nature.
+1411,1495,we should charge fischer a lot more than saito for this job.,1536,EAMES,146,we should charge fischer a lot more than saito for this job.
+1412,1496,his security is gonna get worse as we go deeper.,1537,ARTHUR,146,his security is gonna get worse as we go deeper.
+1413,1497, i think we run with mr. charles.,1539,COBB,146, i think we run with mr. charles.
+1414,1498, no.,1539,ARTHUR,146, no.
+1415,1499,who's mr. charles,1541,EAMES,146,who's mr. charles
+1416,1500, bad idea.,1541,ARTHUR,146, bad idea.
+1417,1501,the second we get into that hotel his security's gonna be all over us.,1542,COBB,146,the second we get into that hotel his security's gonna be all over us.
+1418,1502,we run with mr. charles like on the stein job.,1542,COBB,146,we run with mr. charles like on the stein job.
+1419,1503, you've done it before,1543,EAMES,146, you've done it before
+1420,1504,"arthur yeah, and it didn't work.",1543,ARTHUR,146,"arthur yeah, and it didn't work."
+1421,1505,the subject realized he was dreaming and his subconscious tore us to pieces.,1544,ARTHUR,146,the subject realized he was dreaming and his subconscious tore us to pieces.
+1422,1506,excellent.,1545,EAMES,146,excellent.
+1423,1507,"but you learned a lot, right",1545,EAMES,146,"but you learned a lot, right"
+1424,1508, i need some kind of distraction.,1547,COBB,146, i need some kind of distraction.
+1425,1509,no problem.,1547,EAMES,146,no problem.
+1426,1510,how about a lovely lady that i've used before,1547,EAMES,146,how about a lovely lady that i've used before
+1427,1511,listen to me.,1548,COBB,146,listen to me.
+1428,1512,"you drive carefully, all right",1548,COBB,146,"you drive carefully, all right"
+1429,1513,everything down there is gonna be unstable as hell.,1548,COBB,146,everything down there is gonna be unstable as hell.
+1430,1514,don't jump too soon.,1552,ARTHUR,146,don't jump too soon.
+1431,1515,we only got one shot at that kick.,1552,ARTHUR,146,we only got one shot at that kick.
+1432,1516,we gotta make it.,1552,ARTHUR,146,we gotta make it.
+1433,1517,i'll play the music to let you know it's coming.,1553,YUSUF,146,i'll play the music to let you know it's coming.
+1434,1518,the rest is on you.,1553,YUSUF,146,the rest is on you.
+1435,1519, you ready,1556,YUSUF,146, you ready
+1436,1520, ready,1556,COBB,146, ready
+1437,1521,sweet dreams.,1558,YUSUF,146,sweet dreams.
+1438,1522,am i boring you,1560,BLONDE (O.S.),147,am i boring you
+1439,1523,i was telling you my story.,1561,BLONDE (CONT'D),147,i was telling you my story.
+1440,1524,i guess it wasn't to your liking.,1561,BLONDE (CONT'D),147,i guess it wasn't to your liking.
+1441,1525,"um, i have a lot on my mind.",1562,FISCHER,147,"um, i have a lot on my mind."
+1442,1526,there goes mr. charles.,1563,ARIADNE,148,there goes mr. charles.
+1443,1527,"mr. fischer, right",1565,COBB,149,"mr. fischer, right"
+1444,1528,pleasure to see you again.,1566,COBB,149,pleasure to see you again.
+1445,1529,rod green from marketing.,1566,COBB,149,rod green from marketing.
+1446,1530,l...,1566,COBB,149,l...
+1447,1531,hmm.,1566,COBB,149,hmm.
+1448,1532, and you must be,1567,COBB,149, and you must be
+1449,1533, leaving.,1567,BLONDE,149, leaving.
+1450,1534,in case you get bored.,1569,BLONDE,149,in case you get bored.
+1451,1535,must've blown you off.,1572,COBB,149,must've blown you off.
+1452,1536,"that is, unless her phone number really is only six digits.",1573,COBB,149,"that is, unless her phone number really is only six digits."
+1453,1537,"funny way to make friends, someone stealing your wallet like that.",1576,COBB,149,"funny way to make friends, someone stealing your wallet like that."
+1454,1539,goddamn it.,1578,FISHER,149,goddamn it.
+1455,1540,the wallet alone is worth at least 500...,1578,FISHER,149,the wallet alone is worth at least 500...
+1456,1541,"about 500, right",1578,COBB,149,"about 500, right"
+1457,1542,don't worry about it.,1578,COBB,149,don't worry about it.
+1458,1543,my people are already on it as we speak.,1578,FISHER,149,my people are already on it as we speak.
+1459,1544,who or what is mr. charles,1579,ARIADNE,150,who or what is mr. charles
+1460,1545,it's a gambit designed to turn fischer against his own subconscious.,1579,ARTHUR,150,it's a gambit designed to turn fischer against his own subconscious.
+1461,1546,ariadne and why don't you approve,1580,ARIADNE,150,ariadne and why don't you approve
+1462,1547,it involves telling the mark that he's dreaming...,1581,ARTHUR,150,it involves telling the mark that he's dreaming...
+1463,1548,...which involves attracting a lot of attention to us.,1581,ARTHUR,150,...which involves attracting a lot of attention to us.
+1464,1549, didn't cobb say never to do that,1581,ARIADNE,150, didn't cobb say never to do that
+1465,1550, hmm.,1581,ARTHUR,150, hmm.
+1466,1551,so now you've noticed how much time...,1581,ARTHUR,150,so now you've noticed how much time...
+1467,1552,...cobb spends doing things he says never to do.,1581,ARTHUR,150,...cobb spends doing things he says never to do.
+1468,1553,"mr. saito, can i have a moment",1582,BOLNDE,153,"mr. saito, can i have a moment"
+1469,1554," i'm sorry, but... man hold on",1583,SAITO,153," i'm sorry, but... man hold on"
+1470,1555,wait,1583,SAITO,153,wait
+1471,1556,you look a bit perkier.,1585,SAITO,153,you look a bit perkier.
+1472,1557,"very amusing, mr. eames.",1586,SAITO,153,"very amusing, mr. eames."
+1473,1559,turbulence on the plane,1589,SAITO,153,turbulence on the plane
+1474,1560,"no, it's much closer.",1589,EAMES,153,"no, it's much closer."
+1475,1561,that's yusuf's driving.,1590,EAMES,153,that's yusuf's driving.
+1476,1564,"um, i'm sorry.",1598,FISCHER,155,"um, i'm sorry."
+1477,1565,who did you say you were,1598,FISCHER,155,who did you say you were
+1478,1566,cobb rod green from marketing.,1598,COBB,155,cobb rod green from marketing.
+1479,1567,"but that's not true at all, is it",1599,COBB,155,"but that's not true at all, is it"
+1480,1568,my name is mr. charles.,1601,COBB,155,my name is mr. charles.
+1481,1569,"you remember me, don't you",1601,COBB,155,"you remember me, don't you"
+1482,1570,i'm the head of your security down here.,1601,COBB,155,i'm the head of your security down here.
+1483,1571,"get out on a different floor, keep moving.",1603,EAMES,155,"get out on a different floor, keep moving."
+1484,1572,dump the wallet.,1604,EAMES,155,dump the wallet.
+1485,1573,security will be looking for that.,1604,EAMES,155,security will be looking for that.
+1486,1574, okay.,1606,SAITO,155, okay.
+1487,1575, we need to buy cobb a little more time.,1606,EAMES,155, we need to buy cobb a little more time.
+1488,1577,"security, huh",1608,FISHER,155,"security, huh"
+1489,1578, you work for the hotel,1608,FISCHER,155, you work for the hotel
+1490,1579," no, no.",1608,COBB,155," no, no."
+1491,1580,i specialize in a very specific type of security.,1609,COBB,155,i specialize in a very specific type of security.
+1492,1581,subconscious security.,1609,COBB,155,subconscious security.
+1493,1582,you're talking about dreams,1610,FISCHER,155,you're talking about dreams
+1494,1583,"are you talking about, um, extraction",1610,FISCHER,155,"are you talking about, um, extraction"
+1495,1584,i am here to protect you.,1611,COBB,155,i am here to protect you.
+1496,1588,"mr. fischer, i'm here to protect you in the event...",1620,COBB,156,"mr. fischer, i'm here to protect you in the event..."
+1497,1589,...that someone tries to access your mind through your dreams.,1622,COBB,156,...that someone tries to access your mind through your dreams.
+1498,1590,you're not safe here.,1624,COBB,157,you're not safe here.
+1499,1591,they're coming for you.,1625,COBB,157,they're coming for you.
+1500,1593,"strange weather, isn't it",1634,COBB,159,"strange weather, isn't it"
+1501,1594,you feel that,1636,COBB,159,you feel that
+1502,1595,what's happening,1638,ARIADNE,160,what's happening
+1503,1596,cobb's drawing fischer's attention to the strangeness of the dream...,1638,ARTHUR,160,cobb's drawing fischer's attention to the strangeness of the dream...
+1504,1597,...which is making his subconscious look for the dreamer.,1639,ARTHUR,160,...which is making his subconscious look for the dreamer.
+1505,1598,for me.,1641,ARTHUR,160,for me.
+1506,1599,"quick, give me a kiss.",1641,ARTHUR,162,"quick, give me a kiss."
+1507,1600, they're still looking at us.,1642,ARIADNE,162, they're still looking at us.
+1508,1601," yeah, it was worth a shot.",1642,ARTHUR,162," yeah, it was worth a shot."
+1509,1602,we should probably get out of here.,1642,ARTHUR,162,we should probably get out of here.
+1510,1604,you feel that,1649,COBB,162,you feel that
+1511,1605,"you've actually been trained for this, mr. fischer.",1649,COBB,162,"you've actually been trained for this, mr. fischer."
+1512,1606,"pay attention to the strangeness of the weather, the shift in gravity.",1650,COBB,162,"pay attention to the strangeness of the weather, the shift in gravity."
+1513,1607,none of this is real.,1652,COBB,162,none of this is real.
+1514,1608,you're in a dream.,1652,COBB,162,you're in a dream.
+1515,1609,"now, the easiest way for you to test yourself...",1656,COBB,162,"now, the easiest way for you to test yourself..."
+1516,1610,...is to try and remember how you arrived at this hotel.,1656,COBB,162,...is to try and remember how you arrived at this hotel.
+1517,1611,can you do that,1656,COBB,162,can you do that
+1518,1612,"yeah, i...",1656,FISHER,162,"yeah, i..."
+1519,1613,"no, breathe, breathe.",1656,COBB,162,"no, breathe, breathe."
+1520,1614,remember your training.,1656,COBB,162,remember your training.
+1521,1615,"accept the fact that you're in a dream, and i'm here to protect you.",1658,COBB,162,"accept the fact that you're in a dream, and i'm here to protect you."
+1522,1616,go on.,1658,COBB,162,go on.
+1523,1617,mmhm.,1658,COBB,162,mmhm.
+1524,1618, you're not real,1658,FISCHER,164, you're not real
+1525,1619, no.,1658,COBB,164, no.
+1526,1620,no.,1659,COBB,164,no.
+1527,1621,i'm a projection of your subconscious.,1659,COBB,164,i'm a projection of your subconscious.
+1528,1622,i was sent here to protect you in the event...,1659,COBB,164,i was sent here to protect you in the event...
+1529,1623,...that extractors tried to pull you into a dream.,1660,COBB,164,...that extractors tried to pull you into a dream.
+1530,1624,"and i believe that's what's going on right now, mr. fischer.",1660,COBB,164,"and i believe that's what's going on right now, mr. fischer."
+1531,1625,yeah.,1661,FISCHER,166,yeah.
+1532,1626,okay.,1661,FISCHER,166,okay.
+1533,1627,okay.,1661,FISCHER,166,okay.
+1534,1628,can you get me out of here,1663,FISCHER,166,can you get me out of here
+1535,1629,right away.,1664,COBB,166,right away.
+1536,1630,follow me.,1664,COBB,166,follow me.
+1537,1631,hold on a second.,1671,FISHER,166,hold on a second.
+1538,1632,jesus christ,1678,FISHER,166,jesus christ
+1539,1633,what are you doing,1678,FISHER,166,what are you doing
+1540,1634,"these men were sent here to abduct you, all right",1679,COBB,166,"these men were sent here to abduct you, all right"
+1541,1635,"if you want my help, you have to remain calm.",1679,COBB,166,"if you want my help, you have to remain calm."
+1542,1636,"i need you to work with me, mr. fischer.",1681,COBB,166,"i need you to work with me, mr. fischer."
+1543,1637,"if this is a dream, i should just kill myself to wake up, right",1687,FISCHER,166,"if this is a dream, i should just kill myself to wake up, right"
+1544,1638,"i wouldn't do that if i were you, mr. fischer.",1687,COBB,166,"i wouldn't do that if i were you, mr. fischer."
+1545,1639,"i believe they have you sedated, and if you pull that trigger...",1688,COBB,166,"i believe they have you sedated, and if you pull that trigger..."
+1546,1640,...you may not wake up.,1688,COBB,166,...you may not wake up.
+1547,1641,you may go into a further dream state.,1689,COBB,166,you may go into a further dream state.
+1548,1642,"now, you know what i'm talking about.",1689,COBB,166,"now, you know what i'm talking about."
+1549,1643,you remember the training.,1690,COBB,166,you remember the training.
+1550,1644,remember what i said to you.,1691,COBB,166,remember what i said to you.
+1551,1645,give me the gun.,1692,COBB,169,give me the gun.
+1552,1646, this room should be directly below 528,1697,ARTHUR,169, this room should be directly below 528
+1553,1647, yeah.,1697,ARIADNE,169, yeah.
+1554,1649,"think, mr. fischer, think.",1701,COBB,170,"think, mr. fischer, think."
+1555,1650,what do you remember from before this dream,1701,COBB,170,what do you remember from before this dream
+1556,1651,"there was, um, a lot of gunfire.",1701,FISHER,170,"there was, um, a lot of gunfire."
+1557,1652,there was rain.,1701,FISHER,170,there was rain.
+1558,1653,uncle peter.,1701,FISCHER,170,uncle peter.
+1559,1654," oh, my god, we've been kidnapped.",1701,FISCHER,170," oh, my god, we've been kidnapped."
+1560,1655, where were they holding you,1701,COBB,170, where were they holding you
+1561,1656, they had us in the back of a van.,1702,FISCHER,170, they had us in the back of a van.
+1562,1657, that explains the gravity shifts.,1702,FISCHER,170, that explains the gravity shifts.
+1563,1658,you're in the back of a van.,1703,FISCHER,170,you're in the back of a van.
+1564,1659,keep going.,1703,COBB,170,keep going.
+1565,1660,"it had something to do with, um...",1704,FISCHER,170,"it had something to do with, um..."
+1566,1661,something to do with a safe.,1704,FISCHER,170,something to do with a safe.
+1567,1662,"god, why is it so hard to remember",1704,FISCHER,170,"god, why is it so hard to remember"
+1568,1663,it's like trying to remember a dream after you've woken up.,1705,COBB,170,it's like trying to remember a dream after you've woken up.
+1569,1664,"listen, it takes years of practice.",1705,COBB,170,"listen, it takes years of practice."
+1570,1665,you and browning have been pulled into this dream...,1705,COBB,170,you and browning have been pulled into this dream...
+1571,1666,...because they're trying to steal something from your mind.,1705,COBB,170,...because they're trying to steal something from your mind.
+1572,1667,i need you to focus and try and remember what that is.,1707,COBB,170,i need you to focus and try and remember what that is.
+1573,1668,"what is it, mr. fischer",1708,COBB,170,"what is it, mr. fischer"
+1574,1669,think,1708,COBB,170,think
+1575,1670,a combination.,1709,FISCHER,170,a combination.
+1576,1671,they demanded the first numbers to pop into my head.,1709,FISCHER,170,they demanded the first numbers to pop into my head.
+1577,1672,they're trying to extract a number from your subconscious.,1709,COBB,170,they're trying to extract a number from your subconscious.
+1578,1673,it can represent anything.,1711,COBB,170,it can represent anything.
+1579,1674,we're in a hotel right now.,1711,COBB,170,we're in a hotel right now.
+1580,1675,we should try hotel rooms.,1711,COBB,170,we should try hotel rooms.
+1581,1676,"what was the number, mr. fischer",1711,COBB,170,"what was the number, mr. fischer"
+1582,1677,try and remember for me.,1712,COBB,170,try and remember for me.
+1583,1678,this is very important.,1712,COBB,170,this is very important.
+1584,1679,five.,1712,FISCHER,170,five.
+1585,1680,"five, two...",1712,FISCHER,170,"five, two..."
+1586,1681,"it was something, it was a long number.",1712,COBB,170,"it was something, it was a long number."
+1587,1682,that's good.,1713,COBB,170,that's good.
+1588,1683,we can start there.,1713,COBB,170,we can start there.
+1589,1684,fifth floor.,1713,COBB,170,fifth floor.
+1590,1685,yep.,1714,COBB,170,yep.
+1591,1686, so do you use a timer,1716,ARIADNE,171, so do you use a timer
+1592,1687," no, i have to judge it for myself.",1716,ARTHUR,171," no, i have to judge it for myself."
+1593,1688,"while you're all asleep in 528, i wait for yusuf's kick.",1717,ARTHUR,171,"while you're all asleep in 528, i wait for yusuf's kick."
+1594,1689," well, how will you know",1718,ARIADNE,171," well, how will you know"
+1595,1690, his music warns me.,1718,ARIADNE,171, his music warns me.
+1596,1691,"and then when the van hits the barrier of the bridge, that should be unmistakable.",1719,ARTHUR,171,"and then when the van hits the barrier of the bridge, that should be unmistakable."
+1597,1692,so we get a nice synchronized kick.,1720,ARTHUR,171,so we get a nice synchronized kick.
+1598,1693,"if it's too soon, we won't get pulled out.",1720,ARTHUR,171,"if it's too soon, we won't get pulled out."
+1599,1694,"but if it's too late, i won't be able to drop us.",1720,ARTHUR,171,"but if it's too late, i won't be able to drop us."
+1600,1695," well, why not",1721,ARIADNE,171," well, why not"
+1601,1696, because the van will be in freefall.,1721,ARTHUR,171, because the van will be in freefall.
+1602,1697, can't drop you without gravity.,1723,ARTHUR,171, can't drop you without gravity.
+1603,1698, right.,1723,ARIADNE,171, right.
+1604,1699,they're with me.,1726,COBB,172,they're with me.
+1605,1700,go on.,1726,COBB,172,go on.
+1606,1701,mr. charles.,1734,ARTHUR,172,mr. charles.
+1607,1702," do you know what that is, mr. fischer",1735,COBB,172," do you know what that is, mr. fischer"
+1608,1703," yeah, i think so.",1735,FISCHER,172," yeah, i think so."
+1609,1704,they were trying to put you under.,1738,COBB,172,they were trying to put you under.
+1610,1705, i'm already under.,1738,FISCHER,172, i'm already under.
+1611,1706, under again.,1738,COBB,172, under again.
+1612,1707,"what do you mean, a dream within a dream",1740,FISCHER,172,"what do you mean, a dream within a dream"
+1613,1708,hey.,1741,SAITO,172,hey.
+1614,1709,i see you've changed.,1741,SAITO,172,i see you've changed.
+1615,1710,i'm sorry,1742,COBB,173,i'm sorry
+1616,1711,"oh, i'm sorry.",1744,SAITO,173,"oh, i'm sorry."
+1617,1712,i mistook you for a friend.,1744,SAITO,174,i mistook you for a friend.
+1618,1713,oh.,1744,BROWNING,174,oh.
+1619,1714,"goodlooking fellow, i'm sure.",1744,BROWNING,174,"goodlooking fellow, i'm sure."
+1620,1715,"no, no, no.",1745,EAMES,174,"no, no, no."
+1621,1716,that's fischer's projection of browning.,1745,EAMES,174,that's fischer's projection of browning.
+1622,1717,let's follow him and see how he behaves.,1745,EAMES,174,let's follow him and see how he behaves.
+1623,1718, why,1745,SAITO,174, why
+1624,1719, because how he acts will tell us...,1745,EAMES,174, because how he acts will tell us...
+1625,1720,...if fischer is starting to suspect his motives the way we want him to.,1745,EAMES,174,...if fischer is starting to suspect his motives the way we want him to.
+1626,1721,shh.,1746,ARTHUR,174,shh.
+1627,1723, uncle peter.,1750,FISCHER,174, uncle peter.
+1628,1724, you said you were kidnapped together,1750,COBB,174, you said you were kidnapped together
+1629,1725,"well, not exactly.",1752,FISCHER,174,"well, not exactly."
+1630,1726,they already had him.,1752,FISCHER,174,they already had him.
+1631,1727,they were torturing him.,1752,FISCHER,174,they were torturing him.
+1632,1728,and you saw them torture him,1753,COBB,174,and you saw them torture him
+1633,1729,the kidnappers are working for you,1756,FISCHER,174,the kidnappers are working for you
+1634,1730,robert.,1757,BROWNING,174,robert.
+1635,1731,you're trying to get that safe open,1758,FISCHER,174,you're trying to get that safe open
+1636,1732,to get the alternate will,1758,FISCHER,174,to get the alternate will
+1637,1733,fischer morrow has been my entire life.,1759,BROWNING,174,fischer morrow has been my entire life.
+1638,1734,i can't let you destroy it.,1759,BROWNING,174,i can't let you destroy it.
+1639,1735,i'm not gonna throw away my inheritance.,1760,FISCHER,174,i'm not gonna throw away my inheritance.
+1640,1736,i couldn't let you rise to your father's last taunt.,1761,BROWNING,174,i couldn't let you rise to your father's last taunt.
+1641,1737, what taunt,1763,FISCHER,174, what taunt
+1642,1738," the will, robert.",1763,BROWNING,174," the will, robert."
+1643,1739,that will,1763,BROWNING,174,that will
+1644,1740,that's his last insult.,1764,BROWNING,174,that's his last insult.
+1645,1741,a challenge for you to build something for yourself...,1765,BROWNING,174,a challenge for you to build something for yourself...
+1646,1742,...by telling you you're not worthy of his accomplishments.,1766,BROWNING,174,...by telling you you're not worthy of his accomplishments.
+1647,1743," what, but that he was, um, disappointed",1767,FISCHER,174," what, but that he was, um, disappointed"
+1648,1744, i'm sorry.,1767,BROWNING,174, i'm sorry.
+1649,1745,but he's wrong.,1768,BROWNING,174,but he's wrong.
+1650,1746,you can build a better company than he ever did.,1768,BROWNING,174,you can build a better company than he ever did.
+1651,1747,mr. fischer,1769,COBB,174,mr. fischer
+1652,1748,he's lying.,1769,COBB,174,he's lying.
+1653,1749, how do you know,1769,FISCHER,174, how do you know
+1654,1750," trust me, it's what i do.",1769,COBB,174," trust me, it's what i do."
+1655,1751,"he's hiding something, and we need to find out what that is.",1770,COBB,174,"he's hiding something, and we need to find out what that is."
+1656,1752,i need you to do the same thing to him that he was going to do to you.,1772,COBB,174,i need you to do the same thing to him that he was going to do to you.
+1657,1753,we'll enter his subconscious and find out what he doesn't want you to know.,1773,COBB,174,we'll enter his subconscious and find out what he doesn't want you to know.
+1658,1754,all right.,1773,FISCHER,174,all right.
+1659,1756,he's out.,1776,ARTHUR,174,he's out.
+1660,1757, wait.,1776,ARIADNE,174, wait.
+1661,1758,whose subconscious are we going into exactly,1777,ARIADNE,174,whose subconscious are we going into exactly
+1662,1759,we're going into fischer's.,1777,COBB,174,we're going into fischer's.
+1663,1760,i told him it was browning's so he'd be a part of our team.,1777,COBB,174,i told him it was browning's so he'd be a part of our team.
+1664,1761,he's gonna help us break into his own subconscious.,1778,ARTHUR,174,he's gonna help us break into his own subconscious.
+1665,1762,that's right.,1779,COBB,174,that's right.
+1666,1763,security's gonna run you down hard.,1780,EAMES,174,security's gonna run you down hard.
+1667,1764,and i will lead them on a merry chase.,1781,COBB,174,and i will lead them on a merry chase.
+1668,1765, just be back before the kick.,1782,EAMES,174, just be back before the kick.
+1669,1766," go to sleep, mr. eames.",1782,COBB,174," go to sleep, mr. eames."
+1670,1767,you good,1784,ARTHUR,174,you good
+1671,1768,hey.,1784,ARTHUR,174,hey.
+1672,1769,you ready,1784,ARTHUR,174,you ready
+1673,1770,"yes, yes.",1784,COBB,174,"yes, yes."
+1674,1771,i'm fine.,1784,COBB,174,i'm fine.
+1675,1772,i'm ready.,1784,COBB,174,i'm ready.
+1676,1773,cobb,1785,ARIADNE (O.S.),175,cobb
+1677,1774,cobb,1786,ARIADNE (O.S.),175,cobb
+1678,1775,what's down there,1786,ARIADNE,175,what's down there
+1679,1776,"hopefully, the truth we want fischer to learn.",1787,COBB,175,"hopefully, the truth we want fischer to learn."
+1680,1777,"i mean, what's down there for you",1787,ARIADNE,175,"i mean, what's down there for you"
+1681,1788,did you see that,1866,YUSUF,175,did you see that
+1682,1789,"eames, this is your dream.",1871,COBB,175,"eames, this is your dream."
+1683,1790,"i need you to draw the security away from the complex, understand",1872,COBB,175,"i need you to draw the security away from the complex, understand"
+1684,1791, who guides fischer in,1872,EAMES,175, who guides fischer in
+1685,1792,not me.,1872,COBB,175,not me.
+1686,1793,"if i know the route, everything could be compromised.",1874,COBB,175,"if i know the route, everything could be compromised."
+1687,1794, i designed the place.,1875,ARIADNE,175, i designed the place.
+1688,1795,"no, you're with me.",1875,COBB,175,"no, you're with me."
+1689,1796,i could do it.,1876,SAITO (O.S.),175,i could do it.
+1690,1797,all right.,1879,COBB,175,all right.
+1691,1798,brief him on the route into the complex.,1879,COBB,175,brief him on the route into the complex.
+1692,1799," fischer, you'll be going with him.",1880,COBB,175," fischer, you'll be going with him."
+1693,1800, all right.,1880,FISCHER,175, all right.
+1694,1801,what about you,1880,FISCHER,175,what about you
+1695,1802,you keep this live.,1882,COBB,175,you keep this live.
+1696,1803,i'll be listening in the whole time.,1882,COBB,175,i'll be listening in the whole time.
+1697,1804,the windows on that upper floor are big enough for me to cover you from that tower.,1885,COBB,175,the windows on that upper floor are big enough for me to cover you from that tower.
+1698,1805,you're not coming in,1887,FISCHER,175,you're not coming in
+1699,1806,in order to find out the truth about your father...,1888,COBB,175,in order to find out the truth about your father...
+1700,1807,...you're gonna need to break into browning's mind on your own.,1888,COBB,175,...you're gonna need to break into browning's mind on your own.
+1701,1808,"come on, fischer",1889,SAITO,175,"come on, fischer"
+1702,1812," go, go, go",1912,SECURITY,184," go, go, go"
+1703,1813,move,1913,SECURITY,185,move
+1704,1814,go,1915,SECURITY,189,go
+1705,1816,sod it.,1922,YUSUF,189,sod it.
+1706,1817,i hope you're ready.,1929,YUSUF,189,i hope you're ready.
+1707,1820,"no, it's too soon.",1932,ARTHUR,190,"no, it's too soon."
+1708,1822,"cobb, do you hear that",1935,EAMES,191,"cobb, do you hear that"
+1709,1823,"i first noticed it about 20 minutes ago, i thought it was the wind up here.",1936,EAMES,192,"i first noticed it about 20 minutes ago, i thought it was the wind up here."
+1710,1824,"yeah, i hear it.",1938,COBB,192,"yeah, i hear it."
+1711,1825,it's music.,1938,COBB,193,it's music.
+1712,1826,"so, what do we do",1939,EAMES,193,"so, what do we do"
+1713,1827,we move fast.,1940,COBB,193,we move fast.
+1714,1828,yusuf's 10 seconds from the jump.,1943,COBB,193,yusuf's 10 seconds from the jump.
+1715,1829,which gives arthur three minutes.,1946,COBB,194,which gives arthur three minutes.
+1716,1830, hey,1949,ARTHUR,195, hey
+1717,1831, that's him,1949,SECURITY,195, that's him
+1718,1832, which gives us what,1951,COBB,195, which gives us what
+1719,1833, sixty minutes.,1951,ARIADNE,195, sixty minutes.
+1720,1834, can they make that route in an hour,1952,COBB,195, can they make that route in an hour
+1721,1835, they have to climb to the terrace.,1952,ARIADNE,195, they have to climb to the terrace.
+1722,1836,"then they need a new route, a more direct route.",1954,COBB,195,"then they need a new route, a more direct route."
+1723,1838,it's designed as a labyrinth.,1964,ARIADNE,195,it's designed as a labyrinth.
+1724,1839,there must be access routes that cut through the maze.,1965,COBB,195,there must be access routes that cut through the maze.
+1725,1840,eames,1965,COBB,195,eames
+1726,1842,did eames add any features,1979,COBB,197,did eames add any features
+1727,1843,i don't think i should tell you.,1980,ARIADNE,197,i don't think i should tell you.
+1728,1844,we don't have time for this.,1981,COBB,197,we don't have time for this.
+1729,1845,did he add anything,1981,COBB,197,did he add anything
+1730,1846,he added an airduct system...,1982,ARIADNE,197,he added an airduct system...
+1731,1847,...that can cut through the maze.,1982,ARIADNE,197,...that can cut through the maze.
+1732,1848, good.,1982,COBB,197, good.
+1733,1849,explain it to them.,1982,COBB,197,explain it to them.
+1734,1851,paradox.,2005,ARTHUR,198,paradox.
+1735,1854,what was that,2035,ARIADNE,208,what was that
+1736,1855, the kick.,2035,COBB,208, the kick.
+1737,1856,cobb,2037,EAMES,208,cobb
+1738,1857,"cobb, did we miss it",2037,EAMES,208,"cobb, did we miss it"
+1739,1858,"yeah, we missed it.",2038,EAMES,208,"yeah, we missed it."
+1740,1859,man,2039,FISCHER,208,man
+1741,1860,couldn't someone have dreamt up a goddamn beach,2039,FISCHER,209,couldn't someone have dreamt up a goddamn beach
+1742,1861,huh,2039,FISCHER,209,huh
+1743,1862,uhhuh.,2039,FISCHER,209,uhhuh.
+1744,1863,"over radio well, what the hell do we do now",2040,EAMES,209,"over radio well, what the hell do we do now"
+1745,1864,we finish the job before the next kick.,2040,COBB,209,we finish the job before the next kick.
+1746,1865, what next kick,2042,EAMES,209, what next kick
+1747,1866, when the van hits the water.,2042,COBB,210, when the van hits the water.
+1748,1869,how do i drop you without gravity,2053,ARTHUR,210,how do i drop you without gravity
+1749,1870,"arthur has a couple minutes, and we have about 20.",2055,COBB,210,"arthur has a couple minutes, and we have about 20."
+1750,1872,you okay,2064,FISCHER,213,you okay
+1751,1874,turn around,2066,SOLDIER,213,turn around
+1752,1875,move to base,2066,SOLDIER,213,move to base
+1753,1876,move to base,2066,SOLDIER,213,move to base
+1754,1877,"go, go, go",2067,SOLDIER,213,"go, go, go"
+1755,1878,there's something wrong.,2069,EAMES,213,there's something wrong.
+1756,1879,"they're heading your way, like they know something.",2069,EAMES,216,"they're heading your way, like they know something."
+1757,1880,"just buy us more time, all right",2070,COBB,216,"just buy us more time, all right"
+1758,1881, come on,2070,COBB,216, come on
+1759,1882, on my way.,2070,ARIADNE,216, on my way.
+1760,1883,come on,2072,SOLDIER,216,come on
+1761,1884,move,2072,SOLDIER,216,move
+1762,1887,all right.,2111,ARTHUR,216,all right.
+1763,1889,okay.,2115,ARIADNE,216,okay.
+1764,1890,that's the antechamber outside the strong room.,2115,ARIADNE,216,that's the antechamber outside the strong room.
+1765,1891, does the strong room have windows,2117,COBB,216, does the strong room have windows
+1766,1892, it wouldn't be very strong if it did.,2117,ARIADNE,216, it wouldn't be very strong if it did.
+1767,1893,let's hope fischer likes what he finds in there.,2119,COBB,216,let's hope fischer likes what he finds in there.
+1768,1894, are those projections his subconscious,2123,ARIADNE,216, are those projections his subconscious
+1769,1895, yes.,2123,COBB,216, yes.
+1770,1896, are you destroying parts of his mind,2126,ARIADNE,216, are you destroying parts of his mind
+1771,1897, no.,2126,COBB,216, no.
+1772,1898,they're just projections.,2126,COBB,216,they're just projections.
+1773,1901, we're here.,2133,FISCHER,217, we're here.
+1774,1902," you're clear, but hurry.",2133,COBB,218," you're clear, but hurry."
+1775,1903,there's an entire army headed your way.,2134,COBB,218,there's an entire army headed your way.
+1776,1904,i'm in.,2141,FISCHER,221,i'm in.
+1777,1907,there he is.,2142,SOLDIER,225,there he is.
+1778,1908, there's someone in there.,2164,COBB,225, there's someone in there.
+1779,1909," fischer, it's a trap.",2164,ARIADNE,225," fischer, it's a trap."
+1780,1910,get out.,2164,ARIADNE,225,get out.
+1781,1911,come on.,2167,COBB,227,come on.
+1782,1912,"come on, a little lower.",2167,COBB,227,"come on, a little lower."
+1783,1913,cobb.,2171,ARIADNE,227,cobb.
+1784,1914,"no, she is not real.",2172,ARIADNE,227,"no, she is not real."
+1785,1915,how do you know that,2173,COBB,227,how do you know that
+1786,1916,she is just a projection.,2175,FISCHER,228,she is just a projection.
+1787,1917,fischer.,2175,ARIADNE,228,fischer.
+1788,1918,fischer is real.,2175,ARIADNE,228,fischer is real.
+1789,1920,hello.,2178,MAL,229,hello.
+1790,1921,eames,2182,ARIADNE,229,eames
+1791,1922,"eames, get to the antechamber now",2182,ARIADNE,229,"eames, get to the antechamber now"
+1792,1923,what happened,2197,EAMES,235,what happened
+1793,1924, mal killed fischer.,2197,ARIADNE,235, mal killed fischer.
+1794,1925,i couldn't shoot her.,2199,COBB,235,i couldn't shoot her.
+1795,1926,there's no use in reviving him.,2200,COBB,235,there's no use in reviving him.
+1796,1927,his mind's already trapped down there.,2200,COBB,235,his mind's already trapped down there.
+1797,1928,it's all over.,2201,COBB,235,it's all over.
+1798,1929,"so that's it, then",2202,EAMES,235,"so that's it, then"
+1799,1930,we failed,2202,EAMES,235,we failed
+1800,1931,we're done.,2203,EAMES,235,we're done.
+1801,1932,i'm sorry.,2203,COBB,235,i'm sorry.
+1802,1933,"it's not me that doesn't get back to my family, is it",2204,EAMES,235,"it's not me that doesn't get back to my family, is it"
+1803,1934,shame.,2208,EAMES,235,shame.
+1804,1935,i wanted to know what was gonna happen in there.,2208,EAMES,235,i wanted to know what was gonna happen in there.
+1805,1936,i swear we had this.,2208,EAMES,235,i swear we had this.
+1806,1937,let's set the charges.,2209,EAMES,235,let's set the charges.
+1807,1938,"no, there's still another way.",2212,ARIADNE,235,"no, there's still another way."
+1808,1939, we have to follow fischer down there.,2214,ARIADNE,235, we have to follow fischer down there.
+1809,1940, not enough time.,2214,EAMES,235, not enough time.
+1810,1941,"no, but there will be enough time down there.",2216,ARIADNE,235,"no, but there will be enough time down there."
+1811,1942,and we will find him.,2218,ARIADNE,235,and we will find him.
+1812,1943,"okay, as soon as arthur's music kicks in, just use the defibrillator to revive him.",2218,ARIADNE,235,"okay, as soon as arthur's music kicks in, just use the defibrillator to revive him."
+1813,1944,we can give him his own kick down below.,2218,ARIADNE,235,we can give him his own kick down below.
+1814,1945,"look, you get him in there.",2220,ARIADNE,235,"look, you get him in there."
+1815,1946,"as soon as the music ends, you blow up the hospital...",2220,ARIADNE,235,"as soon as the music ends, you blow up the hospital..."
+1816,1947,...and we all ride the kick back up the layers.,2220,ARIADNE,235,...and we all ride the kick back up the layers.
+1817,1948,"it's worth a shot, if saito can hold the guards off while i set the charges.",2221,EAMES,235,"it's worth a shot, if saito can hold the guards off while i set the charges."
+1818,1949,"saito will never make it, will he",2223,COBB,235,"saito will never make it, will he"
+1819,1950," cobb, come on.",2224,ARIADNE,235," cobb, come on."
+1820,1951,we've gotta try this.,2224,ARIADNE,235,we've gotta try this.
+1821,1952, go for it.,2224,EAMES,235, go for it.
+1822,1953,"if you are not back before the kick, i am gone with or without you.",2225,EAMES,235,"if you are not back before the kick, i am gone with or without you."
+1823,1954,she's right.,2225,COBB,235,she's right.
+1824,1955,she's right.,2225,COBB,235,she's right.
+1825,1956,come on.,2225,COBB,235,come on.
+1826,1957,let's go.,2225,COBB,235,let's go.
+1827,1958,can i trust you to do what needs to happen here,2226,ARIADNE,235,can i trust you to do what needs to happen here
+1828,1959,mal's gonna be down there.,2226,ARIADNE,235,mal's gonna be down there.
+1829,1960,i know where to find her.,2227,COBB,235,i know where to find her.
+1830,1961,she'll have fischer.,2227,COBB,235,she'll have fischer.
+1831,1962, how do you know,2229,ARIADNE,235, how do you know
+1832,1963, because she wants me to come after him.,2229,COBB,235, because she wants me to come after him.
+1833,1964,she wants me back down there with her.,2229,COBB,235,she wants me back down there with her.
+1834,1965,all right,2236,COBB,235,all right
+1835,1966, this is your world,2239,ARIADNE,236, this is your world
+1836,1967, it was.,2239,COBB,236, it was.
+1837,1968,and this is where she'll be.,2240,COBB,236,and this is where she'll be.
+1838,1969,come on.,2240,EAMES,238,come on.
+1839,1971,saito.,2253,EAMES,238,saito.
+1840,1972,saito.,2253,EAMES,238,saito.
+1841,1973,"i need you to take care of fischer while i go set some charges, okay",2255,EAMES,238,"i need you to take care of fischer while i go set some charges, okay"
+1842,1974,no room for tourists on these jobs.,2256,SAITO,240,no room for tourists on these jobs.
+1843,1975,don't be silly.,2259,EAMES,240,don't be silly.
+1844,1976,you built all this,2268,ARIADNE,240,you built all this
+1845,1977,this is incredible.,2268,ARIADNE,240,this is incredible.
+1846,1978,we built for years.,2269,COBB,240,we built for years.
+1847,1979,then we started in on the memories.,2269,COBB,240,then we started in on the memories.
+1848,1980,this way.,2273,COBB,240,this way.
+1849,1981,this was our neighborhood.,2284,COBB,240,this was our neighborhood.
+1850,1982,places from our past.,2285,COBB,240,places from our past.
+1851,1983,that was our first apartment.,2286,COBB,240,that was our first apartment.
+1852,1984,then we moved to that building right there.,2286,COBB,240,then we moved to that building right there.
+1853,1985,"after mal became pregnant, that became our home.",2287,COBB,240,"after mal became pregnant, that became our home."
+1854,1986,you reconstructed all of this from memory,2288,ARIADNE,240,you reconstructed all of this from memory
+1855,1987,"like i told you, we had lots of time.",2289,COBB,240,"like i told you, we had lots of time."
+1856,1988,what is that,2290,ARIADNE,240,what is that
+1857,1989,that's the house mal grew up in.,2292,COBB,240,that's the house mal grew up in.
+1858,1990," well, will she be in there",2293,ARIADNE,240," well, will she be in there"
+1859,1991, no.,2293,COBB,240, no.
+1860,1992,come on.,2293,COBB,240,come on.
+1861,1993,"we both wanted to live in a house, but we loved this type of building.",2294,COBB,241,"we both wanted to live in a house, but we loved this type of building."
+1862,1994,"in the real world, we'd have to choose, but not here.",2295,COBB,241,"in the real world, we'd have to choose, but not here."
+1863,2001,how are we gonna bring fischer back,2303,ARIADNE,242,how are we gonna bring fischer back
+1864,2002,we're gonna have to come up with some kind of a kick.,2304,COBB,242,we're gonna have to come up with some kind of a kick.
+1865,2003,what,2305,ARIADNE,242,what
+1866,2004,i'm gonna improvise.,2307,COBB,242,i'm gonna improvise.
+1867,2005,"listen, there's something you should know about me.",2308,COBB,242,"listen, there's something you should know about me."
+1868,2006,about inception.,2308,COBB,242,about inception.
+1869,2009,an idea is like a virus.,2315,COBB,242,an idea is like a virus.
+1870,2010,resilient.,2315,COBB,243,resilient.
+1871,2011,highly contagious.,2315,COBB,243,highly contagious.
+1872,2012,and the smallest seed of an idea can grow.,2316,COBB,243,and the smallest seed of an idea can grow.
+1873,2013,it can grow to define...,2317,COBB,243,it can grow to define...
+1874,2014,...or destroy you.,2317,COBB,243,...or destroy you.
+1875,2015,"the smallest idea, such as",2318,MAL,243,"the smallest idea, such as"
+1876,2016,your world is not real.,2319,MAL,243,your world is not real.
+1877,2017,simple little thought that changes everything.,2320,MAL,243,simple little thought that changes everything.
+1878,2018,so certain of your world.,2321,MAL,245,so certain of your world.
+1879,2019,of what's real.,2321,MAL,245,of what's real.
+1880,2020,do you think he is,2322,MAL,245,do you think he is
+1881,2021,or do you think he's as lost as i was,2322,MAL,245,or do you think he's as lost as i was
+1882,2022,"i know what's real, mal.",2323,COBB,245,"i know what's real, mal."
+1883,2023,no creeping doubts,2325,MAL,245,no creeping doubts
+1884,2024,"not feeling persecuted, dom",2325,MAL,245,"not feeling persecuted, dom"
+1885,2025,chased around the globe...,2325,MAL,245,chased around the globe...
+1886,2026,...by anonymous corporations and police forces...,2325,MAL,245,...by anonymous corporations and police forces...
+1887,2027,...the way the projections persecute the dreamer,2326,MAL,245,...the way the projections persecute the dreamer
+1888,2028,admit it.,2327,MAL,245,admit it.
+1889,2029,you don't believe in one reality anymore.,2327,MAL,245,you don't believe in one reality anymore.
+1890,2030,so choose.,2327,MAL,245,so choose.
+1891,2031,choose to be here.,2328,MAL,245,choose to be here.
+1892,2032,choose me.,2328,MAL,245,choose me.
+1893,2034,you know what i have to do.,2344,COBB,245,you know what i have to do.
+1894,2035,i have to get back to our children because you left them.,2344,COBB,245,i have to get back to our children because you left them.
+1895,2036,because you left us.,2346,COBB,245,because you left us.
+1896,2037, you're wrong.,2347,MAL,245, you're wrong.
+1897,2038,i'm not wrong.,2347,COBB,245,i'm not wrong.
+1898,2039,you're confused.,2347,MAL,245,you're confused.
+1899,2040,our children are here.,2347,MAL,245,our children are here.
+1900,2041,"and you'd like to see their faces again, wouldn't you",2348,MAL,245,"and you'd like to see their faces again, wouldn't you"
+1901,2042,"yes, but i'm gonna see them up above, mal.",2350,COBB,245,"yes, but i'm gonna see them up above, mal."
+1902,2047,up above,2358,MAL,249,up above
+1903,2048,listen to yourself.,2359,MAL,249,listen to yourself.
+1904,2049,these are our children.,2359,MAL,249,these are our children.
+1905,2050,watch.,2360,MAL,249,watch.
+1906,2052,james phillipa,2361,MAL,249,james phillipa
+1907,2053,"don't do this, mal.",2362,COBB,249,"don't do this, mal."
+1908,2054,please.,2362,COBB,249,please.
+1909,2055,those aren't my children.,2362,COBB,249,those aren't my children.
+1910,2056,"you keep telling yourself that, but you don't believe it.",2363,MAL,249,"you keep telling yourself that, but you don't believe it."
+1911,2057," no, i know it.",2364,COBB,249," no, i know it."
+1912,2058, what if you're wrong,2364,MAL,249, what if you're wrong
+1913,2059,what if i'm what's real,2366,MAL,249,what if i'm what's real
+1914,2060,you keep telling yourself what you know.,2367,MAL,249,you keep telling yourself what you know.
+1915,2061,but what do you believe,2369,MAL,249,but what do you believe
+1916,2062,what do you feel,2369,MAL,249,what do you feel
+1917,2063,guilt.,2370,COBB,249,guilt.
+1918,2064,"i feel guilt, mal.",2370,COBB,249,"i feel guilt, mal."
+1919,2065,"and no matter what i do, no matter how hopeless i am...",2370,COBB,249,"and no matter what i do, no matter how hopeless i am..."
+1920,2066,"...no matter how confused, that guilt is always there...",2370,COBB,249,"...no matter how confused, that guilt is always there..."
+1921,2067,...reminding me of the truth.,2371,COBB,249,...reminding me of the truth.
+1922,2068,what truth,2371,MAL,249,what truth
+1923,2069,that the idea that caused you to question your reality came from me.,2372,COBB,249,that the idea that caused you to question your reality came from me.
+1924,2070,you planted the idea in my mind,2373,MAL,249,you planted the idea in my mind
+1925,2071,what is she talking about,2374,ARIADNE,249,what is she talking about
+1926,2072,the reason i knew inception was possible was because i did it to her first.,2375,COBB,249,the reason i knew inception was possible was because i did it to her first.
+1927,2073, i did it to my own wife.,2376,COBB,249, i did it to my own wife.
+1928,2074, why,2376,ARIADNE W,249, why
+1929,2075,we were lost in here.,2378,COBB,249,we were lost in here.
+1930,2076,"i knew we needed to escape, but she wouldn't accept it.",2379,COBB,249,"i knew we needed to escape, but she wouldn't accept it."
+1931,2077,"she had locked something away, something deep inside.",2383,COBB,249,"she had locked something away, something deep inside."
+1932,2078,"a truth that she had once known, but chose to forget.",2383,COBB,249,"a truth that she had once known, but chose to forget."
+1933,2079,and she couldn't break free.,2385,COBB,249,and she couldn't break free.
+1934,2080,so i decided to search for it.,2387,COBB,249,so i decided to search for it.
+1935,2081,i went deep into the recess of her mind and found that secret place.,2388,COBB,249,i went deep into the recess of her mind and found that secret place.
+1936,2082,and i broke in...,2390,COBB,249,and i broke in...
+1937,2083,...and i planted an idea.,2391,COBB,249,...and i planted an idea.
+1938,2084,a simple little idea that would change everything.,2393,COBB,249,a simple little idea that would change everything.
+1939,2085,that her world wasn't real.,2396,COBB,249,that her world wasn't real.
+1940,2086,that death was the only escape.,2401,COBB (V.O.),249,that death was the only escape.
+1941,2087,you're waiting for a train.,2404,COBB,249,you're waiting for a train.
+1942,2089,a train that'll take you far away.,2407,COBB,249,a train that'll take you far away.
+1943,2090,you know where you hope this train will take you...,2407,COBB,249,you know where you hope this train will take you...
+1944,2091,...but you can't know for sure.,2409,COBB,249,...but you can't know for sure.
+1945,2092,yet it doesn't matter.,2411,COBB,249,yet it doesn't matter.
+1946,2093," now, tell me why",2413,COBB,249," now, tell me why"
+1947,2094, because you'll be together,2413,MAL,249, because you'll be together
+1948,2095,but i never knew that that idea would grow in her mind like a cancer...,2415,COBB,249,but i never knew that that idea would grow in her mind like a cancer...
+1949,2096,...that even after she woke...,2416,COBB,249,...that even after she woke...
+1950,2097,that even after you came back to reality...,2418,COBB,249,that even after you came back to reality...
+1951,2098,...that you'd continue to believe your world wasn't real.,2420,COBB,249,...that you'd continue to believe your world wasn't real.
+1952,2099,that death was the only escape.,2423,COBB,249,that death was the only escape.
+1953,2100,"mal, no",2425,COBB,249,"mal, no"
+1954,2101,jesus,2425,COBB,249,jesus
+1955,2102, you infected my mind.,2426,MAL,249, you infected my mind.
+1956,2103, i was trying to save you.,2426,COBB,249, i was trying to save you.
+1957,2104,you betrayed me.,2428,MAL,249,you betrayed me.
+1958,2105,but you can make amends.,2430,MAL,249,but you can make amends.
+1959,2106,you can still keep your promise.,2430,MAL,249,you can still keep your promise.
+1960,2107,"we can still be together, right here...",2430,MAL,249,"we can still be together, right here..."
+1961,2108,...in the world we built together.,2431,MAL,249,...in the world we built together.
+1962,2117,"cobb, we need to get fischer.",2468,ARIADNE,254,"cobb, we need to get fischer."
+1963,2118,you can't have him.,2469,MAL,254,you can't have him.
+1964,2119," lf i stay here, will you let him go",2469,COBB,254," lf i stay here, will you let him go"
+1965,2120, what are you talking about,2469,ARIADNE,254, what are you talking about
+1966,2121,fischer is on the porch.,2470,MAL,254,fischer is on the porch.
+1967,2122," go check he's alive, ariadne.",2470,COBB,254," go check he's alive, ariadne."
+1968,2123," cobb, you can't do this.",2470,ARIADNE,254," cobb, you can't do this."
+1969,2124,go check he's alive right now.,2472,COBB,254,go check he's alive right now.
+1970,2125,do it.,2472,COBB,254,do it.
+1971,2127,he's here,2480,ARIADNE,257,he's here
+1972,2128,"and it's time, but you have to come now",2480,ARIADNE,257,"and it's time, but you have to come now"
+1973,2129,"you take fischer with you, all right",2482,COBB,257,"you take fischer with you, all right"
+1974,2130, you can't stay here to be with her.,2482,ARIADNE,257, you can't stay here to be with her.
+1975,2131,i'm not.,2484,COBB,257,i'm not.
+1976,2132,saito's dead by now.,2484,COBB,257,saito's dead by now.
+1977,2133,that means he's down here somewhere.,2486,COBB,257,that means he's down here somewhere.
+1978,2134,that means i have to find him.,2486,COBB,257,that means i have to find him.
+1979,2135,"i can't stay with her anymore, because she doesn't exist.",2487,COBB,257,"i can't stay with her anymore, because she doesn't exist."
+1980,2136,i'm the only thing you do believe in anymore.,2488,MAL,257,i'm the only thing you do believe in anymore.
+1981,2137,no.,2489,COBB,257,no.
+1982,2138,i wish.,2489,COBB,257,i wish.
+1983,2139,"i wish more than anything, but...",2489,COBB,257,"i wish more than anything, but..."
+1984,2140,...i can't imagine you with all your complexity...,2490,COBB,257,...i can't imagine you with all your complexity...
+1985,2141,"...all your perfection, all your imperfection.",2491,COBB,257,"...all your perfection, all your imperfection."
+1986,2142, you all right,2492,ARIADNE,257, you all right
+1987,2143, yeah.,2492,FISCHER,257, yeah.
+1988,2144,look at you.,2493,COBB,257,look at you.
+1989,2145,you're just a shade.,2494,COBB,257,you're just a shade.
+1990,2146,you're just a shade of my real wife.,2494,COBB,257,you're just a shade of my real wife.
+1991,2147,"and you were the best that i could do, but...",2496,COBB,257,"and you were the best that i could do, but..."
+1992,2148,"...l'm sorry, you're just not good enough.",2496,COBB,257,"...l'm sorry, you're just not good enough."
+1993,2149,does this feel real,2498,MAL,257,does this feel real
+1994,2151, what are you doing,2502,COBB,257, what are you doing
+1995,2152, improvising.,2502,ARIADNE,257, improvising.
+1996,2154,"no, no, no",2511,COBB,257,"no, no, no"
+1997,2155,"in there, now.",2512,EAMES,258,"in there, now."
+1998,2156,"go, go, go.",2512,COBB,260,"go, go, go."
+1999,2157,i was dis...,2527,FATHER,263,i was dis...
+2000,2158,i was dis... disa...,2528,FATHER,263,i was dis... disa...
+2001,2159," i know, dad.",2529,FISCHER,263," i know, dad."
+2002,2160, dis...,2529,FATHER,263, dis...
+2003,2161,i know you were disappointed...,2529,FISCHER,263,i know you were disappointed...
+2004,2162,...i couldn't be you.,2529,FISCHER,263,...i couldn't be you.
+2005,2163,no.,2530,FATHER,263,no.
+2006,2164,"no, no, no.",2530,FATHER,263,"no, no, no."
+2007,2165,i was disappointed...,2530,FATHER,263,i was disappointed...
+2008,2166,...that you tried.,2530,FATHER,263,...that you tried.
+2009,2168,what,2541,FISCHER,269,what
+2010,2169,"come on, come on.",2544,EAMES,269,"come on, come on."
+2011,2170,dad,2552,FISCHER,269,dad
+2012,2172,"that's the kick, ariadne",2573,COBB,269,"that's the kick, ariadne"
+2013,2173,you have to go now,2573,COBB,269,you have to go now
+2014,2174,don't lose yourself,2586,ARIADNE,269,don't lose yourself
+2015,2175,find saito and bring him back,2586,ARIADNE,269,find saito and bring him back
+2016,2176,i will,2588,COBB,269,i will
+2017,2177,you remember when you asked me to marry you,2612,MAL,271,you remember when you asked me to marry you
+2018,2178,yes.,2613,COBB,271,yes.
+2019,2179,you said you dreamt that we'd grow old together.,2614,MAL,271,you said you dreamt that we'd grow old together.
+2020,2180,but we did.,2615,COBB,271,but we did.
+2021,2181,we did.,2617,COBB,271,we did.
+2022,2182,you don't remember,2617,COBB,271,you don't remember
+2023,2183,i miss you more than i can bear...,2619,COBB,271,i miss you more than i can bear...
+2024,2184,...but we had our time together.,2620,COBB,271,...but we had our time together.
+2025,2185,and i have to let you go.,2621,COBB,271,and i have to let you go.
+2026,2186,i have to let you go.,2622,COBB,271,i have to let you go.
+2027,2187,"i'm sorry, robert.",2632,BROWNING,277,"i'm sorry, robert."
+2028,2189,"you know, the will means that dad wanted me to be my own man...",2638,FISCHER,277,"you know, the will means that dad wanted me to be my own man..."
+2029,2190,...not just to live for him.,2638,FISCHER,277,...not just to live for him.
+2030,2191,"that's what i'm gonna do, uncle peter.",2638,FISCHER,277,"that's what i'm gonna do, uncle peter."
+2031,2192,what happened,2639,ARTHUR,278,what happened
+2032,2193, cobb stayed.,2639,ARIADNE,278, cobb stayed.
+2033,2194, with mal,2639,ARTHUR,278, with mal
+2034,2195,"no, to find saito.",2640,ARIADNE,278,"no, to find saito."
+2035,2196,he'll be lost.,2641,ARTHUR,278,he'll be lost.
+2036,2197,"no, he'll be all right.",2643,ARIADNE,278,"no, he'll be all right."
+2037,2198,have you come to kill me,2648,SAITO,280,have you come to kill me
+2038,2199,i'm waiting for someone.,2650,SAITO,280,i'm waiting for someone.
+2039,2200,someone from a halfremembered dream.,2652,COBB,280,someone from a halfremembered dream.
+2040,2201,cobb,2652,SAITO,280,cobb
+2041,2203,impossible.,2652,SAITO,280,impossible.
+2042,2204,we were young men together.,2653,SAITO,280,we were young men together.
+2043,2205,i'm an old man.,2653,SAITO,280,i'm an old man.
+2044,2206,filled with regret.,2654,COBB,280,filled with regret.
+2045,2207,waiting to die alone.,2655,SAITO,280,waiting to die alone.
+2046,2208,i've come back for you.,2656,COBB,280,i've come back for you.
+2047,2209,to remind you of something.,2656,COBB,280,to remind you of something.
+2048,2210,something you once knew.,2656,COBB,280,something you once knew.
+2049,2211,that this world is not real.,2657,COBB,280,that this world is not real.
+2050,2212,to convince me to honor our arrangement,2659,SAITO,280,to convince me to honor our arrangement
+2051,2213,"to take a leap of faith, yes.",2660,COBB,280,"to take a leap of faith, yes."
+2052,2214,come back...,2662,COBB,280,come back...
+2053,2215,...so we can be young men together again.,2662,COBB,280,...so we can be young men together again.
+2054,2216,come back with me.,2664,COBB,280,come back with me.
+2055,2217,come back.,2664,COBB,280,come back.
+2056,2218,"hot towel, sir",2666,FLIGHT ATTENDANT (O.S.),281,"hot towel, sir"
+2057,2219,we'll be landing in los angeles in about 20 minutes.,2666,FLIGHT ATTENDANT,281,we'll be landing in los angeles in about 20 minutes.
+2058,2220,do you need immigration forms,2666,FLIGHT ATTENDANT,281,do you need immigration forms
+2059,2221,thank you.,2666,COBB,281,thank you.
+2060,2222,"hot towel, sir",2667,FLIGHT ATTENDANT,281,"hot towel, sir"
+2061,2223, no.,2667,FISCHER,281, no.
+2062,2224, do you need immigration forms,2667,FLIGHT ATTENDANT,281, do you need immigration forms
